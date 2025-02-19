@@ -4,10 +4,9 @@
 
 
 
-# Optimization and Simulation / Math / 3rd Semester of the Bachelor's Degree in Data Science and Artificial Intelligence at PUC-SP 2022 Under the guidance of Professor Daniel Rodrigues da Silva
+## Optimization and Simulation / Math 
 
-
-This Repo is focused on mathematical concepts, taught during the third semester of the Data Science and Artificial Intelligence bachelor's program at PUC-SP in 2022, under the instruction of Professor [Daniel Rodrigues da Silva]()
+### This Repo is focused on mathematical concepts, taught during the third semester of the Data Science and Artificial Intelligence bachelor's program at PUC-SP in 2022, under the instruction of Professor [Daniel Rodrigues da Silva]()
 
 
 <br>
