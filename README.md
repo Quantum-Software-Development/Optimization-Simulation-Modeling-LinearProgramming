@@ -31,12 +31,22 @@ Sim-opt combines simulation and optimization techniques to provide a comprehensi
 
 The key difference between sim-opt and other analytical tools is its ability to model the complexity and dynamics of real-world systems, including data uncertainty and variability[1]. This allows for the creation of more robust and adaptable plans[1].
 
-Sources
+
+
+## Sources
+
 [1] Simulação-otimização: como combiná-las na tomada de decisões e ... https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/
+
 [2] O que é otimização? - VirtualCAE https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/
-[3] [PDF] otimização em modelos de simulação: um estudo http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.pdf
+
+[3] [PDF] otimização em modelos de simulação: um estudo http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
+
 [4] SIMULAÇÃO-OTIMIZAÇÃO: PORQUE E COMO COMBINÁ-LAS? https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
+
 [5] [PDF] TUTORIAL CONVIDADO SIMULAÇÃO-OTIMIZAÇÃO: PORQUE E ... https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
+
 [6] [PDF] Modelos de Otimização e Simulação - DCA https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
+
 [7] Simulação e Otimização de processos: planejamento eficiente https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/
+
 [8] Modelagem de Simulação vs Otimização: Como Escolher - LinkedIn https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt
