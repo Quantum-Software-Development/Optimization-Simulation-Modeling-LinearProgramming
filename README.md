@@ -45,9 +45,9 @@ The key difference between sim-opt and other analytical tools is its ability to 
 
 <br>
 
-## ## Optimization Problem
+## Optimization Problem
 
-An optimization problem can be represented using the `optidef` package. For example:
+### An optimization problem can be represented using the `optidef` package. For example:
 
 $$
 \begin{aligned}
@@ -55,6 +55,7 @@ $$
     &\text{subject to } x \geq 0
 \end{aligned}
 $$
+
 
 ```latex
 \begin{aligned}
@@ -62,6 +63,28 @@ $$
     &\text{subject to } x \geq 0
 \end{aligned}
 ```
+
+<br>
+
+
+## Simplex Algorithm
+
+The simplex algorithm is used to solve linear problems. Although there isn't a specific command for it, we can describe it in text or use tables to show the steps of the algorithm.
+
+### Matrix
+
+A matrix can be created using the `amsmath` package:
+
+$$
+A =
+\begin{bmatrix}
+a_{11} & a_{12} \\
+a_{21} & a_{22}
+\end{bmatrix}
+$$
+
+
+
 
 
 
