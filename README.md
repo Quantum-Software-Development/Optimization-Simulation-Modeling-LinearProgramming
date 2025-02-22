@@ -71,3 +71,27 @@ The key difference between sim-opt and other analytical tools is its ability to 
 [7] Simulação e Otimização de processos: planejamento eficiente https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/
 
 [8] Modelagem de Simulação vs Otimização: Como Escolher - LinkedIn https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt
+
+
+
+## [Contribute]()
+
+Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
+
+### [How to Contribute]()
+
+Any contributions are highly appreciated.  You can contribute in two ways:
+
+   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+
+   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
+
+
+### [Main Contributors]() 
+
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+
+
+#
+
+###### <p align="center"> Copyright 2025 Quantum Software Development. Code released under the [MIT License license.](https://github.com/Quantum-Software-Development/Math/blob/3bf8270ca09d3848f2bf22f9ac89368e52a2fb66/LICENSE)
