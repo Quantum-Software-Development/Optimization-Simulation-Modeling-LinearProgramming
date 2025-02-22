@@ -1,16 +1,17 @@
 
 <br>
 
-## Integrated Mathematics Project - 3rd Semester Data Science and Artificial Intelligence PUC-SP
-###  [Optimization / Simulation / Manipulation / Linear Programming / Simplex Algorithm / Matrix / Mathematics]()
-
-<br><br>
+#  <p align="center">  Integrated Mathematics Project
+###  <p align="center">  [Optimization / Simulation / Manipulation / Linear Programming / Simplex Algorithm / Matrix / Mathematics]()
 
 
+<br>
 
+<!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
+### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
+<br>
 
-<br><br>
 
 ### This Repo is focused on mathematical concepts, taught during the third semester of the Data Science and Artificial Intelligence bachelor's program at PUC-SP in 2022, under the instruction of Professor [Daniel Rodrigues da Silva]()
 
