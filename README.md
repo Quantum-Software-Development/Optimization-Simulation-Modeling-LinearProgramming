@@ -1,11 +1,11 @@
 
 <br>
 
-# Integrated Mathematics Project - 3rd Semester Data Science and Artificial Intelligence PUC-SP
+## Integrated Mathematics Project - 3rd Semester Data Science and Artificial Intelligence PUC-SP
 
 <br>
 
-## <p align="center"> Optimization and Simulation / Math 
+### <p align="center"> Optimization and Simulation / Math 
 
 #### This Repo is focused on mathematical concepts, taught during the third semester of the Data Science and Artificial Intelligence bachelor's program at PUC-SP in 2022, under the instruction of Professor [Daniel Rodrigues da Silva]()
 
