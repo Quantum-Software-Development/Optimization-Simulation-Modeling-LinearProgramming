@@ -2,7 +2,7 @@
 <br>
 
 #  <p align="center">  Integrated Mathematics Project
-###  <p align="center">  [Optimization / Simulation / Manipulation / Linear Programming / Simplex Algorithm / Matrix / Mathematics]()
+###  <p align="center">  [Optimization / Simulation / Modelin / Linear Programming / Simplex Algorithm / Matrix / Mathematics]()
 
 
 <br>
