@@ -1,7 +1,9 @@
 
 <br>
 
+# Integrated Mathematics Project - 3rd Semester Data Science and Artificial Intelligence PUC-SP
 
+<br>
 
 ## <p align="center"> Optimization and Simulation / Math 
 
