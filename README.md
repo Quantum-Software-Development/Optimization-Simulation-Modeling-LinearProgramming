@@ -97,10 +97,6 @@ a_{21} & a_{22}
 
 <br>
 
-## [Mathematics]()
-
-Mathematical expressions are easily written in LaTeX. For example, a simple equation like \(E=mc^2\) is written as `$E=mc^2$`.
-
 ### [Simulation]()
 
 Simulation generally involves complex mathematical models that can be described using differential or integral equations.
