@@ -49,16 +49,18 @@ The key difference between sim-opt and other analytical tools is its ability to 
 
 An optimization problem can be represented using the `optidef` package. For example:
 
-$\begin{mini*}
-{x}{f(x)}{}{}
-\addConstraint{x \geq 0}{}
-\end{mini*}$
+$$
+\begin{aligned}
+    &\min_{x} f(x) \\
+    &\text{subject to } x \geq 0
+\end{aligned}
+$$
 
 ```latex
-\begin{mini*}
-{x}{f(x)}{}{}
-\addConstraint{x \geq 0}{}
-\end{mini*}
+\begin{aligned}
+    &\min_{x} f(x) \\
+    &\text{subject to } x \geq 0
+\end{aligned}
 ```
 
 
