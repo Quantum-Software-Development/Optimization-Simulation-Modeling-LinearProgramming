@@ -45,6 +45,26 @@ The key difference between sim-opt and other analytical tools is its ability to 
 
 <br>
 
+## ## Optimization Problem
+
+An optimization problem can be represented using the `optidef` package. For example:
+
+$\begin{mini*}
+{x}{f(x)}{}{}
+\addConstraint{x \geq 0}{}
+\end{mini*}$
+
+```latex
+\begin{mini*}
+{x}{f(x)}{}{}
+\addConstraint{x \geq 0}{}
+\end{mini*}
+```
+
+
+
+<br>
+
 ## [Contribute]()
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
