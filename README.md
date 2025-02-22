@@ -43,18 +43,28 @@ Sim-opt combines simulation and optimization techniques to provide a comprehensi
 
 The key difference between sim-opt and other analytical tools is its ability to model the complexity and dynamics of real-world systems, including data uncertainty and variability[1]. This allows for the creation of more robust and adaptable plans[1].
 
+<br>
+
+## [Contribute]()
+
+Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
+
+### [How to Contribute]()
+
+Any contributions are highly appreciated.  You can contribute in two ways:
+
+   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
+
+   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
 
 
+### [Main Contributors]() 
 
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) 
 
+<br>
 
-
-
-
-
-
-
-## Sources
+## [Sources]()
 
 [1] Simulação-otimização: como combiná-las na tomada de decisões e ... https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/
 
@@ -72,24 +82,6 @@ The key difference between sim-opt and other analytical tools is its ability to 
 
 [8] Modelagem de Simulação vs Otimização: Como Escolher - LinkedIn https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt
 
-
-
-## [Contribute]()
-
-Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
-
-### [How to Contribute]()
-
-Any contributions are highly appreciated.  You can contribute in two ways:
-
-   1. Create an issue and tell us your idea 💡. Make sure that you use the new idea label in this case;
-
-   2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹★🔭๋࣭
-
-
-### [Main Contributors]() 
-
-- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 
 
 #
