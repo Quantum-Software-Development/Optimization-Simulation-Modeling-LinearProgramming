@@ -135,21 +135,15 @@ $Z = 20x_1 + 12.5x_2\$
 ### Constraints:
 Each kilogram of mix A contains half a kilogram of cherry chocolates, and each kilogram of mix B contains one-third of a kilogram of cherry chocolates. Therefore, the total amount of cherry chocolates used is:
 
-\[
-\frac{x_1}{2} + \frac{x_2}{3} \leq 130
-\]
+$\frac{x_1}{2} + \frac{x_2}{3} \leq 130\$
 
 Each kilogram of mix A contains half a kilogram of mint chocolates, and each kilogram of mix B contains two-thirds of a kilogram of mint chocolates. Therefore, the total amount of mint chocolates used is:
 
-\[
-\frac{x_1}{2} + \frac{2x_2}{3} \leq 170
-\]
+$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170\$
 
 Additionally, we have the non-negativity constraints:
 
-\[
-x_1 \geq 0, \quad x_2 \geq 0
-\]
+$\x_1 \geq 0, \quad x_2 \geq 0\$
 
 ### Mathematically Modeled Problem:
 
