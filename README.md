@@ -112,8 +112,11 @@ y(t) = A e^{kt}
 
 ## [Modeling - Writing Mathematical Models]()
 
+### [Example 1](): Carpentry
 
-### Solution: Mathematical Modeling of the Problem**
+A carpentry produces two products: a table and a cabinet. To produce a table, 2 square meters of wood and 2 hours of labor are used, and to produce a cabinet, 3 square meters of wood and 1 hour of labor are used. Knowing that the availability of wood is 12 square meters and the availability of labor is 8 hours, determine how much of each product should be produced to maximize the total contribution margin (profit) of the company, given that each table sold provides a margin of R$ 4.00 and each cabinet sold provides a margin of R$ 1.00.
+
+<br>
 
 #### **Decision Variables:**
 
