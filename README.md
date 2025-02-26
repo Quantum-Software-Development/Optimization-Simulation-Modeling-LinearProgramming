@@ -158,6 +158,8 @@ $\frac{x_1}{2} + \frac{2x_2}{3} \leq 170\$
 $x_1 \geq 0, \quad x_2 \geq 0\$
 
 
+<br>
+
 
 
 
