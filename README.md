@@ -130,7 +130,7 @@ Let:
 ### Objective Function:
 Mix A is sold for R$ 20 per kg, and mix B is sold for R$ 12.50 per kg. Therefore, the objective function to be maximized is:
 
-$\$Z = 20x_1 + 12.5x_2\$
+$Z = 20x_1 + 12.5x_2\$
 
 ### Constraints:
 Each kilogram of mix A contains half a kilogram of cherry chocolates, and each kilogram of mix B contains one-third of a kilogram of cherry chocolates. Therefore, the total amount of cherry chocolates used is:
