@@ -114,24 +114,65 @@ y(t) = A e^{kt}
 
 ### [Example 1](): Carpentry
 
-A carpentry produces two products: a table and a cabinet. To produce a table, 2 square meters of wood and 2 hours of labor are used, and to produce a cabinet, 3 square meters of wood and 1 hour of labor are used. Knowing that the availability of wood is 12 square meters and the availability of labor is 8 hours, determine how much of each product should be produced to maximize the total contribution margin (profit) of the company, given that each table sold provides a margin of R$ 4.00 and each cabinet sold provides a margin of R$ 1.00.
+# Example 3: Sales Profit
 
-<br>
+A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with cherry filling and 170 kg with mint filling. He decides to sell the stock in the form of two different assorted packages. One package contains a mix with half the weight in cherry chocolates and half in mint chocolates and sells for R$ 20.00 per kg. The other package contains a mix of one-third cherry chocolates and two-thirds mint chocolates and sells for R$ 12.50 per kg. How many kilograms of each mix should the seller prepare to maximize his sales profit?
 
-#### **Decision Variables:**
+## Solution
 
-- Number of tables to be produced: $x_1$
-- Number of cabinets to be produced: $x_2$
+Let:
+- **A** be the mix with half cherry and half mint chocolates, and let **x₁** be the number of kilograms prepared of this mix.
+- **B** be the mix with one-third cherry and two-thirds mint chocolates, and let **x₂** be the number of kilograms prepared of this mix.
 
-  <br>
+### Decision Variables:
+- \( x_1 \) is the quantity (in kg) of mix A prepared.
+- \( x_2 \) is the quantity (in kg) of mix B prepared.
 
-#### **Objective Function:**
+### Objective Function:
+Mix A is sold for R$ 20 per kg, and mix B is sold for R$ 12.50 per kg. Therefore, the objective function to be maximized is:
 
-- Each table gives a unit profit of 4 reais, and each cabinet gives a profit of 1 real. Therefore, the total profit obtained in reais will be:
-  
-$$z = f(x_1, x_2) = 4x_1 + x_2$$
+\[
+Z = 20x_1 + 12.5x_2
+\]
 
-- In this case, we want to maximize the objective function.
+### Constraints:
+Each kilogram of mix A contains half a kilogram of cherry chocolates, and each kilogram of mix B contains one-third of a kilogram of cherry chocolates. Therefore, the total amount of cherry chocolates used is:
+
+\[
+\frac{x_1}{2} + \frac{x_2}{3} \leq 130
+\]
+
+Each kilogram of mix A contains half a kilogram of mint chocolates, and each kilogram of mix B contains two-thirds of a kilogram of mint chocolates. Therefore, the total amount of mint chocolates used is:
+
+\[
+\frac{x_1}{2} + \frac{2x_2}{3} \leq 170
+\]
+
+Additionally, we have the non-negativity constraints:
+
+\[
+x_1 \geq 0, \quad x_2 \geq 0
+\]
+
+### Mathematically Modeled Problem:
+
+\[
+\text{Maximize } Z = 20x_1 + 12.5x_2
+\]
+
+Subject to:
+
+\[
+\frac{x_1}{2} + \frac{x_2}{3} \leq 130
+\]
+
+\[
+\frac{x_1}{2} + \frac{2x_2}{3} \leq 170
+\]
+
+\[
+x_1 \geq 0, \quad x_2 \geq 0
+\]
 
 
 
