@@ -143,7 +143,7 @@ $\frac{x_1}{2} + \frac{2x_2}{3} \leq 170\$
 
 Additionally, we have the non-negativity constraints:
 
-$\x_1 \geq 0, \quad x_2 \geq 0\$
+$x_1 \geq 0, \quad x_2 \geq 0\$
 
 ### Mathematically Modeled Problem:
 
