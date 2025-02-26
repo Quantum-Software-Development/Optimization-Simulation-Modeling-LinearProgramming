@@ -113,18 +113,12 @@ y(t) = A e^{kt}
 ## [Modeling - Writing Mathematical Models]()
 
 
-Claro, aqui está a tradução para o inglês e a equação em LaTeX para Markdown:
-
----
-
-## English Translation
-
 ### Solution: Mathematical Modeling of the Problem**
 
 #### **Decision Variables:**
 
-- Number of tables to be produced: $$x_1$$
-- Number of cabinets to be produced: $$x_2$$
+- Number of tables to be produced: $x_1$
+- Number of cabinets to be produced: $x_2$
 
   <br>
 
