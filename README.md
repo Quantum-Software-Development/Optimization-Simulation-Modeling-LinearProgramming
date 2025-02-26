@@ -113,6 +113,32 @@ y(t) = A e^{kt}
 ## [Modeling - Writing Mathematical Models]()
 
 
+Claro, aqui está a tradução para o inglês e a equação em LaTeX para Markdown:
+
+---
+
+## English Translation
+
+### Solution: Mathematical Modeling of the Problem**
+
+#### **Decision Variables:**
+
+- Number of tables to be produced: $$x_1$$
+- Number of cabinets to be produced: $$x_2$$
+
+  <br>
+
+#### **Objective Function:**
+
+- Each table gives a unit profit of 4 reais, and each cabinet gives a profit of 1 real. Therefore, the total profit obtained in reais will be:
+  
+$$z = f(x_1, x_2) = 4x_1 + x_2$$
+
+- In this case, we want to maximize the objective function.
+
+
+
+
 
 
 
