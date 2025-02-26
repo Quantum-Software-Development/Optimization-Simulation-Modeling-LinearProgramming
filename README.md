@@ -49,8 +49,6 @@ The key difference between sim-opt and other analytical tools is its ability to 
 
 ### An optimization problem can be represented using the `optidef` package. For example:
 
-<br>
-
 $$
 \begin{aligned}
     &\min_{x} f(x) \\
@@ -77,8 +75,6 @@ The simplex algorithm is used to solve linear problems. Although there isn't a s
 
 A matrix can be created using the `amsmath` package:
 
-<br>
-
 $$
 A =
 \begin{bmatrix}
@@ -101,8 +97,6 @@ a_{21} & a_{22}
 
 Simulation generally involves complex mathematical models that can be described using differential or integral equations.
 
-<br>
-
 $$
 y(t) = A e^{kt}
 $$
@@ -112,10 +106,24 @@ y(t) = A e^{kt}
 ```
 <br>
 
-### This equation represents a simple solution to an ordinary differential equation.
+#### This equation represents a simple solution to an ordinary differential equation.
 
 <br>
 
+## [Modeling - Writing Mathematical Models]()
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br><br><br>
 
 ## [Contribute]()
 
