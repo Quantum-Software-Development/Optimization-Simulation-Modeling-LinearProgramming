@@ -112,23 +112,67 @@ y(t) = A e^{kt}
 
 ## [Modeling - Writing Mathematical Models]()
 
+### [Example 1](): Carpentry
 
-### Solution: Mathematical Modeling of the Problem**
+# Example 3: Sales Profit
 
-#### **Decision Variables:**
+A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with cherry filling and 170 kg with mint filling. He decides to sell the stock in the form of two different assorted packages. One package contains a mix with half the weight in cherry chocolates and half in mint chocolates and sells for R$ 20.00 per kg. The other package contains a mix of one-third cherry chocolates and two-thirds mint chocolates and sells for R$ 12.50 per kg. How many kilograms of each mix should the seller prepare to maximize his sales profit?
 
-- Number of tables to be produced: $x_1$
-- Number of cabinets to be produced: $x_2$
+## Solution
 
-  <br>
+Let:
+- **A** be the mix with half cherry and half mint chocolates, and let **x₁** be the number of kilograms prepared of this mix.
+- **B** be the mix with one-third cherry and two-thirds mint chocolates, and let **x₂** be the number of kilograms prepared of this mix.
 
-#### **Objective Function:**
+### Decision Variables:
+- \( x_1 \) is the quantity (in kg) of mix A prepared.
+- \( x_2 \) is the quantity (in kg) of mix B prepared.
 
-- Each table gives a unit profit of 4 reais, and each cabinet gives a profit of 1 real. Therefore, the total profit obtained in reais will be:
-  
-$$z = f(x_1, x_2) = 4x_1 + x_2$$
+### Objective Function:
+Mix A is sold for R$ 20 per kg, and mix B is sold for R$ 12.50 per kg. Therefore, the objective function to be maximized is:
 
-- In this case, we want to maximize the objective function.
+\[
+Z = 20x_1 + 12.5x_2
+\]
+
+### Constraints:
+Each kilogram of mix A contains half a kilogram of cherry chocolates, and each kilogram of mix B contains one-third of a kilogram of cherry chocolates. Therefore, the total amount of cherry chocolates used is:
+
+\[
+\frac{x_1}{2} + \frac{x_2}{3} \leq 130
+\]
+
+Each kilogram of mix A contains half a kilogram of mint chocolates, and each kilogram of mix B contains two-thirds of a kilogram of mint chocolates. Therefore, the total amount of mint chocolates used is:
+
+\[
+\frac{x_1}{2} + \frac{2x_2}{3} \leq 170
+\]
+
+Additionally, we have the non-negativity constraints:
+
+\[
+x_1 \geq 0, \quad x_2 \geq 0
+\]
+
+### Mathematically Modeled Problem:
+
+\[
+\text{Maximize } Z = 20x_1 + 12.5x_2
+\]
+
+Subject to:
+
+\[
+\frac{x_1}{2} + \frac{x_2}{3} \leq 130
+\]
+
+\[
+\frac{x_1}{2} + \frac{2x_2}{3} \leq 170
+\]
+
+\[
+x_1 \geq 0, \quad x_2 \geq 0
+\]
 
 
 
