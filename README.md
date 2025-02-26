@@ -147,9 +147,7 @@ $x_1 \geq 0, \quad x_2 \geq 0\$
 
 ### Mathematically Modeled Problem:
 
-\[
-\text{Maximize } Z = 20x_1 + 12.5x_2
-\]
+$\text{Maximize } Z = 20x_1 + 12.5x_2\$
 
 Subject to:
 
