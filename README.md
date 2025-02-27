@@ -170,7 +170,7 @@ $$
 Z = 3600 + 1500 = 5100
 $$
 
-Thus, the maximum profit achievable is **R$ 5,100**.
+Thus, the maximum profit achievable is [**R$ 5,100**]().
 
 
 
