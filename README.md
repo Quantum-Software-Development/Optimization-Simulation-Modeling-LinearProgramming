@@ -119,13 +119,16 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ### [Solution]():
 
-### Objective Function
+###  <p align="center"> Objective Function
 
-Maximize:
+ <p align="center"> Maximize:
 
-$Z = 20x_1 + 12.5x_2\$
+$$
+Z = 20x_1 + 12.5x_2
+$$
 
-### Subject to Constraints:
+
+### <p align="center"> Subject to Constraints:
 
 $$
 \begin{cases}
