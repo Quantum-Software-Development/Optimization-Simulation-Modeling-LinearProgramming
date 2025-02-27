@@ -119,6 +119,13 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ### [Solution]():
 
+Maximize:
+
+$
+Z = 20x_1 + 12.5x_2
+$
+
+
 <!--
 Let:
 - **A** be the mix with half cherry and half mint chocolates, and let **x₁** be the number of kilograms prepared of this mix.
