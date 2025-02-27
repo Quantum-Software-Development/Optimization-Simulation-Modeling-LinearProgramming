@@ -145,9 +145,7 @@ $$
 
 1. Express the cherry chocolate constraint:
    
-   $$
-   \frac{x_1}{2} + \frac{x_2}{3} \leq 130
-   $$
+   $$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
    
 2. Express the mint chocolate constraint:
    
