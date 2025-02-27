@@ -152,15 +152,15 @@ $$
  Solve the system using the **Simplex Method** or an optimization tool.
 
 
-### [Optimal Solution]():
+### Optimal Solution:
 
-### Solving the system yields:
+#### [Solving the system yields]():
 
 $$
 (x_1, x_2) = (180, 120)
 $$
 
-### Maximum Profit Calculation
+#### [Maximum Profit Calculation]()
 
 $$
 Z = 20(180) + 12.5(120)
