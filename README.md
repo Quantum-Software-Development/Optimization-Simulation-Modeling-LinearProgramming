@@ -149,9 +149,7 @@ $$
    
 2. Express the mint chocolate constraint:
    
-   $$
-   \frac{x_1}{2} + \frac{2x_2}{3} \leq 170
-   $$
+   $$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
    
  Solve the system using the **Simplex Method** or an optimization tool.
 
