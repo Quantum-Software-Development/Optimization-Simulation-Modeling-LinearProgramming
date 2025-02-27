@@ -119,6 +119,8 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ### [Solution]():
 
+### Objective Function
+
 Maximize:
 
 $Z = 20x_1 + 12.5x_2\$
