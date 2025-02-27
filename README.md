@@ -119,6 +119,7 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ## Solution
 
+<!--
 Let:
 - **A** be the mix with half cherry and half mint chocolates, and let **x₁** be the number of kilograms prepared of this mix.
 - **B** be the mix with one-third cherry and two-thirds mint chocolates, and let **x₂** be the number of kilograms prepared of this mix.
@@ -156,6 +157,7 @@ $\frac{x_1}{2} + \frac{x_2}{3} \leq 130\$
 $\frac{x_1}{2} + \frac{2x_2}{3} \leq 170\$
 
 $x_1 \geq 0, \quad x_2 \geq 0\$
+-->
 
 
 <br>
