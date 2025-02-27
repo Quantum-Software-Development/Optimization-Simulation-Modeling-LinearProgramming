@@ -121,9 +121,8 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 Maximize:
 
-$
-Z = 20x_1 + 12.5x_2
-$
+$Z = 20x_1 + 12.5x_2\$
+
 
 
 <!--
