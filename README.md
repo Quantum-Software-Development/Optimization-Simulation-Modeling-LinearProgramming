@@ -170,6 +170,8 @@ $$
 Z = 3600 + 1500 = 5100
 $$
 
+<br>
+
 Thus, the maximum profit achievable is [**R$ 5,100**]().
 
 
