@@ -151,6 +151,7 @@ $$
    
  Solve the system using the **Simplex Method** or an optimization tool.
 
+<br>
 
 ### Optimal Solution:
 
