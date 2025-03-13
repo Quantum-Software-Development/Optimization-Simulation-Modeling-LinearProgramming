@@ -43,9 +43,9 @@ Sim-opt combines simulation and optimization techniques to provide a comprehensi
 
 The key difference between sim-opt and other analytical tools is its ability to model the complexity and dynamics of real-world systems, including data uncertainty and variability[1]. This allows for the creation of more robust and adaptable plans[1].
 
-<br>
+<br><br>
 
-## [Optimization Problem]()
+## I- [Optimization Problem]()
 
 ### An optimization problem can be represented using the `optidef` package. For example:
 
@@ -108,9 +108,9 @@ y(t) = A e^{kt}
 
 #### This equation represents a simple solution to an ordinary differential equation.
 
-<br>
+<br><br>
 
-## [Modeling - Writing Mathematical Models]()
+## II- [Modeling - Writing Mathematical Models]()
 
 
 ### Example 1: [Maximizing Profit for a Chocolate Manufacturer]()
@@ -174,6 +174,23 @@ $$
 <br>
 
 Thus, the maximum profit achievable is [**R$ 5,100**]().
+
+
+<br><br>
+
+
+## III- Graphic Method for Linear Programming (LP)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
