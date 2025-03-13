@@ -196,6 +196,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
  
 - **Objective Function:** This is the linear function that we aim to maximize or minimize. For example:
 
+  $$\max/\min \quad Z$$ = $$c_1x_1 + c_2x_2$$
 
 
 
