@@ -186,6 +186,11 @@ Thus, the maximum profit achievable is [**R$ 5,100**]().
 The **graphical method** for solving simple linear programming (LP) problems involving **two decision variables**. The graphical method provides a visual way to understand the constraints, the feasible region, and how to find the optimal solution that either maximizes or minimizes the objective function.
 
 
+### Key Concepts
+
+- **Decision Variables:** These are the variables that we want to determine the values of to optimize the objective function (e.g., \(x_1\) and \(x_2\)).
+- **Objective Function:** This is the linear function that we aim to maximize or minimize. For example:
+
 
 
 
