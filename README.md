@@ -189,20 +189,20 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 ### [Key Concepts]():
 
-- **Decision Variables:** These are the variables that we want to determine the values of to optimize the ***[OBJECTIVE FUNCTION]()*** (e.g.):
+- **[Decision Variables]():** These are the variables that we want to determine the values of to optimize the ***[OBJECTIVE FUNCTION]()*** (e.g.):
 
    #### $$\(x_1\)$$ and $$\(x_2\)$$
 
 <br>
  
-- **Objective Function:** This is the linear function that we aim to maximize or minimize. For example:
+- **[Objective Function]():** This is the linear function that we aim to maximize or minimize. For example:
 
   $$\max/\min \quad Z$$ = $$c_1x_1 + c_2x_2$$
 
   
 <br>
 
-- **Constraints:** These are linear inequalities or equalities that restrict the values the decision variables can take.
+- **[Constraints]():** These are linear inequalities or equalities that restrict the values the decision variables can take.
   - Equality constraint:
 
 
