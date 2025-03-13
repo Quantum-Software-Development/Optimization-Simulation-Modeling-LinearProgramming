@@ -206,6 +206,9 @@ The **graphical method** for solving simple linear programming (LP) problems inv
   - Equality constraint:
 
 
+     #### $$a_{i1}x_1 + a_{i2}x_2$$ = $$b_i$$
+
+
 
 
 
