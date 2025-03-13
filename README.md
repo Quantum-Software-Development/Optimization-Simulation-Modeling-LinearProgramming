@@ -199,6 +199,13 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
   $$\max/\min \quad Z$$ = $$c_1x_1 + c_2x_2$$
 
+  
+<br>
+
+- **Constraints:** These are linear inequalities or equalities that restrict the values the decision variables can take.
+  - Equality constraint:
+
+
 
 
 
