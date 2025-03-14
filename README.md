@@ -35,13 +35,13 @@ Sim-opt combines simulation and optimization techniques to provide a comprehensi
 
 [**How to Implement Optimization in Simulation Models**]()
 
-1.  **Define decision variables:** Identify the variables that affect the simulation model's outputs and will be tested by the optimization algorithm[3].
-2.  **Define variable types and limits:** Determine whether each decision variable is real or integer and set lower and upper limits. The optimization algorithm will search for solutions within these limits[3].
-3.  **Define the objective function:** Establish a function to evaluate the solutions tested by the algorithm. This function can be designed to minimize, maximize, or use both types of variables, depending on the study's objectives[3].
-4.  **Select population size:** Choose the number of solutions for the evolutionary algorithm. The population size affects the reliability and time required for the search. Also, define other parameters such as the required precision, significance level, and number of replications[3].
-5.  **Analyze solutions:** After the search, analyze the solutions found. Compare all solutions based on the objective function to identify the best and other competitive solutions[3].
+1.  **[Define decision variables]():** Identify the variables that affect the simulation model's outputs and will be tested by the optimization algorithm[3].
+2.  **[Define variable types and limits]():** Determine whether each decision variable is real or integer and set lower and upper limits. The optimization algorithm will search for solutions within these limits[3].
+3.  **[Define the objective function]():** Establish a function to evaluate the solutions tested by the algorithm. This function can be designed to minimize, maximize, or use both types of variables, depending on the study's objectives[3].
+4.  **[Select population size]():** Choose the number of solutions for the evolutionary algorithm. The population size affects the reliability and time required for the search. Also, define other parameters such as the required precision, significance level, and number of replications[3].
+5.  **[Analyze solutions]():** After the search, analyze the solutions found. Compare all solutions based on the objective function to identify the best and other competitive solutions[3].
 
-The key difference between sim-opt and other analytical tools is its ability to model the complexity and dynamics of real-world systems, including data uncertainty and variability[1]. This allows for the creation of more robust and adaptable plans[1].
+The [key difference]() between sim-opt and other analytical tools is its [ability to model the complexity and dynamics of real-world systems](), including data uncertainty and variability[1]. This allows for the creation of more robust and adaptable plans[1].
 
 <br><br>
 
