@@ -321,7 +321,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 [3]Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
 
-[4] SIMULAÇÃO-OTIMIZAÇÃO: PORQUE E COMO COMBINÁ-LAS? https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
+[4] Simulation-Optimization: Why and How to Combine Them? https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
 
 [5] [PDF] TUTORIAL CONVIDADO SIMULAÇÃO-OTIMIZAÇÃO: PORQUE E ... https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
 
