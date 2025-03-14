@@ -319,7 +319,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 [2] What is optimization? - VirtualCAE https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/
 
-[3] [PDF] otimização em modelos de simulação: um estudo http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
+[3]Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
 
 [4] SIMULAÇÃO-OTIMIZAÇÃO: PORQUE E COMO COMBINÁ-LAS? https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
 
