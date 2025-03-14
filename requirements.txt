@@ -17,7 +17,7 @@ scikit-learn==1.6.1
 
 # Machine Learning Libraries:
 tensorflow==2.18.0
-keras==3.8.0
+keras==3.9.0
 
 # Natural Language Processing Libraries:
 nltk==3.9.1
