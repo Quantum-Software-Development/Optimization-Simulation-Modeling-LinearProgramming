@@ -239,6 +239,11 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 - **[Optimal Solution]():** A feasible solution that yields the best (maximum for maximization problems, minimum for minimization problems) value of the objective function.
 
 
+<br>
+
+
+## Steps to Solve Graphically
+
 
 
 
