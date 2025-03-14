@@ -315,15 +315,15 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 ## [Sources]()
 
-[1] Simulation-optimization: how to combine them in decision-making and ... https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/
+[1] Simulation-optimization: how to combine them in decision-making and ... - https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/
 
 [2] What is optimization? - VirtualCAE https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/
 
-[3]Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
+[3] Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
 
-[4] Simulation-Optimization: Why and How to Combine Them? https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
+[4] Simulation-Optimization: Why and How to Combine Them? -  https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
 
-[5] [PDF] TUTORIAL CONVIDADO SIMULAÇÃO-OTIMIZAÇÃO: PORQUE E ... https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
+[5] Invited Tutorial: Simulation-Optimization – Why and ... -  https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
 
 [6] [PDF] Modelos de Otimização e Simulação - DCA https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
 
