@@ -25,15 +25,19 @@ Constrained and unconstrained optimization. Linear Programming: formulation, geo
 
 Optimization and simulation are two key areas in Operations Research, used for problem-solving and decision-making, but they approach these tasks differently[4][5]. Simulation creates a virtual model to analyze a system's behavior under various conditions, allowing for experimentation by varying parameters[1]. Optimization, on the other hand, employs mathematical algorithms to identify the best configuration of these parameters, aiming to maximize or minimize a specific objective, such as reducing costs or increasing efficiency[1][2].
 
-**Sim-Opt (Simulation-Optimization)**
+**[Sim-Opt]() (Simulation-Optimization)**
 Sim-opt combines simulation and optimization techniques to provide a comprehensive and dynamic understanding of a system[1]. This approach integrates real-world uncertainties with the search for ideal solutions[1]. By simulating the impact of each parameter and comparing it to an ideal scenario, sim-opt helps identify the factors that most influence a system's performance, leading to more strategic decisions[1].
 
-[**Benefits of Sim-Opt**]()
+<br>
+
+**[Benefits]() of Sim-Opt**
 *   **[Analyzing uncertain scenarios]():** Sim-opt evaluates the impact of unpredictable events and helps plan strategies to manage risks[1].
 *   **[Optimizing processes]():** It identifies bottlenecks and opportunities for improvement and defines the best practices for various situations[1].
 *   **[Making informed decisions]():** Sim-opt bases decisions on data and simulations, reducing uncertainty and the risk of errors[1].
 
-[**How to Implement Optimization in Simulation Models**]()
+<br>
+
+**[How to Implement Optimization]() in Simulation Models**
 
 1.  **[Define decision variables]():** Identify the variables that affect the simulation model's outputs and will be tested by the optimization algorithm[3].
 2.  **[Define variable types and limits]():** Determine whether each decision variable is real or integer and set lower and upper limits. The optimization algorithm will search for solutions within these limits[3].
