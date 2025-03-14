@@ -323,9 +323,9 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 [4] Simulation-Optimization: Why and How to Combine Them? -  https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
 
-[5] Invited Tutorial: Simulation-Optimization – Why and ... -  https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
+[5] Invited Tutorial: Simulation-Optimization – Why and... -  https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
 
-[6] [PDF] Modelos de Otimização e Simulação - DCA https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
+[6] Optimization and Simulation Models / DCA / Unicamp - https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
 
 [7] Simulação e Otimização de processos: planejamento eficiente https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/
 
