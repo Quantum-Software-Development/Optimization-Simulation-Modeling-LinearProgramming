@@ -16,7 +16,7 @@ scipy==1.15.2
 scikit-learn==1.6.1
 
 # Machine Learning Libraries:
-tensorflow==2.18.0
+tensorflow==2.18.1
 keras==3.8.0
 
 # Natural Language Processing Libraries:
