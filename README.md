@@ -329,7 +329,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 - [7]() Process Simulation and Optimization: Efficient Planning -  https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/
 
-- [8]() Modelagem de Simulação vs Otimização: Como Escolher - LinkedIn https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt
+- [8]() Simulation Modeling vs Optimization: How to Choose - LinkedIn - https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt
 
 
 
