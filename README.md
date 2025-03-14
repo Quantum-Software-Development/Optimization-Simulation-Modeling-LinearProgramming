@@ -317,7 +317,7 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 [1] Simulation-optimization: how to combine them in decision-making and ... https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/
 
-[2] O que é otimização? - VirtualCAE https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/
+[2] What is optimization? - VirtualCAE https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/
 
 [3] [PDF] otimização em modelos de simulação: um estudo http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
 
