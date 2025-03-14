@@ -231,7 +231,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
     <br>
 
 
-- **[Feasible Solution]():** A solution \((x_1, x_2)\) that satisfies all the constraints of the problem.
+- **[Feasible Solution]():** A solution $\(x_1, x_2)\$ that satisfies all the constraints of the problem.
 - **[Feasible Region]():** The set of all feasible solutions. Graphically, this is a subregion of the plane formed by the intersection of the regions defined by the constraints. The feasible region is often a **convex polygon**.
 - **[Boundary Line]():** Each equality constraint or the equality part of an inequality constraint represents a straight line in the graph.
 - **[Semiplane]():** Each inequality constraint defines a half-plane on one side of its boundary line, including the line itself. The feasible region is the intersection of these semiplanes.
