@@ -51,7 +51,7 @@ The [key difference]() between sim-opt and other analytical tools is its [abilit
 
 <br><br>
 
-## I- [Optimization Problem]()
+## I- Example of a [Optimization Problem]()
 
 ### An optimization problem can be represented using the `optidef` package. For example:
 
