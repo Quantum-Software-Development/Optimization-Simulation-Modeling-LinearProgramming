@@ -246,6 +246,8 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 1. **[Plot the Constraints]():** For each constraint, treat it as an equality and plot the corresponding straight line on the Cartesian plane $\(x_1\)$ on the horizontal axis, $\(x_2\)$ on the vertical axis.
 
+2. **[Identify the Feasible Region]():** For each inequality constraint, determine which side of the line satisfies the inequality. This can be done by testing a point (e.g., the origin \((0,0)\) if it's not on the line) in the inequality. 
+
 
 
 
