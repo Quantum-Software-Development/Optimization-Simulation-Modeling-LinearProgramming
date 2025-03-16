@@ -244,7 +244,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 ## Steps to Solve Graphically
 
-1. **[Plot the Constraints]():** For each constraint, treat it as an equality and plot the corresponding straight line on the Cartesian plane $\(x_1\)$ on the horizontal axis, $\(x_2\)$ on the vertical axis).
+1. **[Plot the Constraints]():** For each constraint, treat it as an equality and plot the corresponding straight line on the Cartesian plane $\(x_1\)$ on the horizontal axis, $\(x_2\)$ on the vertical axis.
 
 
 
