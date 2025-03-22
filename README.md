@@ -260,6 +260,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 5. **Determine the Optimal Solution:**
    - For a **maximization** problem, the vertex that yields the **largest** value of the objective function is the optimal solution.
+   - For a **minimization** problem, the vertex that yields the **smallest** value of the objective function is the optimal solutio
 
 
 
