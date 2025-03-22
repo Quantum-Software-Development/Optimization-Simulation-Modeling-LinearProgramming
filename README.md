@@ -137,6 +137,8 @@ $$
 Z = 20x_1 + 12.5x_2
 ```
 
+<br>
+
 #### [Subject to Constraints]():
 
 $$
@@ -147,6 +149,15 @@ $$
 \end{cases}
 $$
 
+```latex
+\begin{cases}
+    \frac{x_1}{2} + \frac{x_2}{3} \leq 130 \\
+    \frac{x_1}{2} + \frac{2x_2}{3} \leq 170 \\
+    x_1 \geq 0, \quad x_2 \geq 0
+\end{cases}
+```
+
+<br>
 
 ### Solution Steps
 
