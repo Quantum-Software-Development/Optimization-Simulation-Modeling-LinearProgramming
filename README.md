@@ -335,7 +335,9 @@ $x_1 \geq 0, \quad x_2 \geq 0\$
 
 Contributions are welcome! If you want to add more examples, correct errors, or improve the documentation, please submit a pull request. Let's learn and grow together on the journey of integral calculus.
 
-### [How to Contribute]()
+<br>
+
+## [How to Contribute]()
 
 Any contributions are highly appreciated.  You can contribute in two ways:
 
@@ -345,13 +347,13 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 <br>
 
-## [Main Contributors]() 
+## Main Contributors
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) 
 
 <br>
 
-## [Sources]()
+## Sources
 
 ➢ 1-  [Simulation-optimization: how to combine them in decision-making](https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/)
 
