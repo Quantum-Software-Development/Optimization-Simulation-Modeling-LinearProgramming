@@ -205,9 +205,10 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
   $$\max/\min \quad Z$$ = $$c_1x_1 + c_2x_2$$
 
-      ```latex
+  ```latex
     Max/Min \quad Z = c_1x_1 + c_2x_2
     ```
+
   
 <br>
 
