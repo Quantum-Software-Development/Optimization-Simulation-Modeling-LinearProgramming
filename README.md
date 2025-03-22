@@ -112,7 +112,7 @@ y(t) = A e^{kt}
 ```
 <br>
 
-#### This equation represents a simple solution to an ordinary differential equation.
+##### ➢ [***Note***](): ***This equation represents a simple solution to an ordinary differential equation.***
 
 <br><br>
 
