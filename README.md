@@ -354,19 +354,19 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 ➢ 1-  [Simulation-optimization: how to combine them in decision-making](https://logweb.com.br/simulacao-otimizacao-como-combina-las-na-tomada-de-decisoes-e-na-resolucao-de-problemas-na-logistica-e-supply-chain/)
 
-➢ [2]() What is optimization? / VirtualCAE -  https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/
+➢ [2What is optimization? / VirtualCAE -  https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/]() 
 
-➢ [3]() Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592.
+➢ [3]() Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592]() 
 
-➢ [4]() Simulation-Optimization: Why and How to Combine Them? -  https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623
+➢ [4]() Simulation-Optimization: Why and How to Combine Them? -  https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623]() 
 
-➢ [5]() Invited Tutorial: Simulation-Optimization – Why and... -  https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420
+➢ [5]() Invited Tutorial: Simulation-Optimization – Why and... -  https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420) 
 
 ➢ [6]() Optimization and Simulation Models / DCA / Unicamp - https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
 
 ➢ [7]() Process Simulation and Optimization: Efficient Planning -  https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/
 
-➢ [8]() Simulation Modeling vs Optimization: How to Choose - LinkedIn - https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt
+➢ 8- [Simulation Modeling vs Optimization: How to Choose](https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt)
 
 
 
