@@ -133,6 +133,9 @@ $$
 Z = 20x_1 + 12.5x_2
 $$
 
+```latex
+Z = 20x_1 + 12.5x_2
+```
 
 #### [Subject to Constraints]():
 
