@@ -127,7 +127,7 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ###  Objective Function
 
-#### [Maximize]():
+### [Maximize]():
 
 $$
 Z = 20x_1 + 12.5x_2
@@ -139,7 +139,7 @@ Z = 20x_1 + 12.5x_2
 
 <br>
 
-#### [Subject to Constraints]():
+### [Subject to Constraints]():
 
 $$
 \begin{cases}
@@ -181,7 +181,7 @@ $$
 (x_1, x_2) = (180, 120)
 $$
 
-#### [Maximum Profit Calculation]()
+### [Maximum Profit Calculation]()
 
 $$
 Z = 20(180) + 12.5(120)
