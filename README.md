@@ -13,7 +13,7 @@
 <br>
 
 
-### This Repo is focused on mathematical concepts, taught during the third semester of the Data Science and Artificial Intelligence bachelor's program at PUC-SP in 2025, under the instruction of Professor [Daniel Rodrigues da Silva](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
+### This Repo is focused on mathematical concepts, taught during the third semester of the Data Science and Artificial Intelligence bachelor's program at PUC-SP in 2025, under the instruction of [Professor Doctor Daniel Rodrigues da Silva](https://www.linkedin.com/in/daniel-rodrigues-048654a5/)
 
 
 <br><br>
