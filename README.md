@@ -229,9 +229,14 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
     <br>
 
-  - Greater than or equal to constraint:
+  - [Greater than or equal to constraint]():
 
-     #### $$a_{i1}x_1$$ + $$a_{i2}x_2 \geq b_i$$
+    $$a_{i1}x_1$$ + $$a_{i2}x_2 \geq b_i$$
+
+    ```latex
+    a_{i1}x_1 + a_{i2}x_2 \geq b_i
+    ```
+
 
     <br>
 
