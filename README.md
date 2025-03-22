@@ -365,11 +365,11 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 ➢ 5. [Invited Tutorial: Simulation-Optimization](https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420) 
 
-➢ 6. [Optimization and Simulation Models / DCA / Unicamp](https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
+➢ 6. [Optimization and Simulation Models / DCA / Unicamp](https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf)
 
-➢ [7]() Process Simulation and Optimization: Efficient Planning -  https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/
+➢ 7. [Process Simulation and Optimization: Efficient Planning](https://paragon.com.br/simulacao-e-otimizacao-de-processos-planejamento-eficiente/)
 
-➢ 8- [Simulation Modeling vs Optimization: How to Choose](https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt)
+➢ 8. [Simulation Modeling vs Optimization: How to Choose](https://www.linkedin.com/advice/0/how-do-you-choose-between-simulation-modeling?lang=pt)
 
 
 
