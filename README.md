@@ -343,8 +343,9 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
    2. Fork the project and submit a full requesto with your new idea. Before doing that, please make sure that you read and follow the [Contributions Guide](https://github.com/Mindful-AI-Assistants/.github/blob/9e7e98f98af07a1d6c4bdeb349e1a9db04f8ed0e/CONTRIBUTIBNG.md). ⊹🔭๋
 
+<br>
 
-### [Main Contributors]() 
+## [Main Contributors]() 
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari) 
 
@@ -356,11 +357,11 @@ Any contributions are highly appreciated.  You can contribute in two ways:
 
 ➢ [2What is optimization? / VirtualCAE -  https://virtualcae.com.br/2022/11/25/o-que-e-otimizacao/]() 
 
-➢ [3]() Optimization in simulation models: a study - http://www.din.uem.br/sbpo/sbpo2011/pdf/87592]() 
+➢ 3- [Optimization in simulation models: a study](http://www.din.uem.br/sbpo/sbpo2011/pdf/87592) 
 
-➢ [4]() Simulation-Optimization: Why and How to Combine Them? -  https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623]() 
+➢ 4- [Simulation-Optimization: Why and How to Combine Them?](https://www.podesenvolvimento.org.br/podesenvolvimento/article/view/623) 
 
-➢ [5]() Invited Tutorial: Simulation-Optimization – Why and... -  https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420) 
+➢ 5- [Invited Tutorial: Simulation-Optimization](https://revistapodes.emnuvens.com.br/podesenvolvimento/article/download/623/412/4420) 
 
 ➢ [6]() Optimization and Simulation Models / DCA / Unicamp - https://www.dca.fee.unicamp.br/~gomide/courses/EA044/transp/EA_044_ModelosOtimizacaoSimulacao.pdf
 
