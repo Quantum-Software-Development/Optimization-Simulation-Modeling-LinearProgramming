@@ -197,7 +197,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 - **[Decision Variables]():** These are the variables that we want to determine the values of to optimize the ***[OBJECTIVE FUNCTION]()*** (e.g.):
 
-   #### $$\(x_1\)$$ and $$\(x_2\)$$
+  $$\(x_1\)$$ and $$\(x_2\)$$
 
 <br>
  
@@ -209,11 +209,10 @@ The **graphical method** for solving simple linear programming (LP) problems inv
     Max/Min \quad Z = c_1x_1 + c_2x_2
     ```
 
-  
 <br>
 
 - **[Constraints]():** These are linear inequalities or equalities that restrict the values the decision variables can take.
-  - Equality constraint:
+  - [Equality constraint]():
 
   $$a_{i1}x_1 + a_{i2}x_2$$ = $$b_i$$
 
