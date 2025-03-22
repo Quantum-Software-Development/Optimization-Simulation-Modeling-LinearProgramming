@@ -220,13 +220,12 @@ The **graphical method** for solving simple linear programming (LP) problems inv
    a_{i1}x_1 + a_{i2}x_2 = b_i
    ```
 
-
   <br>
 
 
-  - Less than or equal to constraint:
+  - [Less than or equal to constraint]():
 
-     #### $$a_{i1}x_1$$ + $$a_{i2}x_2 \leq b_i$$
+  $$a_{i1}x_1$$ + $$a_{i2}x_2 \leq b_i$$
 
     <br>
 
