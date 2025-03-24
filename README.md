@@ -164,12 +164,23 @@ $$
 1. Express the cherry chocolate constraint:
    
    $$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
+
+   ```latex
+   \frac{x_1}{2} + \frac{x_2}{3} \leq 130
+   ```
    
-2. Express the mint chocolate constraint:
    
-   $$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
+3. Express the mint chocolate constraint:
    
- Solve the system using the **Simplex Method** or an optimization tool.
+  $$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
+
+   ```latex
+   \frac{x_1}{2} + \frac{2x_2}{3} \leq 170
+   ```
+
+<br>
+   
+ ## Solve the system using the **Simplex Method** or an optimization tool.
 
 <br>
 
