@@ -307,14 +307,15 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 *   **Empty Feasible Region:** If the constraints are inconsistent and there are no points that satisfy all of them simultaneously, the feasible region is empty, and the linear programming problem has no solution [4].
 
-
   <br><br>
 
 ## Theorem on Optimal Solutions
 
 If the feasible region of a linear programming problem is **non-empty and bounded**, then the objective function attains both a **maximum and a minimum value**, and these occur at **extreme points (vertices)** of the feasible region [5].
 
+If the feasible region is **unbounded**, and if the objective function attains a maximum or minimum value, it will also occur at an **extreme point (vertex)** [5].
 
+  <br><br>
 
   
 
