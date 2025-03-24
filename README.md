@@ -126,7 +126,7 @@ y(t) = A e^{kt}
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/8e6e2abf64164103aba57d65a58ce19490ea3361/class_2-Modeling-Writing%20Mathematical%20Model%20s/Manually%20solved%20exercises) and access exercises manually solved.
 
-#### [Click here]() and access extras exercises 
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/d9ba27da44bc9e19a5c9239a8aeb8ea4eb0da24d/class_2-Modeling-Writing%20Mathematical%20Model%20s/Extra%20Excercises) and access extras exercises 
 
 <br>
 
