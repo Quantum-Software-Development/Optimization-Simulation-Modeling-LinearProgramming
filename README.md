@@ -273,11 +273,11 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 <br>
 
-1. **[Plot the Constraints]():** FFor each constraint, treat it as an equality and plot the corresponding straight line on the Cartesian plane ($x_1$ on the horizontal axis, $x_2$ on the vertical axis).
+1. **[Plot the Constraints]():** FFor each constraint, treat it as an equality and plot the corresponding straight line on the Cartesian plane ($x_1$ on the horizontal axis, $x_2$ on the vertical axis) [3].
 
  <br>
 
-2. **[Identify the Feasible Region]():** For each inequality constraint, determine which side of the line satisfies the inequality. This can be done by testing a point (e.g., the origin $\(0,0)\)$; if it's not on the line) in the inequality. The feasible region is the area where all the shaded regions of the inequalities overlap. If there are non-negativity constraints $\(x_1 \geq 0\)$ and $\(x_2 \geq 0\)$, the feasible region will be in the **[first quadrant]()**.
+2. **[Identify the Feasible Region]():** For each inequality constraint, determine which side of the line satisfies the inequality. This can be done by testing a point (e.g., the origin $\(0,0)\)$; if it's not on the line) in the inequality. The feasible region is the area where all the shaded regions of the inequalities overlap. If there are non-negativity constraints $\(x_1 \geq 0\)$ and $\(x_2 \geq 0\)$, the feasible region will be in the **[first quadrant]()** [3].
 
  <br>
 
@@ -285,7 +285,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
  <br>
  
-4.  **Evaluate the Objective Function at Each Vertex:** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point.
+4.  **Evaluate the Objective Function at Each Vertex:** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point [6].
 
 
  <br>
