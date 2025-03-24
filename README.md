@@ -317,6 +317,9 @@ If the feasible region is **unbounded**, and if the objective function attains a
 
   <br><br>
 
+## Examples
+
+The source provides several examples [6-8] that illustrate the graphical method for both maximization and minimization problems with different sets of constraints. These examples demonstrate how to plot the constraints, identify the feasible region, find the vertices, and evaluate the objective function to determine the optimal solution and its value. For instance, Example 1 [6] finds the maximum of $x_1 + 2x_2$ subject to several constraints.
   
 
 
