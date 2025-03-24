@@ -124,9 +124,9 @@ y(t) = A e^{kt}
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/6a19c6fa9a8b255e1d21bb7d2c5d1ede61f5faf1/class_2-Modeling-Writing%20Mathematical%20Model%20s/2-Optimization%20and%20Simulation%20Modeling.pdf) to access Theoretical and Pratical Material. 
 
-#### [Click here]() and access solved exercises manually
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/8e6e2abf64164103aba57d65a58ce19490ea3361/class_2-Modeling-Writing%20Mathematical%20Model%20s/Manually%20solved%20exercises) and access exercises manually solved.
 
-#### [Click here]() and access solved exercises manually
+#### [Click here]() and access extras exercises 
 
 <br>
 
