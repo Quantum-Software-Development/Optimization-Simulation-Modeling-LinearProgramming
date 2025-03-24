@@ -301,6 +301,11 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 *   **Unique Optimal Solution:** The objective function achieves its maximum or minimum value at a single vertex of the feasible region [3, 5, 6].
 
+*   **Multiple Optimal Solutions:** The objective function achieves its optimal value at more than one point, typically along an edge connecting two adjacent vertices. In this case, all points on that edge are optimal solutions [5].
+  
+
+
+
    
 
 
