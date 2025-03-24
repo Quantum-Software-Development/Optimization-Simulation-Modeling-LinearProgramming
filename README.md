@@ -126,6 +126,9 @@ y(t) = A e^{kt}
 
 #### [Click here]() and access solved exercises manually
 
+#### [Click here]() and access solved exercises manually
+
+<br>
 
 ### [Example](): Maximizing Profit for a Chocolate Manufacturer
 
