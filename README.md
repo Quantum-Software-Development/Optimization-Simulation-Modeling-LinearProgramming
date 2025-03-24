@@ -334,7 +334,7 @@ The graphical method is a useful tool for solving linear programming problems wi
 ## IV- The Simplex Algorithm
 
 
-### [Click here]() and access solved exercises manually
+### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/54ed974c2f1f4304d58eaf51b1ed96a2b683492e/class_4-Simplex%20Method) and access solved exercises manually
 
   
 
