@@ -285,7 +285,8 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
  <br>
  
- 4. **Evaluate the Objective Function at Each Vertex:** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point.
+4.  **Evaluate the Objective Function at Each Vertex:** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point.
+
 
  <br>
 
