@@ -307,7 +307,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 *   **Empty Feasible Region:** If the constraints are inconsistent and there are no points that satisfy all of them simultaneously, the feasible region is empty, and the linear programming problem has no solution [4].
 
-  <br><br>
+  <br>
 
 ## Theorem on Optimal Solutions
 
@@ -315,18 +315,21 @@ If the feasible region of a linear programming problem is **non-empty and bounde
 
 If the feasible region is **unbounded**, and if the objective function attains a maximum or minimum value, it will also occur at an **extreme point (vertex)** [5].
 
-  <br><br>
+  <br>
 
 ## Examples
 
 The source provides several examples [6-8] that illustrate the graphical method for both maximization and minimization problems with different sets of constraints. These examples demonstrate how to plot the constraints, identify the feasible region, find the vertices, and evaluate the objective function to determine the optimal solution and its value. For instance, Example 1 [6] finds the maximum of $x_1 + 2x_2$ subject to several constraints.
 
-
-  <br><br>
+  <br>
 
 ## Conclusion about the Graphical Method
 
 The graphical method is a useful tool for solving linear programming problems with two decision variables, providing a clear visual representation of the solution process. It helps in understanding the concepts of feasible solutions, feasible regions, and the role of vertices in finding the optimal solution. However, this method is limited to problems with only two decision variables. For problems with more variables, more advanced techniques like the simplex algorithm are required.
+
+<br><br>
+
+## IV- The Simplex Algorithm
 
   
 
