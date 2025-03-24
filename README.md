@@ -55,6 +55,8 @@ The [key difference]() between sim-opt and other analytical tools is its [abilit
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/8e3cf8ba6bdc2ce92a011ff5169a3ec704a9d6f0/class_1-Optimization-Simulation-Modelin/1-Optimization%20and%20Simulation.pdf) to access Theoretical and Pratical Material. 
 
+<br>
+
 ### An optimization problem can be represented using the `optidef` package. For example:
 
 $$
@@ -119,6 +121,10 @@ y(t) = A e^{kt}
 <br><br>
 
 # II- [Modeling - Writing Mathematical Models]()
+
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/6a19c6fa9a8b255e1d21bb7d2c5d1ede61f5faf1/class_2-Modeling-Writing%20Mathematical%20Model%20s/2-Optimization%20and%20Simulation%20Modeling.pdf) to access Theoretical and Pratical Material. 
+
+#### [Click here]() and access solved exercises manually
 
 
 ### [Example](): Maximizing Profit for a Chocolate Manufacturer
@@ -214,9 +220,9 @@ Thus, the maximum profit achievable is [**R$ 5,100**]().
 
 # III- [Graphical Method for Linear Programming]() (LP)
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/bcf9b6ae4da82dba29644bd2599e54e86f5c8188/class_3-Graphic%20Method/Manually%20solved%20exercises) and access solved exercises manually
-
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/910094081c2f3be40f14dacf4ec2c56de3d7aa83/class_3-Graphic%20Method/3-Graphic%20Method.pdf) to access Theoretical and Pratical Material.
+
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/bcf9b6ae4da82dba29644bd2599e54e86f5c8188/class_3-Graphic%20Method/Manually%20solved%20exercises) and access solved exercises manually
 
 <br>
 
@@ -348,10 +354,12 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 # IV- The Simplex Method
 
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/5d0f89d3a4d9f67f900463505cb7d4b4e72d186a/class_4-Simplex%20Method/class_4-Simplex%20Method.pdf) to access Theoretical and Pratical Material. 
+
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/f9cef4452ad8486d03c8273aa83885de625c2da8/class_4-Simplex%20Method/SIMPLEX%20IMPLEMENT%20and%20CALCULUS%20EXERCISES) and access Simplex Implementation and Calculus Exercises Manually Solved
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/5d0f89d3a4d9f67f900463505cb7d4b4e72d186a/class_4-Simplex%20Method/class_4-Simplex%20Method.pdf) to access Theoretical and Pratical Material. 
+<br>
 
 
 
