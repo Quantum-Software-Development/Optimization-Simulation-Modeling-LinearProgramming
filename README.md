@@ -53,6 +53,8 @@ The [key difference]() between sim-opt and other analytical tools is its [abilit
 
 # I- Example of a [Optimization Problem]()
 
+#### [Click here]() to access Theoretical and Pratical Material. 
+
 ### An optimization problem can be represented using the `optidef` package. For example:
 
 $$
@@ -349,14 +351,12 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/f9cef4452ad8486d03c8273aa83885de625c2da8/class_4-Simplex%20Method/SIMPLEX%20IMPLEMENT%20and%20CALCULUS%20EXERCISES) and access Simplex Implementation and Calculus Exercises Manually Solved
 
-#### [Click here]() to access Theoretical and Pratical Material. 
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/5d0f89d3a4d9f67f900463505cb7d4b4e72d186a/class_4-Simplex%20Method/class_4-Simplex%20Method.pdf) to access Theoretical and Pratical Material. 
 
 
 
 
    
-
-
 
 
 
