@@ -306,6 +306,16 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 *   **Unbounded Feasible Region:** If the feasible region extends infinitely in some direction, the objective function might also be unbounded (it can increase or decrease indefinitely without reaching a maximum or minimum value) [5]. However, if an optimal solution exists even with an unbounded region, it will still occur at a vertex [5].
 
 *   **Empty Feasible Region:** If the constraints are inconsistent and there are no points that satisfy all of them simultaneously, the feasible region is empty, and the linear programming problem has no solution [4].
+
+
+  <br><br>
+
+## Theorem on Optimal Solutions
+
+If the feasible region of a linear programming problem is **non-empty and bounded**, then the objective function attains both a **maximum and a minimum value**, and these occur at **extreme points (vertices)** of the feasible region [5].
+
+
+
   
 
 
