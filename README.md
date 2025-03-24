@@ -280,6 +280,10 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 2. **[Identify the Feasible Region]():** For each inequality constraint, determine which side of the line satisfies the inequality. This can be done by testing a point (e.g., the origin $\(0,0)\)$; if it's not on the line) in the inequality. The feasible region is the area where all the shaded regions of the inequalities overlap. If there are non-negativity constraints $\(x_1 \geq 0\)$ and $\(x_2 \geq 0\)$, the feasible region will be in the **[first quadrant]()**.
 
  <br>
+
+3.  **Identify the Vertices:** Determine the coordinates of all the vertices (corner points) of the feasible region [4, 6]. These are the points where the boundary lines intersect.
+
+ <br>
  
  4. **Evaluate the Objective Function at Each Vertex:** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point.
 
