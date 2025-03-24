@@ -212,7 +212,9 @@ Thus, the maximum profit achievable is [**R$ 5,100**]().
 
 ## III- [Graphical Method for Linear Programming]() (LP)
 
-### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/bcf9b6ae4da82dba29644bd2599e54e86f5c8188/class_3-Graphic%20Method/Manually%20solved%20exercises) and access solved exercises manually
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/bcf9b6ae4da82dba29644bd2599e54e86f5c8188/class_3-Graphic%20Method/Manually%20solved%20exercises) and access solved exercises manually
+
+#### [Click here]() to access Theoretical and Pratical Material.
 
 <br>
 
@@ -345,9 +347,9 @@ The graphical method is a useful tool for solving linear programming problems wi
 ## IV- The Simplex Algorithm
 
 
-### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/f9cef4452ad8486d03c8273aa83885de625c2da8/class_4-Simplex%20Method/SIMPLEX%20IMPLEMENT%20and%20CALCULUS%20EXERCISES) and access Simplex Implementation and Calculus Exercises Manually Solved
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/f9cef4452ad8486d03c8273aa83885de625c2da8/class_4-Simplex%20Method/SIMPLEX%20IMPLEMENT%20and%20CALCULUS%20EXERCISES) and access Simplex Implementation and Calculus Exercises Manually Solved
 
-  
+#### [Click here]() to access Theoretical and Pratical Material. 
 
 
 
