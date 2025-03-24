@@ -201,7 +201,7 @@ Thus, the maximum profit achievable is [**R$ 5,100**]().
 
 ## III- [Graphical Method for Linear Programming]() (LP)
 
-### [Click here]() and access solved exercises manually
+### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/tree/bcf9b6ae4da82dba29644bd2599e54e86f5c8188/class_3-Graphic%20Method/Manually%20solved%20exercises) and access solved exercises manually
 
 <br>
 
