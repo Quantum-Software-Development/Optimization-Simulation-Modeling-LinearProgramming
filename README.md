@@ -201,6 +201,8 @@ Thus, the maximum profit achievable is [**R$ 5,100**]().
 
 ## III- [Graphical Method for Linear Programming]() (LP)
 
+### [Click here]() and access solved exercises manually
+
 <br>
 
 The **graphical method** for solving simple linear programming (LP) problems involving **two decision variables**. The graphical method provides a visual way to understand the constraints, the feasible region, and how to find the optimal solution that either maximizes or minimizes the objective function.
