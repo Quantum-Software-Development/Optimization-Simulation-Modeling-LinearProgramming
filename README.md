@@ -304,6 +304,8 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 *   **Multiple Optimal Solutions:** The objective function achieves its optimal value at more than one point, typically along an edge connecting two adjacent vertices. In this case, all points on that edge are optimal solutions [5].
 
 *   **Unbounded Feasible Region:** If the feasible region extends infinitely in some direction, the objective function might also be unbounded (it can increase or decrease indefinitely without reaching a maximum or minimum value) [5]. However, if an optimal solution exists even with an unbounded region, it will still occur at a vertex [5].
+
+*   **Empty Feasible Region:** If the constraints are inconsistent and there are no points that satisfy all of them simultaneously, the feasible region is empty, and the linear programming problem has no solution [4].
   
 
 
