@@ -173,7 +173,7 @@ $$
 
 <br>
 
-### [Solution Steps():
+### [Solution Steps]():
 
 
 1. Express the cherry chocolate constraint:
