@@ -2,8 +2,8 @@
 <br>
 
 #  <p align="center">  Integrated Mathematics Project 
-### (LOGISTICS, FINANCE, CREDIT, ENGINEERING, HEALTH AND OTHERS)
-####  <p align="center">  [Optimization / Modeling and Simulation / Linear Programming / Graphic Method - Maximization and Minimization/ Simplex Algorithm / Matrix / Mathematical Modeling]()
+####  <p align="center">  (LOGISTICS, FINANCE, CREDIT, ENGINEERING, HEALTH AND OTHERS)
+#####  <p align="center">  [Optimization / Modeling and Simulation / Linear Programming / Graphic Method - Maximization and Minimization/ Simplex Algorithm / Matrix / Mathematical Modeling]()
 
 
 <br>
