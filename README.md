@@ -54,7 +54,7 @@ The [key difference]() between sim-opt and other analytical tools is its [abilit
 
 ## I- Example of a [Optimization Problem]()
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/8e3cf8ba6bdc2ce92a011ff5169a3ec704a9d6f0/class_1-Optimization-Simulation-Modelin/1-Optimization%20and%20Simulation.pdf) to access Theoretical and Pratical Material. 
+#### ➢ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/8e3cf8ba6bdc2ce92a011ff5169a3ec704a9d6f0/class_1-Optimization-Simulation-Modelin/1-Optimization%20and%20Simulation.pdf) to access Theoretical and Pratical Material. 
 
 <br>
 
@@ -84,7 +84,7 @@ The simplex algorithm is used to solve linear problems. Although there isn't a s
 
 <br>
 
-### [Matrix]()
+### [Matrix]():
 
 A matrix can be created using the `amsmath` package:
 
@@ -106,7 +106,7 @@ a_{21} & a_{22}
 
 <br>
 
-### [Simulation]()
+### [Simulation]():
 
 Simulation generally involves complex mathematical models that can be described using differential or integral equations.
 
