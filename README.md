@@ -180,7 +180,8 @@ $$
    ```latex
    \frac{x_1}{2} + \frac{x_2}{3} \leq 130
    ```
-   
+
+ <br>  
    
 3. Express the mint chocolate constraint:
    
