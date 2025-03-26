@@ -115,7 +115,7 @@ y(t) = A e^{kt}
 $$
 
 ```latex
-y(t) = A e^{kt}
+\y(t) = A e^{kt}
 ```
 <br>
 
@@ -123,7 +123,7 @@ y(t) = A e^{kt}
 
 <br><br>
 
-# II- [Modeling - Writing Mathematical Models]()
+## II- [Modeling - Writing Mathematical Models]()
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/6a19c6fa9a8b255e1d21bb7d2c5d1ede61f5faf1/class_2-Modeling-Writing%20Mathematical%20Model%20s/2-Optimization%20and%20Simulation%20Modeling.pdf) to access Theoretical and Pratical Material. 
 
@@ -139,7 +139,7 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ### [Solution]():
 
-###  Objective Function
+###  ***Objective Function***
 
 ### [Maximize]():
 
