@@ -52,7 +52,7 @@ The [key difference]() between sim-opt and other analytical tools is its [abilit
 
 <br><br>
 
-# I- Example of a [Optimization Problem]()
+## I- Example of a [Optimization Problem]()
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/8e3cf8ba6bdc2ce92a011ff5169a3ec704a9d6f0/class_1-Optimization-Simulation-Modelin/1-Optimization%20and%20Simulation.pdf) to access Theoretical and Pratical Material. 
 
@@ -81,6 +81,8 @@ $$
 ## [Simplex Algorithm]()
 
 The simplex algorithm is used to solve linear problems. Although there isn't a specific command for it, we can describe it in text or use tables to show the steps of the algorithm.
+
+<br>
 
 ### [Matrix]()
 
@@ -171,19 +173,20 @@ $$
 
 <br>
 
-### Solution Steps
+### [Solution Steps()
 
 1. Express the cherry chocolate constraint:
    
-   $$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
+$$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
 
-   ```latex
-   \frac{x_1}{2} + \frac{x_2}{3} \leq 130
-   ```
+
+```latex
+\frac{x_1}{2} + \frac{x_2}{3} \leq 130
+```
 
  <br>  
    
-3. Express the mint chocolate constraint:
+2. Express the mint chocolate constraint:
    
   $$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
 
