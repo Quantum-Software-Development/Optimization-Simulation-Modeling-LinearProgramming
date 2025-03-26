@@ -203,6 +203,13 @@ $$
 (x_1, x_2) = (180, 120)
 $$
 
+
+```latex
+\(x_1, x_2) = (180, 120)
+```
+
+<br>
+
 ### [Maximum Profit Calculation]()
 
 $$
