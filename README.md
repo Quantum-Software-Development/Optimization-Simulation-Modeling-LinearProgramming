@@ -141,7 +141,7 @@ A chocolate manufacturer has a stock of chocolates, consisting of 130 kg with ch
 
 ###  ***Objective Function***
 
-### [Maximize]():
+### ➢ [Maximize]():
 
 $$
 Z = 20x_1 + 12.5x_2
@@ -153,7 +153,7 @@ Z = 20x_1 + 12.5x_2
 
 <br>
 
-### [Subject to Constraints]():
+### ➣ [Subject to Constraints]():
 
 $$
 \begin{cases}
@@ -173,12 +173,12 @@ $$
 
 <br>
 
-### [Solution Steps()
+### [Solution Steps():
+
 
 1. Express the cherry chocolate constraint:
-   
-$$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
 
+$$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
 
 ```latex
 \frac{x_1}{2} + \frac{x_2}{3} \leq 130
@@ -188,21 +188,21 @@ $$\frac{x_1}{2} + \frac{x_2}{3} \leq 130$$
    
 2. Express the mint chocolate constraint:
    
-  $$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
+$$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
 
-   ```latex
-   \frac{x_1}{2} + \frac{2x_2}{3} \leq 170
-   ```
+```latex
+\frac{x_1}{2} + \frac{2x_2}{3} \leq 170
+```
 
-<br>
+<br><br>
    
- ## Solve the system using the **Simplex Method** or an optimization tool.
+## Solve the system using the **Simplex Method** or an optimization tool.
 
 <br>
 
-### Optimal Solution:
+### [Optimal Solution]():
 
-#### [Solving the system yields]():
+#### Solving the system yields:
 
 $$
 (x_1, x_2) = (180, 120)
