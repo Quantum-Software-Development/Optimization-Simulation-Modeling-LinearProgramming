@@ -383,6 +383,7 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 <br>
 
+# V- Two-Stage Simplex.
 
 
 
