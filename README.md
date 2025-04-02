@@ -385,6 +385,8 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 # V- Two-Stage Simplex.
 
+#### [Click here]() to access Theoretical and Pratical Material.
+
 
 
    
