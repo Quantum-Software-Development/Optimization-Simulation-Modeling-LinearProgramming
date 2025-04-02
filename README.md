@@ -387,6 +387,8 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/e09ce2c81b12f47975bdb0ed6b3acd77b2195532/class_6-Two-Stage%20Simplex./two-stage%20simplex..pdf) to access Theoretical and Pratical Material.
 
+#### [Click here]() and access Simplex Implementation and Calculus Exercises Manually Solved
+
 
 
    
