@@ -415,6 +415,9 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 
 <br>
 
+## Simplex Method using Excel Solver
+
+This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
 
 
 
