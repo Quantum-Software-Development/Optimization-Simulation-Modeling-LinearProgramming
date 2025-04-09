@@ -20,7 +20,7 @@ keras==3.9.2
 
 # Natural Language Processing Libraries:
 nltk==3.9.1
-spacy==3.8.4
+spacy==3.8.5
 
 # Web Scraping Libraries:
 beautifulsoup4==4.13.3
