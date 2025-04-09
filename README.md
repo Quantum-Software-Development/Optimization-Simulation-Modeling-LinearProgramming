@@ -413,6 +413,8 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 
 ***Solver is especially useful in educational settings for visualizing and solving linear optimization problems without requiring programming, making it a powerful tool for teaching and learning operations research.***
 
+<br>
+
 
 
 
