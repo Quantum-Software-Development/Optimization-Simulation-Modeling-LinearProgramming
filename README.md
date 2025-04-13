@@ -401,6 +401,20 @@ The Excel Solver is an optimization tool available in Microsoft Excel that allow
 
 <br>
 
+In the context of Linear Programming (LP) and the Simplex Method, Excel Solver can be used to:
+	•	Define decision variables (cells that Solver will change);
+	•	Set a linear objective function to maximize or minimize;
+	•	Specify constraints on variables (e.g., inequalities or equalities);
+	•	Use the Simplex LP solving method to compute the optimal solution
+
+
+  <br>
+
+
+
+
+
+
 
 
 
