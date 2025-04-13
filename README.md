@@ -394,40 +394,12 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 <br>
 
-# VI - Simplex using Solver - Excel
+# VI - Excel Solver for Linear Programming - Simplex
 
-Excel Solver for Linear Programming
 
 The Excel Solver is an optimization tool available in Microsoft Excel that allows users to find the optimal solution to decision problems involving constraints and objectives. It can solve linear and nonlinear programming problems by adjusting the values of decision variables to maximize or minimize a target (objective) function, subject to a set of constraints.
 
 <br>
-
-In the context of Linear Programming (LP) and the Simplex Method, Excel Solver can be used to:
-	•	Define decision variables (cells that Solver will change);
-	•	Set a linear objective function to maximize or minimize;
-	•	Specify constraints on variables (e.g., inequalities or equalities);
-	•	Use the Simplex LP solving method to compute the optimal solution
-
-
-  <br>
-
-***Solver is especially useful in educational settings for visualizing and solving linear optimization problems without requiring programming, making it a powerful tool for teaching and learning operations research.***
-
-<br>
-
-## Simplex Method using Excel Solver
-
-This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
-
-<br>
-
-### Problem:
-
-#### Maximize the objective function:
-
-### Z = 3x + 5y
-
-
 
 
 
