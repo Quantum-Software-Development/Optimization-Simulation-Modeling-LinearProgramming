@@ -421,6 +421,13 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 2. Set Objective Cell: `B3`
 3. Select: **Max**
 4. By Changing Variable Cells: `B1:B2`
+5. Add Constraints:
+    - `B5 <= C5`
+    - `B6 <= C6`
+    - `B1 >= 0`
+    - `B2 >= 0`
+6. Choose **Simplex LP** as the solving method.
+7. Click **Solve**.
 
 
 
