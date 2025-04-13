@@ -445,6 +445,15 @@ Fill the spreadsheet with the following structure:
 | B2   | y (Decision Variable)  | *(leave blank)*      |
 | B3   | Objective Function Z   | `=3*B1 + 5*B2`       |
 
+<br>
+
+#### Constraints Left-Hand Side (LHS)
+
+| Cell | Description                | Formula             |
+|------|----------------------------|---------------------|
+| B5   | Constraint 1 LHS           | `=1*B1 + 2*B2`       |
+| B6   | Constraint 2 LHS           | `=2*B1 + 1*B2`       |
+
 
 
 
