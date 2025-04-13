@@ -415,6 +415,12 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
   <br>
 
 
+### Solver Configuration (Simplex LP)
+
+1. Go to `Data` > `Solver`.
+2. Set Objective Cell: `B3`
+3. Select: **Max**
+4. By Changing Variable Cells: `B1:B2`
 
 
 
