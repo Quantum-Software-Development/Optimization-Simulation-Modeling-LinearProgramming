@@ -412,6 +412,26 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 
 [***Solver is especially useful in educational settings for visualizing and solving linear optimization problems without requiring programming, making it a powerful tool for teaching and learning operations research.***]()
 
+  <br>
+
+## Simplex Method using Excel Solver
+
+This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
+
+  <br>
+
+### Problem
+
+Maximize the objective function:
+
+Z = 3x + 5y
+
+Subject to the constraints:
+
+x + 2y ≤ 100
+2x + y ≤ 80
+x, y ≥ 0
+
 
 
 
