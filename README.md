@@ -414,11 +414,10 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 
   <br>
 
-## Simplex Method using Excel Solver
+## [Simplex Method using Excel Solver]()
 
 This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
 
-  <br>
 
 ### Problem
 
@@ -432,6 +431,13 @@ x + 2y ≤ 100
 2x + y ≤ 80
 x, y ≥ 0
 
+<br>
+
+### [Excel Spreadsheet Setup]()
+
+Fill the spreadsheet with the following structure:
+
+#### Variables and Objective
 
 
 
