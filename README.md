@@ -419,7 +419,7 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
 
 
-### Problem
+### ➢ [Problem]():
 
 Maximize the objective function:
 
@@ -433,11 +433,18 @@ x, y ≥ 0
 
 <br>
 
-### [Excel Spreadsheet Setup]()
+### [Excel Spreadsheet Setup]():
 
 Fill the spreadsheet with the following structure:
 
 #### Variables and Objective
+
+| Cell | Description            | Formula / Value      |
+|------|------------------------|----------------------|
+| B1   | x (Decision Variable)  | *(leave blank)*      |
+| B2   | y (Decision Variable)  | *(leave blank)*      |
+| B3   | Objective Function Z   | `=3*B1 + 5*B2`       |
+
 
 
 
