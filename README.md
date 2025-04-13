@@ -455,6 +455,14 @@ Fill the spreadsheet with the following structure:
 | B6   | Constraint 2 LHS           | `=2*B1 + 1*B2`       |
 
 
+<br>
+
+#### Constraints Right-Hand Side (RHS)
+
+| Cell | Description                | Value               |
+|------|----------------------------|---------------------|
+| C5   | Constraint 1 RHS           | `100`               |
+| C6   | Constraint 2 RHS           | `80`                |
 
 
 
