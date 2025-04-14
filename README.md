@@ -511,6 +511,16 @@ After running Solver:
 7. Click **Solve**.
 
 
+### [Solution]()
+
+After running Solver
+
+x = 20
+y = 40
+Z = 320 + 540 = 260
+
+
+Z = 260
 
 
 
