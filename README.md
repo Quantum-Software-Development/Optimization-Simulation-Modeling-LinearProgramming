@@ -431,16 +431,26 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 
  <br>  
 
-### [Solution]():
+## [Example Excel Solver Example – Linear Programming with Simplex]()
 
-After running Solver
+This example demonstrates how to use Excel Solver to solve a Linear Programming problem using the **Simplex Method**.
 
-x = 20
-y = 40
-Z = 320 + 540 = 260
+### [Problem Statement]():
+
+[Maximize]():
+
+Z = 40x + 30y
+
+Subject to:
+
+2x + y ≤ 40
+x + 2y ≤ 50
+x, y ≥ 0
 
 
-Z = 260
+<br>
+
+
 
 
 
