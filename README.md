@@ -484,6 +484,16 @@ x, y ≥ 0
 
 Click **Solve** to find the optimal solution.
 
+<br>
+
+### [Solution Output]():
+
+After running Solver:
+
+- **x = 10**
+- **y = 20**
+- **Z = 40×10 + 30×20 = 1000**
+
 
 
 
