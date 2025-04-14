@@ -415,86 +415,53 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
   <br>
 
 
-## [Solver Configuration (Simplex LP)]():
+## Simplex Method using Excel Solver
 
-1. Go to `Data` > `Solver`.
-2. Set Objective Cell: `B3`
-3. Select: **Max**
-4. By Changing Variable Cells: `B1:B2`
-5. Add Constraints:
-    - `B5 <= C5`
-    - `B6 <= C6`
-    - `B1 >= 0`
-    - `B2 >= 0`
-6. Choose **Simplex LP** as the solving method.
-7. Click **Solve**.
+This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
 
- <br>  
+---
 
-## [Example Excel Solver Example – Linear Programming with Simplex]()
+### Problem
 
-This example demonstrates how to use Excel Solver to solve a Linear Programming problem using the **Simplex Method**.
+Maximize the objective function:
 
-### [Problem Statement]():
+Z = 3x + 5y
 
-[Maximize]():
+Subject to the constraints:
 
-Z = 40x + 30y
-
-Subject to:
-
-2x + y ≤ 40
-x + 2y ≤ 50
+x + 2y ≤ 100
+2x + y ≤ 80
 x, y ≥ 0
 
+---
 
-<br>
+### Excel Spreadsheet Setup
 
-### [Excel Setup]():
+Fill the spreadsheet with the following structure:
 
-| Cell | Description              | Formula / Value     |
-|------|--------------------------|---------------------|
-| B1   | x (Decision Variable)    | (leave blank)       |
-| B2   | y (Decision Variable)    | (leave blank)       |
-| B3   | Objective Function (Z)   | `=40*B1 + 30*B2`     |
-| B5   | Constraint 1 (LHS)       | `=2*B1 + 1*B2`       |
-| B6   | Constraint 2 (LHS)       | `=1*B1 + 2*B2`       |
+#### Variables and Objective
 
+| Cell | Description            | Formula / Value      |
+|------|------------------------|----------------------|
+| B1   | x (Decision Variable)  | *(leave blank)*      |
+| B2   | y (Decision Variable)  | *(leave blank)*      |
+| B3   | Objective Function Z   | `=3*B1 + 5*B2`        |
 
-<br>
-	
-| Cell | Constraint RHS           | Value               |
-|------|--------------------------|---------------------|
-| C5   | Constraint 1 (RHS)       | 40                  |
-| C6   | Constraint 2 (RHS)       | 50                  |
+#### Constraints Left-Hand Side (LHS)
 
-<br>
+| Cell | Description                | Formula             |
+|------|----------------------------|---------------------|
+| B5   | Constraint 1 LHS           | `=1*B1 + 2*B2`       |
+| B6   | Constraint 2 LHS           | `=2*B1 + 1*B2`       |
 
-### [Solver Configuration]():
+#### Constraints Right-Hand Side (RHS)
 
-1. Set Objective: **B3**  
-2. To: **Maximize**  
-3. By Changing Variable Cells: **B1:B2**  
-4. Subject to the Constraints:
-   - **B5 <= C5**
-   - **B6 <= C6**
-   - **B1 >= 0**
-   - **B2 >= 0**
-5. Choose **Simplex LP** as the solving method.
+| Cell | Description                | Value               |
+|------|----------------------------|---------------------|
+| C5   | Constraint 1 RHS           | `100`               |
+| C6   | Constraint 2 RHS           | `80`                |
 
-Click **Solve** to find the optimal solution.
-
-<br>
-
-### [Solution Output]():
-
-After running Solver:
-
-- **x = 10**
-- **y = 20**
-- **Z = 40×10 + 30×20 = 1000**
-  
-<br>
+---
 
 ### Solver Configuration (Simplex LP)
 
@@ -510,8 +477,9 @@ After running Solver:
 6. Choose **Simplex LP** as the solving method.
 7. Click **Solve**.
 
+---
 
-### [Solution]()
+### Solution
 
 After running Solver
 
@@ -523,14 +491,62 @@ Z = 320 + 540 = 260
 Z = 260
 
 
+——
 
 
+## Excel Solver Example – Linear Programming with Simplex
+
+This example demonstrates how to use Excel Solver to solve a Linear Programming problem using the **Simplex Method**.
+
+### Problem Statement
+
+Maximize:
+
+Z = 40x + 30y
+
+Subject to:
+
+2x + y ≤ 40
+x + 2y ≤ 50
+x, y ≥ 0
 
 
+### Excel Setup
 
+| Cell | Description              | Formula / Value     |
+|------|--------------------------|---------------------|
+| B1   | x (Decision Variable)    | (leave blank)       |
+| B2   | y (Decision Variable)    | (leave blank)       |
+| B3   | Objective Function (Z)   | `=40*B1 + 30*B2`     |
+| B5   | Constraint 1 (LHS)       | `=2*B1 + 1*B2`       |
+| B6   | Constraint 2 (LHS)       | `=1*B1 + 2*B2`       |
 
+| Cell | Constraint RHS           | Value               |
+|------|--------------------------|---------------------|
+| C5   | Constraint 1 (RHS)       | 40                  |
+| C6   | Constraint 2 (RHS)       | 50                  |
 
+### Solver Configuration
 
+1. Set Objective: **B3**  
+2. To: **Maximize**  
+3. By Changing Variable Cells: **B1:B2**  
+4. Subject to the Constraints:
+   - **B5 <= C5**
+   - **B6 <= C6**
+   - **B1 >= 0**
+   - **B2 >= 0**
+5. Choose **Simplex LP** as the solving method.
+
+Click **Solve** to find the optimal solution.
+
+### Solution Output
+
+After running Solver:
+
+- **x = 10**
+- **y = 20**
+- **Z = 40×10 + 30×20 = 1000**
 
 
 
