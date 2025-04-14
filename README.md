@@ -461,6 +461,20 @@ x, y ≥ 0
 | B6   | Constraint 2 (LHS)       | `=1*B1 + 2*B2`       |
 
 
+<br>
+	
+| Cell | Constraint RHS           | Value               |
+|------|--------------------------|---------------------|
+| C5   | Constraint 1 (RHS)       | 40                  |
+| C6   | Constraint 2 (RHS)       | 50                  |
+
+<br>
+
+### [Solver Configuration]():
+
+
+
+
 
 
 
