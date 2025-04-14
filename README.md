@@ -472,6 +472,18 @@ x, y ≥ 0
 
 ### [Solver Configuration]():
 
+1. Set Objective: **B3**  
+2. To: **Maximize**  
+3. By Changing Variable Cells: **B1:B2**  
+4. Subject to the Constraints:
+   - **B5 <= C5**
+   - **B6 <= C6**
+   - **B1 >= 0**
+   - **B2 >= 0**
+5. Choose **Simplex LP** as the solving method.
+
+Click **Solve** to find the optimal solution.
+
 
 
 
