@@ -429,6 +429,20 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
 6. Choose **Simplex LP** as the solving method.
 7. Click **Solve**.
 
+ <br>  
+
+### [Solution]():
+
+After running Solver
+
+x = 20
+y = 40
+Z = 320 + 540 = 260
+
+
+Z = 260
+
+
 
 
 
