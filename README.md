@@ -552,61 +552,6 @@ After running Solver:
 
 
 
- <br>
-
-## [Simplex Method using Excel Solver]()
-
-### ➢ This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
-
-###  [Problem]():
-
-Maximize the objective function:
-
-Z = 3x + 5y
-
-Subject to the constraints:
-
-x + 2y ≤ 100
-2x + y ≤ 80
-x, y ≥ 0
-
-<br>
-
-### [Excel Spreadsheet Setup]():
-
-Fill the spreadsheet with the following structure:
-
-#### Variables and Objective
-
-| Cell | Description            | Formula / Value      |
-|------|------------------------|----------------------|
-| B1   | x (Decision Variable)  | *(leave blank)*      |
-| B2   | y (Decision Variable)  | *(leave blank)*      |
-| B3   | Objective Function Z   | `=3*B1 + 5*B2`       |
-
-<br>
-
-#### Constraints Left-Hand Side (LHS)
-
-| Cell | Description                | Formula             |
-|------|----------------------------|---------------------|
-| B5   | Constraint 1 LHS           | `=1*B1 + 2*B2`       |
-| B6   | Constraint 2 LHS           | `=2*B1 + 1*B2`       |
-
-
-<br>
-
-#### Constraints Right-Hand Side (RHS)
-
-| Cell | Description                | Value               |
-|------|----------------------------|---------------------|
-| C5   | Constraint 1 RHS           | `100`               |
-| C6   | Constraint 2 RHS           | `80`                |
-
-
-
-
-
 
 
 
