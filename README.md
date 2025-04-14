@@ -450,6 +450,16 @@ x, y ≥ 0
 
 <br>
 
+### [Excel Setup]():
+
+| Cell | Description              | Formula / Value     |
+|------|--------------------------|---------------------|
+| B1   | x (Decision Variable)    | (leave blank)       |
+| B2   | y (Decision Variable)    | (leave blank)       |
+| B3   | Objective Function (Z)   | `=40*B1 + 30*B2`     |
+| B5   | Constraint 1 (LHS)       | `=2*B1 + 1*B2`       |
+| B6   | Constraint 2 (LHS)       | `=1*B1 + 2*B2`       |
+
 
 
 
