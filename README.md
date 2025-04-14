@@ -493,6 +493,22 @@ After running Solver:
 - **x = 10**
 - **y = 20**
 - **Z = 40×10 + 30×20 = 1000**
+  
+<br>
+
+### Solver Configuration (Simplex LP)
+
+1. Go to `Data` > `Solver`.
+2. Set Objective Cell: `B3`
+3. Select: **Max**
+4. By Changing Variable Cells: `B1:B2`
+5. Add Constraints:
+    - `B5 <= C5`
+    - `B6 <= C6`
+    - `B1 >= 0`
+    - `B2 >= 0`
+6. Choose **Simplex LP** as the solving method.
+7. Click **Solve**.
 
 
 
