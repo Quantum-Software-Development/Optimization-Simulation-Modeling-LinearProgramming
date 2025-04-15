@@ -21,7 +21,7 @@
 <br><br>
 
 
-#### ➣ [Access Geogebra](
+#### ➣ [Access Geogebra](https://www.geogebra.org/download?lang=pt)
 
 #### ➣ [Access Tutoril]() about solving LP problems using [Geogebra](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst)
 
