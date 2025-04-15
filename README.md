@@ -548,20 +548,37 @@ After running Solver:
 - **y = 20**
 - **Z = 40×10 + 30×20 = 1000**
 
+<br>
 
-## Extras Excercise
-
-
-
-
-
-
+## Extras Excercise:
 
 <br>
 
+### 1. [Develop a Mathematical Model – Linear Programming (LP)]():
 
-### **2.** Solve graphically the LP presented below:
+📘 Problem Statement in English
 
+A company, after a production rationalization process, has 3 available productive resources: R1, R2, and R3. A study indicated the feasibility of manufacturing two products: P1 and P2. After analyzing costs and consulting the sales department, it was found that P1 yields a profit of 120 u.m. per unit and P2 yields 150 u.m. per unit. The production department provided the following resource usage table:
+
+| Product | R1/unit | R2/unit | R3/unit |
+|---------|---------|---------|---------|
+| P1      |   2     |   3     |   5     |
+| P2      |   4     |   0     |   3     |
+
+| Resource Availability per month | R1 = 100 | R2 = 90 | R3 = 120 |
+
+
+
+
+
+
+
+<br><br>
+
+
+### **2.** [Solve graphically the LP presented below]():
+
+<br>
 
 $$
 \
@@ -581,10 +598,13 @@ $$
 
 
 
+
 <br><br>
 
 
-### **3.** Solve the following linear programming problem using the Simplex method.:
+### **3.** [Solve the following linear programming problem using the Simplex method]():
+
+<br>
 
 $$
 \
@@ -600,7 +620,7 @@ x_1 \geq 0 \text{ e } x_2 \geq 0
 \end{cases}
 \end{aligned}
 \
-SS
+$$
 
 
 
