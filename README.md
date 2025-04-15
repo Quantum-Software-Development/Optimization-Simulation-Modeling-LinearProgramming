@@ -581,6 +581,28 @@ $$
 
 
 
+<br><br>
+
+**3. (5 pontos)** Resolva o PL a seguir com o método Simplex:
+
+
+$$
+\[
+\begin{aligned}
+\textbf{Max.} \quad & Z = 4x_1 + 3x_2 \\
+\textbf{S.a.} \quad &
+\begin{cases}
+x_1 + 3x_2 \leq 7 \\
+2x_1 + 2x_2 \leq 8 \\
+x_1 + x_2 \leq 3 \\
+x_2 \leq 2 \\
+x_1 \geq 0 \text{ e } x_2 \geq 0
+\end{cases}
+\end{aligned}
+\]
+SS
+
+
 
 
 
