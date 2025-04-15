@@ -568,7 +568,6 @@ $$
 \begin{aligned}
 \textbf{Max.} \quad & Z = 4x_1 + 3x_2 \\
 \textbf{S.a.} \quad &
-
 \begin{cases}
 x_1 + 3x_2 \leq 7 \\
 2x_1 + 2x_2 \leq 8 \\
@@ -592,7 +591,6 @@ $$
 \begin{aligned}
 \text{Max.} \quad & Z = 4x_1 + 3x_2 \\
 \text{S.a.} \quad & 
-
 \begin{cases}
 x_1 + 3x_2 \leq 7 \\
 2x_1 + 2x_2 \leq 8 \\
