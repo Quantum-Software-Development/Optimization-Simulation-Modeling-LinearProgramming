@@ -6,6 +6,10 @@
 #####  <p align="center">  [Optimization / Modeling and Simulation / Linear Programming / Graphic Method - Maximization and Minimization/ Simplex Algorithm / Matrix / Mathematical Modeling]()
 
 
+
+➣ [Access Tutoril]() about solving LP problems using [Geogebra]()
+
+
 <br>
 
 <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
