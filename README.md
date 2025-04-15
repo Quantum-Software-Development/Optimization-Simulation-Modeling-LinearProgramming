@@ -18,10 +18,10 @@
 ### <p align="center"> [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
-<br>
+<br><br>
 
 
-### ➣ [Access Tutoril]() about solving LP problems using [Geogebra](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst)
+#### ➣ [Access Tutoril]() about solving LP problems using [Geogebra](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst)
 
 
 
