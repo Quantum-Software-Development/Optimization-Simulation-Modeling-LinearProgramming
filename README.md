@@ -564,7 +564,7 @@ After running Solver:
 
 
 $$
-\[
+\
 \begin{aligned}
 \textbf{Max.} \quad & Z = 4x_1 + 3x_2 \\
 \textbf{S.a.} \quad &
@@ -576,18 +576,19 @@ x_2 \leq 2 \\
 x_1 \geq 0 \text{ e } x_2 \geq 0
 \end{cases}
 \end{aligned}
-\]
+\
 $$
 
 
 
 <br><br>
 
-**3. (5 pontos)** Resolva o PL a seguir com o método Simplex:
+
+### **3.** Resolva o PL a seguir com o método Simplex:
 
 
 $$
-\[
+\
 \begin{aligned}
 \textbf{Max.} \quad & Z = 4x_1 + 3x_2 \\
 \textbf{S.a.} \quad &
@@ -599,7 +600,7 @@ x_2 \leq 2 \\
 x_1 \geq 0 \text{ e } x_2 \geq 0
 \end{cases}
 \end{aligned}
-\]
+\
 SS
 
 
