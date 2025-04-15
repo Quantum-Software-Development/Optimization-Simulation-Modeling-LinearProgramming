@@ -600,7 +600,7 @@ x_1 \geq 0 \text{ e } x_2 \geq 0
 \end{cases}
 \end{aligned}
 \
-SS
+$$
 
 
 
