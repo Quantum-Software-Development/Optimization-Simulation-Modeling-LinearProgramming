@@ -660,6 +660,15 @@ $3x_1 \leq 90
 5x_1 + 3x_2 \leq 120
 ```
 
+<br>
+
+### 4. [Non-Negativity Constraints]():
+
+#### We cannot produce a negative quantity of products:
+
+### $x_1 \geq 0, \quad x_2 \geq 0$
+
+
 
 
 
