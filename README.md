@@ -583,6 +583,7 @@ A company, after a production rationalization process, has 3 available productiv
 
 | Resource Availability per month | R1 = 100 | R2 = 90 | R3 = 120 |
 
+<br>
 
 Summary of the problem:
 	•	Two products: P1 and P2
@@ -592,28 +593,32 @@ Summary of the problem:
 	•	Available resources: R1, R2, R3
 	•	Resource consumption per unit:
 
+ <br>
+
 Product	R1/unit	R2/unit	R3/unit
 P1	2	3	5
 P2	4	0	3
 
-	•	Monthly resource availability:
+Monthly resource availability:
+
+<br>
 
 Resource	Availability
 R1	100
 R2	90
 R3	120
 
-⸻
+<br>
 
-Goal:
+### [Goal]():
 
 Mathematically model the Linear Programming (LP) problem.
 
-⸻
+<br>
 
-Modeling step-by-step
+### [Modeling step-by-step]():
 
-⸻
+<br>
 
 
 
