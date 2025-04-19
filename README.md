@@ -630,7 +630,7 @@ x_2 = \text{quantity produced of product P2}
 
 ### Maximize total profit:
 
-\text{Maximize } Z = 120x_1 + 150x_2
+$\text{Maximize } Z = 120x_1 + 150x_2$
 
 
 
