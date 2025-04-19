@@ -606,7 +606,9 @@ And the **monthly resource availability**:
 
 ### 🧠 Step-by-Step Modeling
 
-### 1. 🧮 Decision Variables
+<br>
+
+#### 1. 🧮 Decision Variables
 
 - Let:
 
