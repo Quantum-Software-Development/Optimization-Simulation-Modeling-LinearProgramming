@@ -503,9 +503,7 @@ Z = 320 + 540 = 260
 
 Z = 260
 
-
-——
-
+<br>
 
 ## Excel Solver Example – Linear Programming with Simplex
 
@@ -596,13 +594,9 @@ And the **monthly resource availability**:
 
 <br>
 
----
-
 ### 🎯 Objective:
 
 ### ***Mathematically model the **Linear Programming (LP)** problem to **maximize profit** under resource constraints***.
-
----
 
 ### 🧠 Step-by-Step Modeling;
 
@@ -631,6 +625,10 @@ x_2 = \text{quantity produced of product P2}
 ### Maximize total profit:
 
 $\text{Maximize } Z = 120x_1 + 150x_2$
+
+
+
+
 
 
 
