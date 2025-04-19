@@ -600,7 +600,7 @@ And the **monthly resource availability**:
 
 ### 🧠 Step-by-Step Modeling;
 
-#### 1. [Decision Variables]()
+### 1. [Decision Variables]()
 
 - Let:
 
@@ -620,7 +620,7 @@ x_2 = \text{quantity produced of product P2}
 
 <br>
 
-#### 1a. [Objective Function]():
+### 1a. [Objective Function]():
 
 ### Maximize total profit:
 
