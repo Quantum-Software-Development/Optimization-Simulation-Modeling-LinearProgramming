@@ -675,15 +675,17 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ### 5. [Complete Mathematical Model]():
 
-### $\boxed{
+$
+\boxed{
 \begin{cases}
 \text{Maximize } Z = 120x_1 + 150x_2 \\
 2x_1 + 4x_2 \leq 100 \\
 3x_1 \leq 90 \\
 5x_1 + 3x_2 \leq 120 \\
 x_1 \geq 0, \quad x_2 \geq 0
-\end{ca$
-
+\end{cases}
+}
+$
 
 
 
