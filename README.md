@@ -626,7 +626,7 @@ x_2 = \text{quantity produced of product P2}
 
 <br>
 
-[Objective Function]():
+#### 1a. [Objective Function]():
 
 ### Maximize total profit:
 
