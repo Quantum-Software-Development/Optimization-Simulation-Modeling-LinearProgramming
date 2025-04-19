@@ -701,8 +701,6 @@ x_1 \geq 0, \quad x_2 \geq 0
 }
 ```
 
-#
-
 ## 📌 Summary Tables
 
 ### 🔢 Profit per Product
@@ -732,7 +730,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 | **R3**   |      120         |
 
 
-
+#
 	
  
  
