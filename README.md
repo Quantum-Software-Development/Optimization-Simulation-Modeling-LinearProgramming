@@ -657,7 +657,9 @@ x_2 = \text{quantity produced of product P2}
 
 
 
-<br><br>
+
+
+<br><br><br><br><br>
 
 
 ### **2.** [Solve graphically the LP presented below]():
