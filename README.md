@@ -620,12 +620,27 @@ x_2 = \text{quantity produced of product P2}
 
 <br>
 
-### 1a. [Objective Function]():
+### 2. [Objective Function]():
 
-### Maximize total profit:
+#### Maximize total profit:
 
 ### $\text{Maximize } Z = 120x_1 + 150x_2$
 
+<br>
+
+### 3. [Resource Constraints]():
+
+#### Each resource has limited availability:
+	
+•R1 constraint:
+
+2x_1 + 4x_2 \leq 100
+
+	
+ 
+ 
+ 
+ 
 
 
 
