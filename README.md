@@ -626,6 +626,10 @@ x_2 = \text{quantity produced of product P2}
 
 ### $\text{Maximize } Z = 120x_1 + 150x_2$
 
+```latex
+\text{Maximize } Z = 120x_1 + 150x_2
+```
+
 <br>
 
 ### 3. [Resource Constraints]():
