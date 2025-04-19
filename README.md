@@ -591,26 +591,28 @@ Summary of the problem:
 	•	Available resources: R1, R2, R3
 	•	Resource consumption per unit:
 
- <br>
 
-Product	R1/unit	R2/unit	R3/unit
+➢ Product	
+R1/unit; R2/unit; R3/unit
+
 P1	2	3	5
+
 P2	4	0	3
 
-Monthly resource availability:
+---
 
-<br>
+➢ Monthly resource availability:
 
 Resource	Availability
 R1	100
 R2	90
 R3	120
 
-<br>
+----
 
 ### [Goal]():
 
-Mathematically model the Linear Programming (LP) problem.
+### ***Mathematically model the Linear Programming (LP) problem***
 
 ### [Modeling step-by-step]():
 
