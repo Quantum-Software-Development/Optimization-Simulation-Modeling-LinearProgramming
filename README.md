@@ -675,9 +675,9 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ### 5. [Complete Mathematical Model]():
 
+
 <br>
 
-$$
 \boxed{
 \begin{cases}
 \text{Maximize } Z = 120x_1 + 150x_2 \\
@@ -688,8 +688,6 @@ x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 }
 $$
-
-<br>
 
 ```latex
 \boxed{
@@ -702,8 +700,19 @@ x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 }
 ```
+  
 <br>
 
+## 📌 Summary Tables
+
+### 🔢 Profit per Product
+
+| Product | Profit per Unit (u.m.) |
+|:--------|:----------------------:|
+| **P1**  | 120                    |
+| **P2**  | 150                    |
+
+  
 ### 🧰 Resource Usage per Unit
 
 | Product | R1/unit | R2/unit | R3/unit |
@@ -720,6 +729,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 | **R1**   |      100         |
 | **R2**   |       90         |
 | **R3**   |      120         |
+
 
 
 	
