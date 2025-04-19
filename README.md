@@ -575,12 +575,16 @@ A study on resource usage showed the possibility of producing two products: **P1
 - **P1 yields a profit of 120 monetary units per unit**
 - **P2 yields a profit of 150 monetary units per unit**
 
+<br>
+
 The production department provided the following **resource usage** table:
 
 | Product | R1/unit | R2/unit | R3/unit |
 |---------|---------|---------|---------|
 | **P1**  |    2    |    3    |    5    |
 | **P2**  |    4    |    0    |    3    |
+
+<br>
 
 And the **monthly resource availability**:
 
@@ -589,6 +593,33 @@ And the **monthly resource availability**:
 | **R1**   | 100                  |
 | **R2**   | 90                   |
 | **R3**   | 120                  |
+
+<br>
+
+---
+
+### 🎯 Objective:
+
+### ***Mathematically model the **Linear Programming (LP)** problem to **maximize profit** under resource constraints***.
+
+---
+
+### 🧠 Step-by-Step Modeling
+
+### 1. 🧮 Decision Variables
+
+- Let:
+
+x₁ = quantity produced of product P1
+
+x₂ = quantity produced of product P2
+
+Or in LaTeX (for use in documents):
+
+
+
+
+
 
 
 
