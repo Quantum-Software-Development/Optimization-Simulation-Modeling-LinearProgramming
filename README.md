@@ -564,79 +564,35 @@ After running Solver:
 <br>
 
 ## Extras Excercise:
+### 📊 Linear Programming Mathematical Model — Production Optimization
 
-### 1. [Develop a Mathematical Model – Linear Programming (LP)]():
+### ✅ Problem Statement
 
-📘 Problem Statement in English
+A company, after going through a production streamlining process, ended up with the availability of 3 productive resources: **R1**, **R2**, and **R3**.
 
-A company, after a production rationalization process, has 3 available productive resources: R1, R2, and R3. A study indicated the feasibility of manufacturing two products: P1 and P2. After analyzing costs and consulting the sales department, it was found that P1 yields a profit of 120 u.m. per unit and P2 yields 150 u.m. per unit. The production department provided the following resource usage table:
+A study on resource usage showed the possibility of producing two products: **P1** and **P2**. After evaluating costs and consulting the sales department, it was found that:
 
-### [Mathematically model the LP (only the mathematical model)]()
+- **P1 yields a profit of 120 monetary units per unit**
+- **P2 yields a profit of 150 monetary units per unit**
 
+The production department provided the following **resource usage** table:
 
 | Product | R1/unit | R2/unit | R3/unit |
 |---------|---------|---------|---------|
-| P1      |   2     |   3     |   5     |
-| P2      |   4     |   0     |   3     |
+| **P1**  |    2    |    3    |    5    |
+| **P2**  |    4    |    0    |    3    |
 
-| Resource Availability per month | R1 = 100 | R2 = 90 | R3 = 120 |
+And the **monthly resource availability**:
 
-<br>
-
-Summary of the problem:
-	•	Two products: P1 and P2
-	•	Profit per unit:
-	•	P1: 120 monetary units
-	•	P2: 150 monetary units
-	•	Available resources: R1, R2, R3
-	•	Resource consumption per unit:
+| Resource | Monthly Availability |
+|----------|----------------------|
+| **R1**   | 100                  |
+| **R2**   | 90                   |
+| **R3**   | 120                  |
 
 
-➢ Product	
-R1/unit; R2/unit; R3/unit
 
-P1	2	3	5
 
-P2	4	0	3
-
----
-
-➢ Monthly resource availability:
-
-Resource	Availability
-R1	100
-R2	90
-R3	120
-
-----
-
-### [Goal]():
-
-### ***Mathematically model the Linear Programming (LP) problem***
-
-### [Modeling step-by-step]():
-
-<br>
-
-#### 1. [Define the decision variables]():
-   
-• Let:
-
-$x_1 = quantity produced of product P1$
-
-$x_2 = quantity produced of product P2$
-
-<br>
-
-#### 2. [Objective Function]():
-
-Maximize total profit, which is the sum of the profit from each product multiplied by the quantity produced:
-
-$$
-\text{Maximize } Z = 120x_1 + 150x_2
-$$
-
-<br>
 
 
 
