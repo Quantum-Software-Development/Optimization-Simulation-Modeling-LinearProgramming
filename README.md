@@ -712,6 +712,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 | **P1**  | 120                    |
 | **P2**  | 150                    |
 
+<br>
   
 ### 🧰 Resource Usage per Unit
 
