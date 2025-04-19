@@ -620,14 +620,26 @@ Mathematically model the Linear Programming (LP) problem.
 
 <br>
 
-1. Define the decision variables
+#### 1. Define the decision variables:
    
 • Let:
 
 $ x_1 = quantity produced of product P1 $
 $ x_2 = quantity produced of product P2 $
 
-⸻
+<br>
+
+
+#### 2. Objective function:
+
+Maximize total profit, which is the sum of the profit from each product multiplied by the quantity produced:
+
+$$
+\text{Maximize } Z = 120x_1 + 150x_2
+$$
+
+<br>
+
 
 
 
