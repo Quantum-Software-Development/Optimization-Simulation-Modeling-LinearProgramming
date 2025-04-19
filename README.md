@@ -700,6 +700,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 }
 ```
+<br>
 
 ## 📌 Summary Tables
 
