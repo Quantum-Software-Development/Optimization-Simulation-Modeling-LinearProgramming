@@ -620,6 +620,16 @@ Mathematically model the Linear Programming (LP) problem.
 
 <br>
 
+1. Define the decision variables
+   
+• Let:
+
+$ x_1 = quantity produced of product P1 $
+$ x_2 = quantity produced of product P2 $
+
+⸻
+
+
 
 
 
