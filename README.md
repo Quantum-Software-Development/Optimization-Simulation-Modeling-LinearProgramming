@@ -636,13 +636,25 @@ x_2 = \text{quantity produced of product P2}
 
 ### $2x_1 + 4x_2 \leq 100$
 
+```latex
+2x_1 + 4x_2 \leq 100
+```
+
 #### ➢ [R2]() Constraint:
 
 ### $3x_1 \leq 90$
 
+```latex
+$3x_1 \leq 90
+```
+
 #### ➢ [R3]() Constraint:
 
 ### $5x_1 + 3x_2 \leq 120$
+
+```latex
+5x_1 + 3x_2 \leq 120
+```
 
 
 
