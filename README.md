@@ -604,11 +604,9 @@ And the **monthly resource availability**:
 
 ---
 
-### 🧠 Step-by-Step Modeling
+### 🧠 Step-by-Step Modeling;
 
-<br>
-
-#### 1. 🧮 Decision Variables
+#### 1. [Decision Variables]()
 
 - Let:
 
@@ -616,7 +614,25 @@ x₁ = quantity produced of product P1
 
 x₂ = quantity produced of product P2
 
-Or in LaTeX (for use in documents):
+<br>
+
+☟ Or in LaTeX (for use in documents):
+
+```latex
+x_1 = \text{quantity produced of product P1} \\
+
+x_2 = \text{quantity produced of product P2}
+```
+
+<br>
+
+[Objective Function]():
+
+### Maximize total profit:
+
+\text{Maximize } Z = 120x_1 + 150x_2
+
+
 
 
 
