@@ -632,17 +632,17 @@ x_2 = \text{quantity produced of product P2}
 
 #### Each resource has limited availability:
 	
-#### •R1 constraint:
+#### ➢ [R1 Constraint]():
 
 ### $2x_1 + 4x_2 \leq 100$
 
-<br>
-
-#### •R2 constraint:
+#### ➢ [R2 Constraint]():
 
 ### $3x_1 \leq 90$
 
-<br>
+#### ➢ [R3]() Constraint:
+
+### $5x_1 + 3x_2 \leq 120$
 
 
 
