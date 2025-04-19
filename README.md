@@ -675,8 +675,6 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ### 5. [Complete Mathematical Model]():
 
-<br><
-
 $$
 \boxed{
 \begin{cases}
@@ -688,8 +686,6 @@ x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 }
 $$
-
-<br>
 
 ```latex
 \boxed{
@@ -702,6 +698,16 @@ x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 }
 ```
+<br>
+
+## 📌 Summary Tables
+
+### 🔢 Profit per Product
+
+| Product | Profit per Unit (u.m.) |
+|:--------|:----------------------:|
+| **P1**  | 120                    |
+| **P2**  | 150                    |
 
 
 	
