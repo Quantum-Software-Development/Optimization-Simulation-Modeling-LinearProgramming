@@ -768,7 +768,30 @@ $$
 
 
 
-<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br><br><br>
 
 
 ### **3.** [Solve the following linear programming problem using the Simplex method]():
