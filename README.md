@@ -730,47 +730,16 @@ x_1 \geq 0, \quad x_2 \geq 0
 | **R3**   |      120         |
 
 
+<br>
+
+### 🧠 [Notes]():
+
+• This LP model can be solved using methods such as the Simplex Algorithm.
+ 
+• Can also be implemented in software such as Python (PuLP), MATLAB, or Excel Solver.
+
+
 #
-	
- 
- 
- 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br>
-
 
 ### **2.** [Solve graphically the LP presented below]():
 
