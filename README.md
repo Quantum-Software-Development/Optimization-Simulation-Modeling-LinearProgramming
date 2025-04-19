@@ -565,8 +565,6 @@ After running Solver:
 
 ## Extras Excercise:
 
-<br>
-
 ### 1. [Develop a Mathematical Model – Linear Programming (LP)]():
 
 📘 Problem Statement in English
@@ -613,8 +611,6 @@ R3	120
 ### [Goal]():
 
 Mathematically model the Linear Programming (LP) problem.
-
-<br>
 
 ### [Modeling step-by-step]():
 
