@@ -563,7 +563,11 @@ After running Solver:
 
 # Extras Excercise:
 
+<br>
+
 ## 1- 📊 [Linear Programming Mathematical Model — Production Optimization]()
+
+<br>
 
 ### ✅ Problem Statement
 
@@ -752,8 +756,12 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 Maximize  
 $$
-Z = 4x_1 + 3x_2
+
 $$
+
+```latex
+Z = 4x_1 + 3x_2
+```
 
 
 
