@@ -562,7 +562,8 @@ After running Solver:
 <br>
 
 ## Extras Excercise:
-### 📊 Linear Programming Mathematical Model — Production Optimization
+
+### 1- 📊 Linear Programming Mathematical Model — Production Optimization
 
 ### ✅ Problem Statement
 
@@ -745,25 +746,15 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 <br>
 
-### **2.** [Solve graphically the LP presented below]():
+---llll---
 
-<br>
+### 2- 📈 Graphical Solution to the Linear Programming (LP) Problem
 
-$$
-\
-\begin{aligned}
-\textbf{Max.} \quad & Z = 4x_1 + 3x_2 \\
-\textbf{S.a.} \quad &
-\begin{cases}
-x_1 + 3x_2 \leq 7 \\
-2x_1 + 2x_2 \leq 8 \\
-x_1 + x_2 \leq 3 \\
-x_2 \leq 2 \\
-x_1 \geq 0 \text{ e } x_2 \geq 0
-\end{cases}
-\end{aligned}
-\
-$$
+
+
+---oooo----
+
+
 
 
 
