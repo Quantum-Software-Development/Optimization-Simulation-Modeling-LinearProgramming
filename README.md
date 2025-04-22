@@ -799,6 +799,10 @@ Convert inequalities into equalities to draw the lines:
 
 <br>
 
+1. $x_1 + 3x_2 = 7$
+   - If $x_1 = 0 \Rightarrow x_2 = \frac{7}{3} \approx 2.33$
+   - If $x_2 = 0 \Rightarrow x_1 = 7$
+
 
 
 
