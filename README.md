@@ -599,7 +599,7 @@ And the **monthly resource availability**:
 
 <br>
 
-### 🎯 Objective:
+### 🎯 [Objective]():
 
 ### ***Mathematically model the **Linear Programming (LP)** problem to **maximize profit** under resource constraints***.
 
@@ -752,12 +752,12 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ## 2- 📈 [Graphical Solution to the Linear Programming (LP) Problem]():
 
-**Objective:**
-
-Maximize  
-$$
+[**Objective:**]()
 
 $$
+Z = 4x_1 + 3x_2
+$$
+
 
 ```latex
 Z = 4x_1 + 3x_2
