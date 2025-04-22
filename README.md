@@ -682,10 +682,9 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ### 5. [Complete Mathematical Model]():
 
-
 <br>
 
-$$
+$
 \boxed{
 \begin{cases}
 \text{Maximize } Z = 120x_1 + 150x_2 \\
@@ -695,7 +694,7 @@ $$
 x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 }
-$$
+$
 
 ```latex
 \boxed{
@@ -759,9 +758,9 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ### ➢ [**Objective:**]():
 
-$$
+$
 Z = 4x_1 + 3x_2
-$$
+$
 
 
 ```latex
