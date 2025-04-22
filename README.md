@@ -827,7 +827,11 @@ x_1 + 2x_2 = 8$
 
 <br><br>
 
+### [3](). $x_1 + x_2 = 3$
+   - If $x_1 = 0 \Rightarrow x_2 = 3$
+   - If $x_2 = 0 \Rightarrow x_1 = 3$
 
+<br>
 
 
 
