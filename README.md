@@ -569,7 +569,7 @@ After running Solver:
 
 <br>
 
-### ✅ Problem Statement
+### ✅ [Problem Statement]():
 
 A company, after going through a production streamlining process, ended up with the availability of 3 productive resources: **R1**, **R2**, and **R3**.
 
@@ -599,11 +599,13 @@ And the **monthly resource availability**:
 
 <br>
 
-### 🎯 [Objective]():
+### ➢ [Objective]():
 
 ### ***Mathematically model the **Linear Programming (LP)** problem to **maximize profit** under resource constraints***.
 
-### 🧠 Step-by-Step Modeling;
+<br>
+
+### ➢[Step-by-Step Modeling]();
 
 ### 1. [Decision Variables]()
 
