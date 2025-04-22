@@ -811,7 +811,7 @@ x_1 + 3x_2 = 7$
    - If $x_2 = 0 \Rightarrow x_1 = 7
 ```
   
-<br>
+<br><br>
 
 [2](). $2x_1 + 2x_2 = 8$
    - If $x_1 = 0 \Rightarrow x_2 = 4$
@@ -825,7 +825,7 @@ x_1 + 2x_2 = 8$
    - If $x_2 = 0 \Rightarrow x_1 = 4$
 ```
 
-<br>
+<br><br>
 
 
 
