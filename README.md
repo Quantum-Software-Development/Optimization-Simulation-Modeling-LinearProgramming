@@ -754,7 +754,9 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 ## 2- 📈 [Graphical Solution to the Linear Programming (LP) Problem]():
 
-### ➢[**Objective:**]():
+<br>
+
+### ➢ [**Objective:**]():
 
 $$
 Z = 4x_1 + 3x_2
@@ -790,6 +792,17 @@ x_1 \geq 0, \quad x_2 \geq 0
 ```
 
 <br>
+
+### ➢ [Step 1: Plot the Constraints]():
+
+Convert inequalities into equalities to draw the lines:
+
+<br>
+
+
+
+
+
 
 
 
