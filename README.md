@@ -799,28 +799,33 @@ Convert inequalities into equalities to draw the lines:
 
 <br>
 
-1. $x_1 + 3x_2 = 7$
+[1](). $x_1 + 3x_2 = 7$
    - If $x_1 = 0 \Rightarrow x_2 = \frac{7}{3} \approx 2.33$
    - If $x_2 = 0 \Rightarrow x_1 = 7$
   
 <br>
 
 ```latex
-1. x_1 + 3x_2 = 7$
+x_1 + 3x_2 = 7$
    - If $x_1 = 0 \Rightarrow x_2 = \frac{7}{3} \approx 2.33$
    - If $x_2 = 0 \Rightarrow x_1 = 7
 ```
   
 <br>
 
-2. $2x_1 + 2x_2 = 8$
+[2](). $2x_1 + 2x_2 = 8$
    - If $x_1 = 0 \Rightarrow x_2 = 4$
    - If $x_2 = 0 \Rightarrow x_1 = 4$
 
 <br>
 
+```latex
+x_1 + 2x_2 = 8$
+   - If $x_1 = 0 \Rightarrow x_2 = 4$
+   - If $x_2 = 0 \Rightarrow x_1 = 4$
+```
 
-
+<br>
 
 
 
