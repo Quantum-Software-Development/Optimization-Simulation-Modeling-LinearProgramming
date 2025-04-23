@@ -1006,7 +1006,7 @@ constraints.
 
 ### [Example: Unbalanced Transportation Problem]():
 
-### Initial Unbalanced Model:
+### ➠ Initial Unbalanced Model:
 
 <br>
 
@@ -1042,12 +1042,12 @@ O3 & 6  & 12 & 10 & 10 \\
 
 <br>
 
-Total supply = 60  
-Total demand = 66 → ⚠️ **Unbalanced** 
+Total supply = [60]()  
+Total demand = [66]() → ⚠️ **Unbalanced** 
 
-<br><br>
+#
 
-### Adjusted Balanced Model (Dummy Origin A Added):
+### ➠ Adjusted Balanced Model (Dummy Origin A Added):
 
 
 <br>
@@ -1085,7 +1085,7 @@ A  & 0  & 0  & 0 & 6 \\
 \]
 ```
 
-Now the model is **balanced**: 66 = 66
+### ➢ Now the model is **balanced**: [66 = 66]()
 
 
 
