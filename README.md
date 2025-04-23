@@ -1049,6 +1049,27 @@ Total demand = 66 → ⚠️ **Unbalanced**
 
 ### Adjusted Balanced Model (Dummy Origin A Added):
 
+
+<br>
+
+$$
+\
+\begin{array}{c|ccc|c}
+ & D1 & D2 & D3 & \text{Supply} \\
+\hline
+O1 & 10 & 12 & 9 & 20 \\
+O2 & 4  & 9  & 8 & 30 \\
+O3 & 6  & 12 & 10 & 10 \\
+A  & 0  & 0  & 0 & 6 \\
+\hline
+\text{Demand} & 25 & 36 & 5 & 66 \\
+\end{array}
+\
+$$
+
+
+<br>
+
 ```latex
 \[
 \begin{array}{c|ccc|c}
