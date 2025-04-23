@@ -1082,20 +1082,17 @@ A  & 0  & 0  & 0 & 6 \\
 
 <br>
 
-$$
-\
-\begin{array}{c|ccc|c}
- & D1 & D2 & D3 & \text{Supply} \\
-\hline
-O1 & 0 & 20 & 0 & 20 \\
-O2 & 5 & 25 & 0 & 30 \\
-O3 & 0 & 10 & 0 & 10 \\
-A  & 20 & 1 & 5 & 6 \\
-\hline
-\text{Demand} & 25 & 36 & 5 & 66 \\
-\end{array}
-\
-$$
+|      | D1 | D2 | D3 | Supply |
+|------|----|----|----|--------|
+| O1   | 0  | 20 | 0  | 20     |
+| O2   | 5  | 25 | 0  | 30     |
+| O3   | 0  | 10 | 0  | 10     |
+| A    | 20 | 1  | 5  | 6      |
+|      |    |    |    |        |
+| **Demand** | 25 | 36 | 5  | **66** |
+
+🟡 The values in the matrix represent the **quantities transported**.  
+🟠 Quantities from the dummy origin A represent **unsatisfied demand**.
 
 <br>
 
@@ -1119,7 +1116,6 @@ A  & 20 & 1 & 5 & 6 \\
 
 <br>
 
-#
 
 ## 🧠 Relation to Algorithms
 
@@ -1135,8 +1131,6 @@ The transportation problem is a special type of **Linear Programming** that can 
 These specialized algorithms are **faster** and **simpler** due to the regular structure of the transportation tableau.
 
 <br>
-
-#
 
 
 ## 📈 Transportation Algorithm & Simplex Connection:
@@ -1165,7 +1159,6 @@ These determine whether cost can be further reduced by adjusting flows along loo
 
 <br>
 
-#
 
 ## 🧭 Northwest Corner Method (Método do Canto Noroeste)
 
@@ -1189,7 +1182,6 @@ This is a method to generate an initial feasible solution without considering tr
 
 <br>
 
-#
 
 ## 💸 Least Cost Method (Método do Custo Mínimo)
 
@@ -1209,9 +1201,7 @@ This method takes into account the transportation costs to guide the initial all
 
 <br>
 
-#
-
-## 🔍 Link to Risk Analysis
+### 🔍 Link to Risk Analysis
 
 - Unbalanced models simulate **shortage/surplus risks**.
 - Dummy rows/columns help visualize **operational failures**.
@@ -1224,9 +1214,7 @@ This makes the model highly applicable to **supply chain risk management, disast
 
 <br>
 
-#
-
-## 📐 Initial Basic Feasible Solution
+### 📐 Initial Basic Feasible Solution
 
 A basic feasible solution must:
 1. Satisfy **all row (supply)** and **column (demand)** constraints.
@@ -1235,7 +1223,7 @@ A basic feasible solution must:
 
 These principles ensure a **non-degenerate** starting point for iterative improvement algorithms like MODI.
 
-#
+<br>
 
 ## 🧩 Summary
 
