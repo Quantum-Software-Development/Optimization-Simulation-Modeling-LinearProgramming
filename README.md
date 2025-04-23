@@ -684,7 +684,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 <br>
 
-$
+$$
 \boxed{
 \begin{cases}
 \text{Maximize } Z = 120x_1 + 150x_2 \\
@@ -693,7 +693,8 @@ $
 5x_1 + 3x_2 \leq 120 \\
 x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
-$
+}
+$$
 
 ```latex
 \boxed{
