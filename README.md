@@ -950,10 +950,30 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
 
 ### [Step 4]() ➢ Evaluate Objective Function at Each Vertex:
 
+## Feasible Vertices:
+
+- A: (0, 0)
+- B: (0, 2)
+- C: (1, 2)
+- D: (2, 2)
+- E: (2, 0)
+- F: (3, 0)
+
+<br>
+
+| Point | $x_1$ | $x_2$ | $Z = 4x_1 + 3x_2$ |
+|:-----:|:-----:|:-----:|:-----------------:|
+| A     | 0     | 0     | 0                 |
+| B     | 0     | 2     | 6                 |
+| C     | 1     | 2     | 10                |
+| D     | 2     | 2     | 14 ❌             |
+| E     | 2     | 0     | 8                 |
+| F     | 3     | 0     | 12                |
 
 
+<br><br>
 
-
+##  [Step 5]() ➢
 
 
 
@@ -1008,12 +1028,12 @@ $$
 
 
 
-#
+
 
 
 <br><br><br><br><br><br>
 
-# IX - [Transportation Problem (Linear Programming)]()
+## IX - [Transportation Problem (Linear Programming)]()
 
 <br>
 
