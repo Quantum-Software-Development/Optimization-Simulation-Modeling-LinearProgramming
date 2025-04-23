@@ -793,7 +793,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 <br>
 
-### ➢ [Step 1: Plot the Constraints]():
+## ➢ [Step 1](): Plot the Constraints:
 
 Convert inequalities into equalities to draw the lines:
 
@@ -841,9 +841,17 @@ x_1 + x_2 = 3
 
 <br><br>
 
+### [4](). $x_2 = 2$ → horizontal line
 
+<br>
 
+```latex
+x_2 = 2 → horizontal line
+```
 
+<br><br>
+
+## ➢ [Step 2](): Identify the Feasible Region
 
 
 
