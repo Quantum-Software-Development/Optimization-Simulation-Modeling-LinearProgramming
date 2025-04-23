@@ -592,7 +592,7 @@ After running Solver:
 
 <br>
 
-### 1- 📊 [Linear Programming Mathematical Model — Production Optimization]()
+## 1- 📊 [Linear Programming Mathematical Model — Production Optimization]()
 
 <br>
 
@@ -773,15 +773,10 @@ x_1 \geq 0, \quad x_2 \geq 0
  
 • Can also be implemented in software such as Python (PuLP), MATLAB, or Excel Solver.
 
-<br>
 
-#
+<br><br>
 
-<br>
-
-#
-
-### 2- 📈 [Graphical Solution to the Linear Programming (LP) Problem]():
+## 2- 📈 [Graphical Solution to the Linear Programming (LP) Problem]():
 
 <br>
 
@@ -796,7 +791,7 @@ $
 Z = 4x_1 + 3x_2
 ```
 
-<br><br>
+<br>
 
 ### ➢ [**Subject to:**]():
 
@@ -822,7 +817,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 <br>
 
-##  [Step 1]() ➢ Plot the Constraints:
+###  [Step 1]() ➢ Plot the Constraints:
 
 Convert inequalities into equalities to draw the lines:
 
@@ -840,7 +835,7 @@ x_1 + 3x_2 = 7$
    - If x_2 = 0 \Rightarrow x_1 = 7
 ```
   
-<br><br>
+<br>
 
 ### [2](). $2x_1 + 2x_2 = 8$
    - If $x_1 = 0 \Rightarrow x_2 = 4$
@@ -854,7 +849,7 @@ x_1 + 2x_2 = 8
    - If x_2 = 0 \Rightarrow x_1 = 4
 ```
 
-<br><br>
+<br>
 
 ### [3](). $x_1 + x_2 = 3$
    - If $x_1 = 0 \Rightarrow x_2 = 3$
@@ -878,9 +873,9 @@ x_1 + x_2 = 3
 x_2 = 2 → horizontal line
 ```
 
-<br><br>
+<br>
 
-## [Step 2]()  ➢ Identify the Feasible Region:
+### [Step 2]()  ➢ Identify the Feasible Region:
 
 - The feasible region is the intersection of all shaded regions that satisfy the constraints.
 - Must include $x_1 \geq 0$ and $x_2 \geq 0$.
@@ -891,9 +886,9 @@ x_2 = 2 → horizontal line
 x_1 \geq 0$ and $x_2 \geq 0
 ```
 
-<br><br><br>
+<br><br>
 
-##  [Step 3]() ➢ Find Intersection Points (Vertices):
+###  [Step 3]() ➢ Find Intersection Points (Vertices):
 
  <br> 
 
@@ -973,39 +968,42 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
 
 <br><br>
 
-##  [Step 5]() ➢
+##  [Step 5]() ➢ Check Feasibility:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
-
-#
+- **(2,2)** violates: $x_1 + 3x_2 = 2 + 6 = 8 > 7$ ❌
+- All others: ✅
 
 <br>
 
-### **3.** [Solve the following linear programming problem using the Simplex method]():
+### ✅ Final Step: Choose the Best Feasible Point
+
+| Point | $Z$ | Feasible |
+|:-----:|:---:|:--------:|
+| A     | 0   | Yes      |
+| B     | 6   | Yes      |
+| C     | 10  | Yes      |
+| E     | 8   | Yes      |
+| F     | 12  | ✅ Best   |
+| D     | 14  | No       |
+
+
+<br><br>
+
+### 🏁 [Conclusion]():
+
+- **Optimal solution:** $x_1 = 3$, $x_2 = 0$
+- **Maximum value:** $Z = 12$
+
+<br>
+
+```latex
+- **Optimal solution:** $x_1 = 3$, $x_2 = 0$
+- **Maximum value:** $Z = 12$
+```
+
+<br><br>
+
+## **3.** [Solve the following linear programming problem using the Simplex method]():
 
 <br>
 
@@ -1025,6 +1023,28 @@ x_1 \geq 0 \text{ e } x_2 \geq 0
 \
 $$
 
+<br>
+
+```latex
+\
+\begin{aligned}
+\text{Max.} \quad & Z = 4x_1 + 3x_2 \\
+\text{S.a.} \quad & 
+\begin{cases}
+x_1 + 3x_2 \leq 7 \\
+2x_1 + 2x_2 \leq 8 \\
+x_1 + x_2 \leq 3 \\
+x_2 \leq 2 \\
+x_1 \geq 0 \text{ e } x_2 \geq 0
+\end{cases}
+\end{aligned}
+\
+```
+
+<br>
+
+## 🚜 UNDER CONSTRUTION -----
+
 
 
 
@@ -1038,6 +1058,7 @@ $$
 <br>
 
 ### [Definition]():
+
 The transportation problem is a type of **linear programming** model where the objective is to determine the most **cost-efficient** way to transport goods from multiple sources (e.g., warehouses) to multiple 
 
 <br>
