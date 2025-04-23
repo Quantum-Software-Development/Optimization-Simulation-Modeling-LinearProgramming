@@ -209,7 +209,7 @@ $$\frac{x_1}{2} + \frac{2x_2}{3} \leq 170$$
 
 <br><br>
    
-## Solve the system using the **Simplex Method** or an optimization tool.
+## [Solve the system using the **Simplex Method** or an optimization tool]()
 
 <br>
 
@@ -327,7 +327,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 <br>
 
 
-## Steps to Solve Graphically
+## [Steps to Solve Graphically]()
 
 <br>
 
@@ -355,7 +355,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
 <br><br>
 
-## Possible Scenarios
+## [Possible Scenarios]()
 
 *   **Unique Optimal Solution:** The objective function achieves its maximum or minimum value at a single vertex of the feasible region [3, 5, 6].
 
@@ -367,7 +367,7 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
   <br>
 
-## Theorem on Optimal Solutions
+## [Theorem on Optimal Solutions]()
 
 If the feasible region of a linear programming problem is **non-empty and bounded**, then the objective function attains both a **maximum and a minimum value**, and these occur at **extreme points (vertices)** of the feasible region [5].
 
@@ -375,7 +375,7 @@ If the feasible region is **unbounded**, and if the objective function attains a
 
   <br>
 
-## Examples
+## [Examples]()
 
 The source provides several examples [6-8] that illustrate the graphical method for both maximization and minimization problems with different sets of constraints. These examples demonstrate how to plot the constraints, identify the feasible region, find the vertices, and evaluate the objective function to determine the optimal solution and its value. For instance, Example 1 [6] finds the maximum of $x_1 + 2x_2$ subject to several constraints.
 
@@ -1013,7 +1013,7 @@ $$
 
 <br><br><br><br><br><br>
 
-# VII - [Transportation Problem (Linear Programming)]()
+# IX - [Transportation Problem (Linear Programming)]()
 
 <br>
 
