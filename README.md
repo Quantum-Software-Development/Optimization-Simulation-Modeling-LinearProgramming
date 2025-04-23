@@ -993,7 +993,7 @@ The transportation problem is a type of **linear programming** model where the o
 
 <br>
 
-## [The Case of Unbalanced Systems]():
+### [The Case of Unbalanced Systems]():
 
 The standard transportation model assumes total supply equals total demand. However, in real-world scenarios, systems can be **unbalanced**.
 
@@ -1004,6 +1004,48 @@ constraints.
 
 <br>
 
+### [Example: Unbalanced Transportation Problem]():
+
+### Initial Unbalanced Model:
+
+<br>
+
+$$
+\
+\begin{array}{c|ccc|c}
+ & D1 & D2 & D3 & \text{Supply} \\
+\hline
+O1 & 10 & 12 & 9 & 20 \\
+O2 & 4  & 9  & 8 & 30 \\
+O3 & 6  & 12 & 10 & 10 \\
+\hline
+\text{Demand} & 25 & 36 & 5 & \text{Total: } 66 \\
+\end{array}
+\
+$$
+
+<br>
+
+```latex
+\[
+\begin{array}{c|ccc|c}
+ & D1 & D2 & D3 & \text{Supply} \\
+\hline
+O1 & 10 & 12 & 9 & 20 \\
+O2 & 4  & 9  & 8 & 30 \\
+O3 & 6  & 12 & 10 & 10 \\
+\hline
+\text{Demand} & 25 & 36 & 5 & \text{Total: } 66 \\
+\end{array}
+\]
+```
+
+<br>
+
+Total supply = 60  
+Total demand = 66 → ⚠️ **Unbalanced**
+
+<br><br>
 
 
 
