@@ -968,7 +968,7 @@ $$
 
 
 
-
+#
 
 
 <br><br><br><br><br><br>
@@ -1043,11 +1043,28 @@ O3 & 6  & 12 & 10 & 10 \\
 <br>
 
 Total supply = 60  
-Total demand = 66 → ⚠️ **Unbalanced**
+Total demand = 66 → ⚠️ **Unbalanced** 
 
 <br><br>
 
+### Adjusted Balanced Model (Dummy Origin A Added):
 
+```latex
+\[
+\begin{array}{c|ccc|c}
+ & D1 & D2 & D3 & \text{Supply} \\
+\hline
+O1 & 10 & 12 & 9 & 20 \\
+O2 & 4  & 9  & 8 & 30 \\
+O3 & 6  & 12 & 10 & 10 \\
+A  & 0  & 0  & 0 & 6 \\
+\hline
+\text{Demand} & 25 & 36 & 5 & 66 \\
+\end{array}
+\]
+```
+
+Now the model is **balanced**: 66 = 66
 
 
 
