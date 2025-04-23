@@ -853,6 +853,22 @@ x_2 = 2 → horizontal line
 
 ## ➢ [Step 2](): Identify the Feasible Region
 
+- The feasible region is the intersection of all shaded regions that satisfy the constraints.
+- Must include $x_1 \geq 0$ and $x_2 \geq 0$.
+
+ <br> 
+
+```latex
+x_1 \geq 0$ and $x_2 \geq 0
+```
+
+<br><br>
+
+
+## ➢ [Step 3](): Find Intersection Points (Vertices)
+
+
+
 
 
 
