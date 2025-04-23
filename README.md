@@ -1042,8 +1042,8 @@ O3 & 6  & 12 & 10 & 10 \\
 
 <br>
 
-Total supply = [60]()  
-Total demand = [66]() → ⚠️ **Unbalanced** 
+### ➢ Total supply = [60]()  
+### ➢ Total demand = [66]() → ⚠️ **Unbalanced** 
 
 #
 
