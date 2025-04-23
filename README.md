@@ -381,13 +381,13 @@ The source provides several examples [6-8] that illustrate the graphical method 
 
   <br>
 
-## Conclusion about the Graphical Method
+## [Conclusion about the Graphical Method]()
 
 The graphical method is a useful tool for solving linear programming problems with two decision variables, providing a clear visual representation of the solution process. It helps in understanding the concepts of feasible solutions, feasible regions, and the role of vertices in finding the optimal solution. However, this method is limited to problems with only two decision variables. For problems with more variables, more advanced techniques like the simplex algorithm are required.
 
 <br><br>
 
-# IV- The Simplex Method
+# IV- [The Simplex Method]()
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/5d0f89d3a4d9f67f900463505cb7d4b4e72d186a/class_4-Simplex%20Method/class_4-Simplex%20Method.pdf) to access Theoretical and Pratical Material. 
 
@@ -396,7 +396,7 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 <br>
 
-# V- Two-Stage Simplex
+# V- [Two-Stage Simplex]()
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-Modeling-LinearProgramming/blob/e09ce2c81b12f47975bdb0ed6b3acd77b2195532/class_6-Two-Stage%20Simplex./two-stage%20simplex..pdf) to access Theoretical and Pratical Material.
 
@@ -407,7 +407,7 @@ The graphical method is a useful tool for solving linear programming problems wi
 
 <br>
 
-# VI - [Excel Solver for Linear Programming - Simplex]():
+# VI - [Excel Solver for Linear Programming - Simplex]()
 
 
 The Excel Solver is an optimization tool available in Microsoft Excel that allows users to find the optimal solution to decision problems involving constraints and objectives. It can solve linear and nonlinear programming problems by adjusting the values of decision variables to maximize or minimize a target (objective) function, subject to a set of constraints.
@@ -428,31 +428,37 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
   <br>
 
 
-## Simplex Method using Excel Solver
+## VII - [Simplex Method using Excel Solver]()
 
 This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
 
----
+<br>
 
-### Problem
+### [Problem](): 
 
-Maximize the objective function:
+### [Maximize the objective function]():
 
 Z = 3x + 5y
 
-Subject to the constraints:
+### [Subject to the constraints]():
 
 x + 2y ≤ 100
 2x + y ≤ 80
 x, y ≥ 0
 
----
 
-### Excel Spreadsheet Setup
+<br>
 
-Fill the spreadsheet with the following structure:
 
-#### Variables and Objective
+### [Excel Spreadsheet Setup]():
+
+### **Fill the spreadsheet with the following structure:**
+
+<br>
+
+#### [*Variables and Objective*]()
+
+<br>
 
 | Cell | Description            | Formula / Value      |
 |------|------------------------|----------------------|
@@ -460,23 +466,32 @@ Fill the spreadsheet with the following structure:
 | B2   | y (Decision Variable)  | *(leave blank)*      |
 | B3   | Objective Function Z   | `=3*B1 + 5*B2`        |
 
-#### Constraints Left-Hand Side (LHS)
+<br>
+
+#### [*Constraints Left-Hand Side (LHS)*]()
+
+<br>
 
 | Cell | Description                | Formula             |
 |------|----------------------------|---------------------|
 | B5   | Constraint 1 LHS           | `=1*B1 + 2*B2`       |
 | B6   | Constraint 2 LHS           | `=2*B1 + 1*B2`       |
 
-#### Constraints Right-Hand Side (RHS)
+<br>
+
+#### [*Constraints Right-Hand Side (RHS)*]()
+
+<br>
 
 | Cell | Description                | Value               |
 |------|----------------------------|---------------------|
 | C5   | Constraint 1 RHS           | `100`               |
 | C6   | Constraint 2 RHS           | `80`                |
 
----
 
-### Solver Configuration (Simplex LP)
+<br><br>
+
+### [Solver Configuration (Simplex LP)]():
 
 1. Go to `Data` > `Solver`.
 2. Set Objective Cell: `B3`
@@ -490,7 +505,7 @@ Fill the spreadsheet with the following structure:
 6. Choose **Simplex LP** as the solving method.
 7. Click **Solve**.
 
----
+<br>
 
 ### Solution
 
@@ -505,13 +520,15 @@ Z = 260
 
 <br>
 
-## Excel Solver Example – Linear Programming with Simplex
+## [Excel Solver Example – Linear Programming with Simplex]()
 
 This example demonstrates how to use Excel Solver to solve a Linear Programming problem using the **Simplex Method**.
 
+<br>
+
 ### Problem Statement
 
-Maximize:
+### [Maximize]():
 
 Z = 40x + 30y
 
@@ -521,8 +538,12 @@ Subject to:
 x + 2y ≤ 50
 x, y ≥ 0
 
+<br>
 
-### Excel Setup
+### [*Excel Setup*]()
+
+<br>
+
 
 | Cell | Description              | Formula / Value     |
 |------|--------------------------|---------------------|
@@ -532,12 +553,17 @@ x, y ≥ 0
 | B5   | Constraint 1 (LHS)       | `=2*B1 + 1*B2`       |
 | B6   | Constraint 2 (LHS)       | `=1*B1 + 2*B2`       |
 
+<br>
+
 | Cell | Constraint RHS           | Value               |
 |------|--------------------------|---------------------|
 | C5   | Constraint 1 (RHS)       | 40                  |
 | C6   | Constraint 2 (RHS)       | 50                  |
 
-### Solver Configuration
+
+<br>
+
+### [*Solver Configuration*]()
 
 1. Set Objective: **B3**  
 2. To: **Maximize**  
@@ -548,10 +574,11 @@ x, y ≥ 0
    - **B1 >= 0**
    - **B2 >= 0**
 5. Choose **Simplex LP** as the solving method.
+6. Click **Solve** to find the optimal solution.
 
-Click **Solve** to find the optimal solution.
+<br>
 
-### Solution Output
+### [*Solution Output*]()
 
 After running Solver:
 
@@ -559,13 +586,13 @@ After running Solver:
 - **y = 20**
 - **Z = 40×10 + 30×20 = 1000**
 
+<br><
+
+## VIII - [Extras Excercise]():
+
 <br>
 
-# Extras Excercise:
-
-<br>
-
-## 1- 📊 [Linear Programming Mathematical Model — Production Optimization]()
+### 1- 📊 [Linear Programming Mathematical Model — Production Optimization]()
 
 <br>
 
@@ -752,7 +779,9 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 <br>
 
-## 2- 📈 [Graphical Solution to the Linear Programming (LP) Problem]():
+#
+
+### 2- 📈 [Graphical Solution to the Linear Programming (LP) Problem]():
 
 <br>
 
