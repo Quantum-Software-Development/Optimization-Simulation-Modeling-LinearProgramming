@@ -1133,6 +1133,21 @@ A  & 20 & 1 & 5 & 6 \\
 
 #
 
+## 🧠 Relation to Algorithms
+
+The transportation problem is a special type of **Linear Programming** that can be solved with:
+
+- **Simplex Method**: General LP solver; can handle transportation problems but not optimized for them.
+- **Specialized Algorithms**:
+  - Northwest Corner Rule
+  - Least Cost Method
+  - Vogel’s Approximation Method (VAM)
+  - MODI (Modified Distribution Method)
+
+These specialized algorithms are **faster** and **simpler** due to the regular structure of the transportation tableau.
+
+#
+
 
 
 
