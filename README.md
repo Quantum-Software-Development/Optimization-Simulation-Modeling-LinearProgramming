@@ -1146,9 +1146,118 @@ The transportation problem is a special type of **Linear Programming** that can 
 
 These specialized algorithms are **faster** and **simpler** due to the regular structure of the transportation tableau.
 
+<br>
+
 #
 
 
+## 📈 Transportation Algorithm & Simplex Connection:
+
+The transportation algorithm follows the **same logic as the Simplex method**, but with **simplifications** tailored to the structure of transportation problems:
+
+### 🔹 1st Phase: Initial Basic Feasible Solution
+
+We will use two methods to find a basic solution:
+
+- **Northwest Corner Method**
+- **Least Cost Method**
+
+These provide starting points for optimization.
+
+<br>
+
+### 🔹 2nd Phase: Optimality Check:
+
+After obtaining a feasible solution, we check for optimality using methods like:
+
+- **MODI Method** (Modified Distribution)
+- **Stepping Stone Method**
+
+These determine whether cost can be further reduced by adjusting flows along loops in the matrix.
+
+<br>
+
+#
+
+## 🧭 Northwest Corner Method (Método do Canto Noroeste)
+
+This is a method to generate an initial feasible solution without considering transportation costs.
+
+<br>
+
+### 🔹 Steps:
+
+1. **Start in the top-left (northwest) corner** of the transportation table.
+   - This is always cell $begin:math:text$ x_{11} $end:math:text$.
+2. **Allocate as much as possible** to the selected cell, respecting the available supply and demand.
+3. **Block the row or column** where the supply or demand has been fully used (but only one if both are zero simultaneously).
+   - Mark the blocked row/column with an 'x'.
+   - This ensures that some basic variables have zero values (necessary for basic feasible solution).
+4. **Repeat** the steps with the next unblocked cell in the top-left of the remaining matrix.
+
+🔁 Continue until all cells are either allocated or blocked.
+
+🟢 This method is **simple and quick**, but not necessarily optimal — further optimization is done in the next phase.
+
+<br>
+
+#
+
+## 💸 Least Cost Method (Método do Custo Mínimo)
+
+This method takes into account the transportation costs to guide the initial allocation.
+
+<br>
+
+### 🔹 Steps:
+
+1. **Identify the cell with the lowest unit cost** in the cost matrix among the remaining unallocated cells.
+2. **Allocate as much as possible** to this cell, without exceeding supply or demand constraints.
+3. **Adjust the supply and demand** for the row and column of the allocated cell.
+4. **Remove** (cross out) the row or column where supply or demand becomes zero. If both are zero simultaneously, cross out only one to maintain feasibility.
+5. **Repeat** the steps until all supplies and demands are met.
+
+⚠️ Unlike the Northwest Corner, this method **considers the costs** and usually leads to a **better initial solution**, closer to the optimal.
+
+<br>
+
+#
+
+## 🔍 Link to Risk Analysis
+
+- Unbalanced models simulate **shortage/surplus risks**.
+- Dummy rows/columns help visualize **operational failures**.
+- Solutions help identify:
+  - Where **stockouts** will occur
+  - How to **redistribute resources**
+  - Costs of **unserved demands**
+
+This makes the model highly applicable to **supply chain risk management, disaster response logistics, and critical infrastructure planning**.
+
+<br>
+
+#
+
+## 📐 Initial Basic Feasible Solution
+
+A basic feasible solution must:
+1. Satisfy **all row (supply)** and **column (demand)** constraints.
+2. Include exactly **(m + n − 1)** basic variables (with m origins and n destinations).
+3. Avoid **closed loops (cycles)** in the tableau — these are patterns where allocation forms a polygon that violates independence.
+
+These principles ensure a **non-degenerate** starting point for iterative improvement algorithms like MODI.
+
+#
+
+## 🧩 Summary
+
+The transportation problem provides a clear, visual way to:
+- Model **linear resource flows**,
+- Simulate **imbalances and failure points**,
+- Optimize with **tailored algorithms**, and
+- Integrate with **Simplex** and **risk frameworks** for smarter planning.
+
+It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Science**.
 
 
 
