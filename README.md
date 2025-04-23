@@ -967,14 +967,42 @@ $$
 
 
 
+
+
+
+
 <br><br><br><br><br><br>
 
-## VII - [Relationship Between the Transportation Problem, Risk Analysis, and Algorithms]():
+# VII - [Transportation Problem (Linear Programming)]()
 
 <br>
 
-### 1. **The Transportation Problem as a Mathematical Decision Model**
-The transportation model is a classical case in **Linear Programming (LP)**. It aims to optimize the allocation of limited resources (e.g., goods, time, energy) from multiple origins to multiple destinations, minimizing cost while satisfying constraints.
+### [Definition]():
+The transportation problem is a type of **linear programming** model where the objective is to determine the most **cost-efficient** way to transport goods from multiple sources (e.g., warehouses) to multiple 
+
+<br>
+
+### [Key Concepts]():
+
+- **Origins (Sources)**: Where goods are located.
+- **Destinations (Sinks)**: Where goods are needed.
+- **Supply**: Available quantity at each origin.
+- **Demand**: Required quantity at each destination.
+- **Cost Matrix**: Unit cost of transporting goods from each origin to each destination.
+- **Decision Variable**: Quantity to transport from each origin to each destination.
+
+<br>
+
+## [The Case of Unbalanced Systems]():
+
+The standard transportation model assumes total supply equals total demand. However, in real-world scenarios, systems can be **unbalanced**.
+
+- If total **supply ≠ demand**, the model can be adjusted by **adding a dummy origin or destination** to absorb the difference.
+- The unit transportation **cost for dummy cells is zero**.
+- Any quantity sent from or to dummy cells reflects **unfulfilled demand or leftover supply**, allowing simulation of **shortages or surpluses**.
+constraints.
+
+<br>
 
 
 
