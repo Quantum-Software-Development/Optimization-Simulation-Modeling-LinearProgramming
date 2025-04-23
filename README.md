@@ -767,7 +767,7 @@ $
 Z = 4x_1 + 3x_2
 ```
 
-<br>
+<br><br>
 
 ### ➢ [**Subject to:**]():
 
@@ -793,7 +793,7 @@ x_1 \geq 0, \quad x_2 \geq 0
 
 <br>
 
-## ➢ [Step 1](): Plot the Constraints:
+##  [Step 1]() ➢ Plot the Constraints:
 
 Convert inequalities into equalities to draw the lines:
 
@@ -839,7 +839,7 @@ x_1 + x_2 = 3
    - If x_2 = 0 \Rightarrow x_1 = 3
 ```
 
-<br><br>
+<br>
 
 ### [4](). $x_2 = 2$ → horizontal line
 
@@ -849,9 +849,9 @@ x_1 + x_2 = 3
 x_2 = 2 → horizontal line
 ```
 
-<br><br><br>
+<br><br>
 
-## ➢ [Step 2](): Identify the Feasible Region
+## [Step 2]()  ➢ Identify the Feasible Region:
 
 - The feasible region is the intersection of all shaded regions that satisfy the constraints.
 - Must include $x_1 \geq 0$ and $x_2 \geq 0$.
@@ -864,7 +864,7 @@ x_1 \geq 0$ and $x_2 \geq 0
 
 <br><br><br>
 
-## ➢ [Step 3](): Find Intersection Points (Vertices)
+##  [Step 3]() ➢ Find Intersection Points (Vertices):
 
  <br> 
 
@@ -882,7 +882,7 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
    - Point: **(2.5, 1.5)**
 ```
 
-<br><br>
+<br>
 
 ### [2](). Intersection of $x_1 + 3x_2 = 7$ and $x_1 + x_2 = 3$:
    - Subtract: $2x_2 = 4 \Rightarrow x_2 = 2$, $x_1 = 1$
@@ -896,21 +896,32 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
    - Point: **(1, 2)**
 ```
 
+<br>
+
+### [3](). Intersection of $x_1 + x_2 = 3$ and $x_2 = 2$:
+   - $x_1 = 1$
+   - Point: **(1, 2)**
+
+<br>
+
+### [4](). Intersection of $2x_1 + 2x_2 = 8$ and $x_2 = 2$:
+   - $x_1 = 2$
+   - Point: **(2, 2)**
+
+<br>
+
+### [5](). $x_1 + x_2 = 3$ and $x_1 = 0 \Rightarrow x_2 = 3$ ❌ (Invalid since $x_2 \leq 2$)
+
+<br>
+
+### [6](). $x_1 + 3x_2 = 7$ and $x_1 = 0 \Rightarrow x_2 = 7/3 \approx 2.33$ ❌ (Invalid since $x_2 \leq 2$)
+
+
 <br><br>
 
+### [Step 4]() ➢ Evaluate Objective Function at Each Vertex:
 
 
-
-
-
-
-
-
----lll--- LATER-----
-
-<br><br><br>
-
-## ➢ [Step 4](): Evaluate Objective Function at Each Vertex
 
 
 
