@@ -586,7 +586,7 @@ After running Solver:
 - **y = 20**
 - **Z = 40×10 + 30×20 = 1000**
 
-<br><
+<br>
 
 ## VIII - [Extras Excercise]():
 
