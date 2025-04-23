@@ -969,7 +969,7 @@ $$
 
 <br><br><br><br><br><br>
 
-## VI - [Relationship Between the Transportation Problem, Risk Analysis, and Algorithms]():
+## VII - [Relationship Between the Transportation Problem, Risk Analysis, and Algorithms]():
 
 <br>
 
