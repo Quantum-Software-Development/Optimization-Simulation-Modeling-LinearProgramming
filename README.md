@@ -1006,7 +1006,7 @@ constraints.
 
 ### [Example: Unbalanced Transportation Problem]():
 
-### ➠ Initial Unbalanced Model:
+### ➠ [Initial Unbalanced Model]():
 
 <br>
 
@@ -1047,8 +1047,7 @@ O3 & 6  & 12 & 10 & 10 \\
 
 #
 
-### ➠ Adjusted Balanced Model (Dummy Origin A Added):
-
+### ➠ [Adjusted Balanced Model (Dummy Origin A Added)]():
 
 <br>
 
@@ -1086,6 +1085,53 @@ A  & 0  & 0  & 0 & 6 \\
 ```
 
 ### ➢ Now the model is **balanced**: [66 = 66]()
+
+<br>
+
+#
+
+### ➠ [Feasible Solution Example]():
+
+<br>
+
+$$
+\
+\begin{array}{c|ccc|c}
+ & D1 & D2 & D3 & \text{Supply} \\
+\hline
+O1 & 0 & 20 & 0 & 20 \\
+O2 & 5 & 25 & 0 & 30 \\
+O3 & 0 & 10 & 0 & 10 \\
+A  & 20 & 1 & 5 & 6 \\
+\hline
+\text{Demand} & 25 & 36 & 5 & 66 \\
+\end{array}
+\
+$$
+
+<br>
+
+```latex
+\[
+\begin{array}{c|ccc|c}
+ & D1 & D2 & D3 & \text{Supply} \\
+\hline
+O1 & 0 & 20 & 0 & 20 \\
+O2 & 5 & 25 & 0 & 30 \\
+O3 & 0 & 10 & 0 & 10 \\
+A  & 20 & 1 & 5 & 6 \\
+\hline
+\text{Demand} & 25 & 36 & 5 & 66 \\
+\end{array}
+\]
+```
+
+🟡 The values in the matrix represent the **quantities transported**.  
+🟠 $begin:math:text$ X_{A2} = 1 $end:math:text$, $begin:math:text$ X_{A3} = 5 $end:math:text$: These are **unsatisfied demands**.
+
+<br>
+
+#
 
 
 
