@@ -540,7 +540,7 @@ x, y ≥ 0
 
 <br>
 
-### [*Excel Setup*]()
+### [*Excel Setup*]():
 
 <br>
 
@@ -563,7 +563,7 @@ x, y ≥ 0
 
 <br>
 
-### [*Solver Configuration*]()
+### [*Solver Configuration*]():
 
 1. Set Objective: **B3**  
 2. To: **Maximize**  
@@ -578,7 +578,7 @@ x, y ≥ 0
 
 <br>
 
-### [*Solution Output*]()
+### [*Solution Output*]():
 
 After running Solver:
 
@@ -632,9 +632,9 @@ And the **monthly resource availability**:
 
 <br>
 
-### ➢[Step-by-Step Modeling]();
+### ➢[Step-by-Step Modeling]()
 
-### 1. [Decision Variables]()
+### 1. [Decision Variables]():
 
 - Let:
 
@@ -696,9 +696,9 @@ $3x_1 \leq 90
 
 <br>
 
-### 4. [Non-Negativity Constraints]():
+### 4. [Non-Negativity Constraints]()
 
-#### We cannot produce a negative quantity of products:
+### ***We cannot produce a negative quantity of products***:
 
 ### $x_1 \geq 0, \quad x_2 \geq 0$
 
