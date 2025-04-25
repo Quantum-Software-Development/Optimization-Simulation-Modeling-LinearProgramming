@@ -1247,7 +1247,7 @@ This is a method to generate an initial feasible solution without considering tr
 
 <br>
 
-### 🔹 Steps:
+### ➢ Steps:
 
 1. **Start in the top-left (northwest) corner** of the transportation table.
    - This is always cell $begin:math:text$ x_{11} $end:math:text$.
@@ -1264,13 +1264,13 @@ This is a method to generate an initial feasible solution without considering tr
 <br>
 
 
-## 💸 Least Cost Method (Método do Custo Mínimo)
+## 💸  [Least Cost Method (Método do Custo Mínimo]():
 
 This method takes into account the transportation costs to guide the initial allocation.
 
 <br>
 
-### 🔹 Steps:
+### ➢ [Steps]():
 
 1. **Identify the cell with the lowest unit cost** in the cost matrix among the remaining unallocated cells.
 2. **Allocate as much as possible** to this cell, without exceeding supply or demand constraints.
@@ -1278,11 +1278,15 @@ This method takes into account the transportation costs to guide the initial all
 4. **Remove** (cross out) the row or column where supply or demand becomes zero. If both are zero simultaneously, cross out only one to maintain feasibility.
 5. **Repeat** the steps until all supplies and demands are met.
 
+
+<br>
+   
+
 ⚠️ Unlike the Northwest Corner, this method **considers the costs** and usually leads to a **better initial solution**, closer to the optimal.
 
 <br>
 
-### 🔍 Link to Risk Analysis
+### 🔍  [Link to Risk Analysis]():
 
 - Unbalanced models simulate **shortage/surplus risks**.
 - Dummy rows/columns help visualize **operational failures**.
@@ -1290,12 +1294,14 @@ This method takes into account the transportation costs to guide the initial all
   - Where **stockouts** will occur
   - How to **redistribute resources**
   - Costs of **unserved demands**
+ 
+<br>
 
 This makes the model highly applicable to **supply chain risk management, disaster response logistics, and critical infrastructure planning**.
 
 <br>
 
-### 📐 Initial Basic Feasible Solution
+### 📐 [Initial Basic Feasible Solution]():
 
 A basic feasible solution must:
 1. Satisfy **all row (supply)** and **column (demand)** constraints.
@@ -1306,17 +1312,21 @@ These principles ensure a **non-degenerate** starting point for iterative improv
 
 <br>
 
-## 🧩 Summary
+### 🧩 [Summary]():
 
 The transportation problem provides a clear, visual way to:
 - Model **linear resource flows**,
 - Simulate **imbalances and failure points**,
 - Optimize with **tailored algorithms**, and
 - Integrate with **Simplex** and **risk frameworks** for smarter planning.
+<br>
+
 
 It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Science**.
 
 
+
+<br><br>
 
    
 
@@ -1369,22 +1379,6 @@ $\frac{x_1}{2} + \frac{2x_2}{3} \leq 170\$
 $x_1 \geq 0, \quad x_2 \geq 0\$
 -->
 
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
 
 
 
