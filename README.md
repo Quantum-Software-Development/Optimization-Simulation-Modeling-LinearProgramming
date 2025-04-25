@@ -1198,7 +1198,7 @@ A  & 20 & 1 & 5 & 6 \\
 <br>
 
 
-## 🧠 Relation to Algorithms
+## 🧠 [Relation to Algorithms]()
 
 The transportation problem is a special type of **Linear Programming** that can be solved with:
 
@@ -1214,11 +1214,11 @@ These specialized algorithms are **faster** and **simpler** due to the regular s
 <br>
 
 
-## 📈 Transportation Algorithm & Simplex Connection:
+## 📈 [Transportation Algorithm & Simplex Connection]():
 
 The transportation algorithm follows the **same logic as the Simplex method**, but with **simplifications** tailored to the structure of transportation problems:
 
-### 🔹 1st Phase: Initial Basic Feasible Solution
+### 🔹 [1st Phase](): Initial Basic Feasible Solution
 
 We will use two methods to find a basic solution:
 
@@ -1229,7 +1229,7 @@ These provide starting points for optimization.
 
 <br>
 
-### 🔹 2nd Phase: Optimality Check:
+### 🔹 [2nd Phase](): Optimality Check:
 
 After obtaining a feasible solution, we check for optimality using methods like:
 
@@ -1241,13 +1241,13 @@ These determine whether cost can be further reduced by adjusting flows along loo
 <br>
 
 
-## 🧭 Northwest Corner Method (Método do Canto Noroeste)
+## 🧭 [Northwest Corner Method (Método do Canto Noroeste]()
 
 This is a method to generate an initial feasible solution without considering transportation costs.
 
 <br>
 
-### ➢ Steps:
+### ➢ [Steps]():
 
 1. **Start in the top-left (northwest) corner** of the transportation table.
    - This is always cell $begin:math:text$ x_{11} $end:math:text$.
