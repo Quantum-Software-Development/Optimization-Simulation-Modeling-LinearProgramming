@@ -588,7 +588,7 @@ After running Solver:
 
 <br>
 
-## VIII - [Extras Excercise]():
+# VIII - [Extras Excercise]():
 
 <br>
 
