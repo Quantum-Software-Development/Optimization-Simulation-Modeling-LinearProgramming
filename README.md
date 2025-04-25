@@ -1053,7 +1053,7 @@ x_1 \geq 0 \text{ e } x_2 \geq 0
 
 <br><br><br><br><br><br>
 
-## IX - [Transportation Problem (Linear Programming)]()
+# IX - [Transportation Problem (Linear Programming)]()
 
 <br>
 
