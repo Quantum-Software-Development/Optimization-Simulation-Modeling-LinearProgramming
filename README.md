@@ -339,16 +339,16 @@ The **graphical method** for solving simple linear programming (LP) problems inv
 
  <br>
 
-3.  **Identify the Vertices:** Determine the coordinates of all the vertices (corner points) of the feasible region [4, 6]. These are the points where the boundary lines intersect.
+3.  **[Identify the Vertices]():** Determine the coordinates of all the vertices (corner points) of the feasible region [4, 6]. These are the points where the boundary lines intersect.
 
  <br>
  
-4.  **Evaluate the Objective Function at Each Vertex:** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point [6].
+4.  **[Evaluate the Objective Function at Each Vertex]():** Substitute the coordinates of each vertex into the objective function to find the value of the objective function at that point [6].
 
 
  <br>
 
-5.  **Determine the Optimal Solution:**
+5.  **[Determine the Optimal Solution]():**
     *   For a **maximization** problem, the vertex that yields the **largest** value of the objective function is the optimal solution [1, 6].
     *   For a **minimization** problem, the vertex that yields the **smallest** value of the objective function is the optimal solution [2, 7].
 
