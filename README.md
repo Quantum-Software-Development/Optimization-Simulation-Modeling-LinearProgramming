@@ -428,13 +428,13 @@ In the context of Linear Programming (LP) and the Simplex Method, Excel Solver c
   <br>
 
 
-## VII - [Simplex Method using Excel Solver]()
+# VII - [Simplex Method using Excel Solver]()
 
 This example shows how to solve a Linear Programming (LP) problem using the **Simplex Method** via **Excel Solver**.
 
 <br>
 
-### [Problem](): 
+## [Problem](): 
 
 ### [Maximize the objective function]():
 
@@ -450,7 +450,7 @@ x, y ≥ 0
 <br>
 
 
-### [Excel Spreadsheet Setup]():
+### - [Excel Spreadsheet Setup]():
 
 ### **Fill the spreadsheet with the following structure:**
 
@@ -491,7 +491,7 @@ x, y ≥ 0
 
 <br><br>
 
-### [Solver Configuration (Simplex LP)]():
+### - [Solver Configuration (Simplex LP)]():
 
 1. Go to `Data` > `Solver`.
 2. Set Objective Cell: `B3`
@@ -507,7 +507,7 @@ x, y ≥ 0
 
 <br>
 
-### Solution
+### - [Solution]():
 
 After running Solver
 
