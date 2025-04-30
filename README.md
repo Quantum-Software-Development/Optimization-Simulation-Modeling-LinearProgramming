@@ -1335,7 +1335,7 @@ The initial solution obtained via the Northwest Corner Method has a total cost o
 
 <br>
 
-### Step 1: [Optimality Check Using Multipliers](0
+### Step 1: [Optimality Check Using Multipliers]()
 
 ### - [**Multipliers calculation**]():
   
@@ -1345,7 +1345,6 @@ The initial solution obtained via the Northwest Corner Method has a total cost o
 u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 ```
  
-  
     
 ### - [**Reduced costs** for non-basic variables]():
     
