@@ -1321,24 +1321,49 @@ The transportation problem provides a clear, visual way to:
 - Simulate **imbalances and failure points**,
 - Optimize with **tailored algorithms**, and
 - Integrate with **Simplex** and **risk frameworks** for smarter planning.
+  
 <br>
 
 
 It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Science**.
+
+<br><br>
+
+# X - [ Northwest Corner Method]()
+
+The initial solution obtained via the Northwest Corner Method has a total cost of 9690 but is not optimal. After one iteration of the transportation algorithm, the solution improves, but the process reveals complexities in achieving optimality. Here's the detailed analysis:
+
+<br>
+
+### Step 1: [Optimality Check Using Multipliers](0
+
+- **Multipliers calculation**:
+  - Set $u_1 = 0$, leading to $v_1 = 12$, $u_2 = 6$, $v_2 = 18$, $u_3 = -3$, and $v_3 = 37$.
+ 
+    
+    
+  - **Reduced costs** for non-basic variables:
+    - $\bar{c}_{12} = -4$, $\bar{c}_{13} = 7$, $\bar{c}_{23} = 11$, $\bar{c}_{31} = -13$.
+
+
+
+  - Negative reduced costs indicate non-optimality.
+
+
+
+
+
+
+
+
+
+
 
 
 
 <br><br>
 
    
-
-
-
-
-
-
-
-
 
 
 <!--
