@@ -1335,7 +1335,7 @@ The initial solution obtained via the Northwest Corner Method has a total cost o
 
 <br>
 
-### Step 1: [Optimality Check Using Multipliers]()
+### [Step 1](): Optimality Check Using Multipliers
 
 ### - [**Multipliers calculation**]():
   
