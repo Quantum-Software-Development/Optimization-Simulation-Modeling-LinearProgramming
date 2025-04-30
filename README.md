@@ -25,7 +25,9 @@
 
 #### ➣ [Access Tutoril]() about solving LP problems using [Geogebra](https://youtu.be/nHYNeWIDd3g?si=n_UaKVjFmTM1Nhst)
 
-#### ➢ [Access PHPSimplex](https://https://www.phpsimplex.com/en/index.htm)
+#### ➢ [Access PHPSimplex](https://www.phpsimplex.com/pt/)
+
+
 
 #### ➢ [Analytics4All](https://analytics4all.org/2016/06/08/phpsimplex-simplex-linear-programming/)
 
