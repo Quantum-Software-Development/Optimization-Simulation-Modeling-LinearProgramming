@@ -1337,34 +1337,22 @@ The initial solution obtained via the Northwest Corner Method has a total cost o
 
 ### Step 1: [Optimality Check Using Multipliers](0
 
-- **Multipliers calculation**:
-  - Set $u_1 = 0$, leading to $v_1 = 12$, $u_2 = 6$, $v_2 = 18$, $u_3 = -3$, and $v_3 = 37$.
+### - **Multipliers calculation**:
+  
+### - Set $u_1 = 0$, leading to $v_1 = 12$, $u_2 = 6$, $v_2 = 18$, $u_3 = -3$, and $v_3 = 37$.
  
+<br>    
     
+### - **Reduced costs** for non-basic variables:
     
-  - **Reduced costs** for non-basic variables:
-    - $\bar{c}_{12}$ = -4\$, $ \bar{c}_{13}\$ = $7$, $\bar{c}_{23} = 11$, $\bar{c}_{31} = -13$.
-   
-    - Valores dos coeficientes:
-
-- $\bar{c}_{12} = -4$
-- $\bar{c}_{13} = 7$
-- $\bar{c}_{23} = 11$
-- $\bar{c}_{31} = -13$
+### - $\bar{c}_{12} = -4$
+### - $\bar{c}_{13} = 7$
+### - $\bar{c}_{23} = 11$
+### - $\bar{c}_{31} = -13$
 
 
-
-  - Negative reduced costs indicate non-optimality.
+- Negative reduced costs indicate non-optimality.
  
-
-------22223222------0
-
-### Step 1: Optimality Check Using Multipliers
-- **Multipliers calculation**:
-  - Set $$ u_1 = 0 $$, leading to $$ v_1 = 12 $$, $$ u_2 = 6 $$, $$ v_2 = 18 $$, $$ u_3 = -3 $$, and $$ v_3 = 37 $$.
-  - **Reduced costs** for non-basic variables:
-    - $\bar{c}_{12} = -4$, $ \bar{c}_{13} = 7$, $$ \bar{c}_{23} = 11 $$, $$ \bar{c}_{31} = -13 $$.
-  - Negative reduced costs indicate non-optimality.
 
 
 
