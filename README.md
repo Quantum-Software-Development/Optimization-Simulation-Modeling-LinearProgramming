@@ -1343,7 +1343,7 @@ The initial solution obtained via the Northwest Corner Method has a total cost o
     
     
   - **Reduced costs** for non-basic variables:
-    - $\bar{c}_{12} = -4$, $\bar{c}_{13} = 7$, $\bar{c}_{23} = 11$, $\bar{c}_{31} = -13$.
+    - $\bar{c}_{12} = -4\$, $\bar{c}_{13}$ = $7$, $\bar{c}_{23} = 11$, $\bar{c}_{31} = -13$.
 
 
 
