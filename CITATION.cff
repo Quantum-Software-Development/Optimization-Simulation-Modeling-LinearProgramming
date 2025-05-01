@@ -1,0 +1,10 @@
+
+cff-version: 1.2.0
+title: Fabiana Campanari repository
+message: If you really want to cite this repository, here's how you should cite it.
+type: software
+authors:
+  - given-names: Fabiana
+    family-names: Campanari
+repository-code: https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming
+license: MIT License
