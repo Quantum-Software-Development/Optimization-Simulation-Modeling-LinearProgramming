@@ -637,6 +637,22 @@ x_1 \geq 0 \text{ e } x_2 \geq 0
 
 <br>
 
+SS
+\[
+\left\{
+\begin{aligned}
+x_1 + 3x_2 + s_1 &= 7 \\
+2x_1 + 2x_2 + s_2 &= 8 \\
+x_1 + x_2 + s_3 &= 3 \\
+x_2 + s_4 &= 2 \\
+x_1,\, x_2,\, s_1,\, s_2,\, s_3,\, s_4 &\geq 0
+\end{aligned}
+\right.
+\]
+$$
+
+\\\\\\\hgshjxgshudhfkurehgfkjrehgio;trj
+
 $x_1 + 3x_2 + s_1 = 7$  
 $2x_1 + 2x_2 + s_2 = 8$  
 $x_1 + x_2 + s_3 = 3$  
