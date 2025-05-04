@@ -594,7 +594,7 @@ After running Solver:
 
 This example presents a complete, step-by-step solution to a **Linear Programming (LP)** problem using the **Simplex Method**, along with a basic **Python implementation**.
 
-## 🧮 [Problem Statemen]():
+## 🧮 [Problem Statement]():
 
 ### [**Maximize:**]():
 
@@ -662,7 +662,7 @@ x_1,\, x_2,\, s_1,\, s_2,\, s_3,\, s_4 \geq 0
 ```
 <br>
 
-### 📊 [Initial Simplex Tableau]()_
+### 📊 [Initial Simplex Tableau]():
 
 | Base | x₁ | x₂ | s₁ | s₂ | s₃ | s₄ | RHS |
 |------|----|----|----|----|----|----|-----|
@@ -683,11 +683,10 @@ x_1,\, x_2,\, s_1,\, s_2,\, s_3,\, s_4 \geq 0
 - **Leaving variable**: s₃ (minimum ratio = 3)  
 - Pivot to bring x₁ into the basis.  
 
-Updated tableau shows next candidate as:  
+### {Updated tableau shows next candidate as]():  
+
 - **Entering variable**: x₂  
 - **Leaving variable**: s₁ or s₄ (tie – choose s₁)
-
-<br>
 
 #### [Iteration 2]():
 
@@ -695,6 +694,21 @@ After pivoting x₂ into the basis, tableau is updated again.
 Now the most negative coefficient in the Z row is for s₃, but:  
 - No valid pivot is possible (no positive coefficients in that column).  
 - Hence, no further improvement is feasible.
+
+<br>
+
+### 🏁 [Final Optimal Solution
+
+The optimal solution was reached at the end of Iteration 1]():
+
+x₁ = 3  
+x₂ = 0  
+Z(max) = 12
+
+**All constraints are satisfied.**
+
+<br>
+
 
 
 
