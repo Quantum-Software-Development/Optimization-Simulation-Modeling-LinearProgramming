@@ -599,6 +599,58 @@ This example presents a complete, step-by-step solution to a **Linear Programmin
 
 
 
+$$
+\
+\begin{aligned}
+\text{Max.} \quad & Z = 4x_1 + 3x_2 \\
+\text{S.a.} \quad & 
+\begin{cases}
+x_1 + 3x_2 \leq 7 \\
+2x_1 + 2x_2 \leq 8 \\
+x_1 + x_2 \leq 3 \\
+x_2 \leq 2 \\
+x_1 \geq 0 \text{ e } x_2 \geq 0
+\end{cases}
+\end{aligned}
+\
+$$
+
+<br>
+
+```latex
+\
+\begin{aligned}
+\text{Max.} \quad & Z = 4x_1 + 3x_2 \\
+\text{S.a.} \quad & 
+\begin{cases}
+x_1 + 3x_2 \leq 7 \\
+2x_1 + 2x_2 \leq 8 \\
+x_1 + x_2 \leq 3 \\
+x_2 \leq 2 \\
+x_1 \geq 0 \text{ e } x_2 \geq 0
+\end{cases}
+\end{aligned}
+\
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -609,7 +661,7 @@ This example presents a complete, step-by-step solution to a **Linear Programmin
 <br> -\\\\\\\k\
 
 
-# VIII - [Extras Excercise]():
+# IX - [Extras Excercise]():
 
 <br>
 
@@ -1024,57 +1076,8 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
 
 <br><br>
 
-## **3.** [Solve the following linear programming problem using the Simplex method]():
 
-<br>
-
-$$
-\
-\begin{aligned}
-\text{Max.} \quad & Z = 4x_1 + 3x_2 \\
-\text{S.a.} \quad & 
-\begin{cases}
-x_1 + 3x_2 \leq 7 \\
-2x_1 + 2x_2 \leq 8 \\
-x_1 + x_2 \leq 3 \\
-x_2 \leq 2 \\
-x_1 \geq 0 \text{ e } x_2 \geq 0
-\end{cases}
-\end{aligned}
-\
-$$
-
-<br>
-
-```latex
-\
-\begin{aligned}
-\text{Max.} \quad & Z = 4x_1 + 3x_2 \\
-\text{S.a.} \quad & 
-\begin{cases}
-x_1 + 3x_2 \leq 7 \\
-2x_1 + 2x_2 \leq 8 \\
-x_1 + x_2 \leq 3 \\
-x_2 \leq 2 \\
-x_1 \geq 0 \text{ e } x_2 \geq 0
-\end{cases}
-\end{aligned}
-\
-```
-
-<br>
-
-## 🚜 UNDER CONSTRUTION -----
-
-
-
-
-
-
-
-<br><br><br><br><br><br>
-
-# IX - [Transportation Problem (Linear Programming)]()
+# X - [Transportation Problem (Linear Programming)]()
 
 <br>
 
@@ -1239,7 +1242,7 @@ These specialized algorithms are **faster** and **simpler** due to the regular s
 
 The transportation algorithm follows the **same logic as the Simplex method**, but with **simplifications** tailored to the structure of transportation problems:
 
-### 🔹 [1st Phase](): Initial Basic Feasible Solution
+###  [1st Phase](): Initial Basic Feasible Solution
 
 We will use two methods to find a basic solution:
 
@@ -1250,7 +1253,7 @@ These provide starting points for optimization.
 
 <br>
 
-### 🔹 [2nd Phase](): Optimality Check:
+###  [2nd Phase](): Optimality Check:
 
 After obtaining a feasible solution, we check for optimality using methods like:
 
