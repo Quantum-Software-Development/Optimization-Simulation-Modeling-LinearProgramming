@@ -1351,7 +1351,7 @@ It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Sc
 
 <br><br>
 
-# X - [ Northwest Corner Method]()
+# XI - [ Northwest Corner Method]()
 
 The initial solution obtained via the Northwest Corner Method has a total cost of 9690 but is not optimal. After one iteration of the transportation algorithm, the solution improves, but the process reveals complexities in achieving optimality. Here's the detailed analysis:
 
