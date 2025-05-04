@@ -697,7 +697,7 @@ Now the most negative coefficient in the Z row is for s₃, but:
 
 <br>
 
-### 🏁 [Final Optimal Solution
+### 🏁 [Final Optimal Solution]():
 
 The optimal solution was reached at the end of Iteration 1]():
 
@@ -709,28 +709,41 @@ Z(max) = 12
 
 <br>
 
+## 🐍 Python Code – Simplex Solver (Basic Version)
 
+```python
+from scipy.optimize import linprog
 
+# Coefficients of the objective function (to maximise Z = 4x₁ + 3x₂)
+# Convert to minimisation: -Z
+c = [-4, -3]
 
+# Coefficients of the inequality constraints (Ax ≤ b)
+A = [
+    [1, 3],
+    [2, 2],
+    [1, 1],
+    [0, 1]
+]
 
+b = [7, 8, 3, 2]
 
+# Bounds for x₁ and x₂: both ≥ 0
+x_bounds = (0, None)
+bounds = [x_bounds, x_bounds]
 
+# Solve the problem
+res = linprog(c, A_ub=A, b_ub=b, bounds=bounds, method="simplex")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Output results
+if res.success:
+    print("Optimal solution found:")
+    print(f"x₁ = {res.x[0]:.2f}")
+    print(f"x₂ = {res.x[1]:.2f}")
+    print(f"Maximum Z = {(-res.fun):.2f}")
+else:
+    print("No solution found:", res.message)
+```
 
 <br>
 
