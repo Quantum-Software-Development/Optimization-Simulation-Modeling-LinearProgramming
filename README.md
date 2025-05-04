@@ -675,8 +675,26 @@ x_1,\, x_2,\, s_1,\, s_2,\, s_3,\, s_4 \geq 0
 
 <br>
 
+### 🔄 [Iterations Overview]():
 
+####  [Iteration 1]():
 
+- **Entering variable**: x₁ (most negative in Z row)  
+- **Leaving variable**: s₃ (minimum ratio = 3)  
+- Pivot to bring x₁ into the basis.  
+
+Updated tableau shows next candidate as:  
+- **Entering variable**: x₂  
+- **Leaving variable**: s₁ or s₄ (tie – choose s₁)
+
+<br>
+
+#### [Iteration 2]():
+
+After pivoting x₂ into the basis, tableau is updated again.  
+Now the most negative coefficient in the Z row is for s₃, but:  
+- No valid pivot is possible (no positive coefficients in that column).  
+- Hence, no further improvement is feasible.
 
 
 
