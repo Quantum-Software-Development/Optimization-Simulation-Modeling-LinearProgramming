@@ -594,13 +594,13 @@ After running Solver:
 
 This example presents a complete, step-by-step solution to a **Linear Programming (LP)** problem using the **Simplex Method**, along with a basic **Python implementation**.
 
-## 🧮 Problem Statement
+## 🧮 [Problem Statemen]():
 
-### **Maximize:**
+### [**Maximize:**]():
 
 $Z = 4x_1 + 3x_2$
 
-### **Subject to:**
+### [**Subject to:**]():
 
 $x_1 + 3x_2 \leq 7$  
 $2x_1 + 2x_2 \leq 8$  
@@ -626,6 +626,15 @@ x_1 \geq 0 \text{ e } x_2 \geq 0
 \end{aligned}
 \
 ```
+
+<br>
+
+### ✅ Standard Form Conversion:
+
+### [pIntroduce slack variables](): s₁, s₂, s₃, s₄
+
+### [The system becomes]():
+
 
 
 
