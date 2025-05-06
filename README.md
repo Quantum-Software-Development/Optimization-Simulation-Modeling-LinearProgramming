@@ -1352,7 +1352,7 @@ These determine whether cost can be further reduced by adjusting flows along loo
 <br>
 
 
-## 🧭 [Northwest Corner Method (Método do Canto Noroeste]()
+# XI- 🧭 [Northwest Corner Method E(Método do Canto Noroeste]()
 
 This is a method to generate an initial feasible solution without considering transportation costs.
 
@@ -1438,7 +1438,7 @@ It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Sc
 
 <br><br>
 
-# XI - [ Northwest Corner Method]()
+# XII - [ Northwest Corner Method - Exercise - Optimal Solution]()
 
 The initial solution obtained via the Northwest Corner Method has a total cost of 9690 but is not optimal. After one iteration of the transportation algorithm, the solution improves, but the process reveals complexities in achieving optimality. Here's the detailed analysis:
 
