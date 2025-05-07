@@ -1560,10 +1560,23 @@ x_{ij} =
 \]
 ```
 
+#### [Where](): $\( c_{ij} \)$ is the time worker $\( i \)$ takes to complete task $\( j \)$.
 
-#### Where $\( c_{ij} \)$ is the time worker $\( i \)$ takes to complete task $\( j \)$.
+<br>
 
+### [Constraints]():
 
+#### 1. Each worker is assigned exactly one task:
+
+\[
+\sum_{j=1}^4 x_{ij} = 1 \quad \forall i = 1,2,3,4
+\]
+
+2. Each task is assigned to exactly one worker:
+
+\[
+\sum_{i=1}^4 x_{ij} = 1 \quad \forall j = 1,2,3,4
+\]
 
 
 
