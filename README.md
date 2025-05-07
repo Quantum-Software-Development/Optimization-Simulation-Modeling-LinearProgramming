@@ -1584,9 +1584,41 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 Each cell is 0 or 1 (to be filled by Solver).
 
+<br>
+
+#### 3. **Objective Function (K2)**
 
 
+```
+=SUMPRODUCT(B2:D4, G2:I4)
+```
 
+#### 4. **Row Constraints (One task per machine)**
+
+- J2: `=SUM(G2:I2)` (should be 1)
+- J3: `=SUM(G3:I3)` (should be 1)
+- J4: `=SUM(G4:I4)` (should be 1)
+
+<br>
+
+#### 5. **Column Constraints (One machine per task)**
+
+- G5: `=SUM(G2:G4)` (should be 1)
+- H5: `=SUM(H2:H4)` (should be 1)
+- I5: `=SUM(I2:I4)` (should be 1)
+
+<br>
+
+### **B. Solver Configuration**
+
+- **Set Objective:** K2 (Minimize)
+- **By Changing Variables:** G2:I4
+- **Add Constraints:**
+  - J2:J4 = 1
+  - G5:I5 = 1
+  - G2:I4 = binary
+ 
+<br>
 
 
 
