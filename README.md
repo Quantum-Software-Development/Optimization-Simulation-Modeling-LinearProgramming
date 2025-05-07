@@ -1502,8 +1502,28 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 <br>
 
 
+## 1. {Hungarian Method]() (Step by Step):
+
+### [**Step 1](): Subtract Row Minimums**
+
+#### Subtract the minimum value in each row from all elements in that row.
+
+- Row 1 min: 2 → [0, 2, 1]
+- Row 2 min: 1 → [0, 2, 1]
+- Row 3 min: 2 → [3, 0, 2]
+
+<br>
+
+#### [**Matrix after row subtraction:**]()
+
+|         | M1 | M2 | M3 |
+|---------|----|----|----|
+| Task 1  |  0 |  2 |  1 |
+| Task 2  |  0 |  2 |  1 |
+| Task 3  |  3 |  0 |  2 |
 
 
+<br>
 
 
 
