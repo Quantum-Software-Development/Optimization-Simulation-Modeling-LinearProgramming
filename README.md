@@ -1512,7 +1512,7 @@ Designate 4 workers to perform 4 tasks such that the total time to complete all 
 
 ### [Mathematical Model]():
 
-### Decision Variables
+#### Decision Variables
 
 $
 \[
@@ -1535,8 +1535,34 @@ x_{ij} =
 \]
 ```
 
+#### [Where](): $\( i, j \in \{1, 2, 3, 4\} \$.
 
-### [Where](): $\( i, j \in \{1, 2, 3, 4\} \).
+<br>
+
+### [Objective Function]():
+
+#### Minimize the total time:
+
+
+$
+\[
+\text{Minimize } Z = \sum_{i=1}^4 \sum_{j=1}^4 c_{ij} x_{ij}
+\]
+$
+
+```latex
+\[
+x_{ij} = 
+\begin{cases}
+1 & \text{if worker } i \text{ is assigned to task } j \\
+0 & \text{otherwise}
+\end{cases}
+\]
+```
+
+
+#### Where $\( c_{ij} \)$ is the time worker $\( i \)$ takes to complete task $\( j \)$.
+
 
 
 
