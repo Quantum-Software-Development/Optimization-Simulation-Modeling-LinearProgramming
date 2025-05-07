@@ -1485,98 +1485,37 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, workers) at minimum cost, ensuring each task and agent is assigned exactly once.
 
-### Mathematical Formulation  
-**Variables**: \( x_{ij} \) binary:  
+ 
+### [Problem Statement]():
 
+**Three tasks must be assigned to three machines. Each task can be performed on any machine, but with different costs. Assign each task to one machine, and each machine to one task, minimizing the total cost.**
 
-<br><br><br><br><br><br><br><br><br> 🚛
+### Cost Matrix
 
-
-## [Exercise 2](): Assignment Problem  - Mathematical Model and Solution by Hungarian Method
-
-<br>
-
-### Problem Description
-
-Designate 4 workers to perform 4 tasks such that the total time to complete all tasks is minimized. The table below shows the time (cost) for each worker to perform each task.
-
-| Worker \ Task | Task 1 | Task 2 | Task 3 | Task 4 |
-|---------------|---------|---------|---------|---------|
-| Worker 1      | 9       | 2       | 7       | 8       |
-| Worker 2      | 6       | 4       | 3       | 7       |
-| Worker 3      | 5       | 8       | 1       | 8       |
-| Worker 4      | 7       | 6       | 9       | 4       
+|         | Machine 1 | Machine 2 | Machine 3 |
+|---------|-----------|-----------|-----------|
+| Task 1  |     2     |     4     |     3     |
+| Task 2  |     1     |     3     |     2     |
+| Task 3  |     5     |     2     |     4     |
 
 
 <br>
 
-### [Mathematical Model]():
-
-#### Decision Variables
-
-$
-\[
-x_{ij} = 
-\begin{cases}
-1 & \text{if worker } i \text{ is assigned to task } j \\
-0 & \text{otherwise}
-\end{cases}
-\]
-$
 
 
-```latex
-\[
-x_{ij} = 
-\begin{cases}
-1 & \text{if worker } i \text{ is assigned to task } j \\
-0 & \text{otherwise}
-\end{cases}
-\]
-```
-
-#### [Where](): $\( i, j \in \{1, 2, 3, 4\} \$.
-
-<br>
-
-### [Objective Function]():
-
-#### Minimize the total time:
 
 
-$
-\[
-\text{Minimize } Z = \sum_{i=1}^4 \sum_{j=1}^4 c_{ij} x_{ij}
-\]
-$
 
-```latex
-\[
-x_{ij} = 
-\begin{cases}
-1 & \text{if worker } i \text{ is assigned to task } j \\
-0 & \text{otherwise}
-\end{cases}
-\]
-```
 
-#### [Where](): $\( c_{ij} \)$ is the time worker $\( i \)$ takes to complete task $\( j \)$.
 
-<br>
 
-### [Constraints]():
 
-#### 1. Each worker is assigned exactly one task:
 
-\[
-\sum_{j=1}^4 x_{ij} = 1 \quad \forall i = 1,2,3,4
-\]
 
-2. Each task is assigned to exactly one worker:
 
-\[
-\sum_{i=1}^4 x_{ij} = 1 \quad \forall j = 1,2,3,4
-\]
+
+
+
 
 
 
@@ -1584,7 +1523,7 @@ x_{ij} =
 
 
 
-<br><br>
+<br>
 
    
 
