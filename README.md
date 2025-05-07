@@ -1514,7 +1514,7 @@ Designate 4 workers to perform 4 tasks such that the total time to complete all 
 
 ### Decision Variables
 
-$$
+$
 \[
 x_{ij} = 
 \begin{cases}
@@ -1522,7 +1522,19 @@ x_{ij} =
 0 & \text{otherwise}
 \end{cases}
 \]
-$$
+$
+
+
+```latex
+\[
+x_{ij} = 
+\begin{cases}
+1 & \text{if worker } i \text{ is assigned to task } j \\
+0 & \text{otherwise}
+\end{cases}
+\]
+```
+
 
 ### [Where](): $\( i, j \in \{1, 2, 3, 4\} \).
 
