@@ -1477,10 +1477,11 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 <br><br><br><br><br><br><br><br><br><
 
  
-# XIII - [Optimizatio and Simulation]():
+# XIII - [Designation]():
+
 ### Task Designation - [Hungarian Method]()
 
-# Theoretical Explanation
+### Theoretical Explanation
 
 The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, workers) at minimum cost, ensuring each task and agent is assigned exactly once.
 
