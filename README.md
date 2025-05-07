@@ -1489,6 +1489,27 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 **Variables**: \( x_{ij} \) binary:  
 
 
+<br><br><br><br><br><br><br><br><br> 🚛
+
+
+## [Exercise 2](): Assignment Problem  - Mathematical Model and Solution by Hungarian Method
+
+<br>
+
+### Problem Description
+
+Designate 4 workers to perform 4 tasks such that the total time to complete all tasks is minimized. The table below shows the time (cost) for each worker to perform each task.
+
+| Worker \ Task | Task 1 | Task 2 | Task 3 | Task 4 |
+|---------------|---------|---------|---------|---------|
+| Worker 1      | 9       | 2       | 7       | 8       |
+| Worker 2      | 6       | 4       | 3       | 7       |
+| Worker 3      | 5       | 8       | 1       | 8       |
+| Worker 4      | 7       | 6       | 9       | 4       
+
+
+<br>
+
 
 
 
