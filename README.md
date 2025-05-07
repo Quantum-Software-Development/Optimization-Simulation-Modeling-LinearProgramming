@@ -1490,7 +1490,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 **Three tasks must be assigned to three machines. Each task can be performed on any machine, but with different costs. Assign each task to one machine, and each machine to one task, minimizing the total cost.**
 
-### Cost Matrix
+#### Cost Matrix
 
 |         | Machine 1 | Machine 2 | Machine 3 |
 |---------|-----------|-----------|-----------|
@@ -1506,7 +1506,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 ### [**Step 1](): Subtract Row Minimums**
 
-### Subtract the minimum value in each row from all elements in that row.
+#### Subtract the minimum value in each row from all elements in that row.
 
 - Row 1 min: 2 → [0, 2, 1]
 - Row 2 min: 1 → [0, 2, 1]
@@ -1514,7 +1514,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 <br>
 
-## [**Matrix after row subtraction:**]()
+#### [**Matrix after row subtraction:**]()
 
 |         | M1 | M2 | M3 |
 |---------|----|----|----|
@@ -1527,7 +1527,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 ### [**Step 2](): Subtract Column Minimums**
 
-### Subtract the minimum value in each column from all elements in that column]().
+#### Subtract the minimum value in each column from all elements in that column]().
 
 - Col 1 min: 0 → [0, 0, 3]
 - Col 2 min: 0 → [2, 2, 0]
@@ -1535,7 +1535,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 <br>
 
-### [**Matrix after column subtraction:**]()
+#### [**Matrix after column subtraction:**]()
 
 |         | M1 | M2 | M3 |
 |---------|----|----|----|
@@ -1545,7 +1545,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 <br>
 
-## [**Step 3](): Assignment (Cover Zeros)**
+### [**Step 3](): Assignment (Cover Zeros)**
 
 - Cover all zeros using the minimum number of lines (rows or columns).
 - Assign tasks to machines where possible (one zero per row/column).
@@ -1556,7 +1556,33 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 - Task 3 → Machine 2 (cost 2)
 
 
-### ***Total Minimum Cost = [2 + 2 + 2 = 6***]()
+### ***Total Minimum Cost = [2 + 2 + 2 = 6]()***
+
+<br>
+
+## 2. Excel Solver Step-by-Step
+
+### **A. Excel Table Setup**
+
+#### 1. **Cost Table (A1:D4)**
+
+|     | B    | C    | D    |
+|-----|------|------|------|
+|     | M1   | M2   | M3   |
+| T1  |  2   |  4   |  3   |
+| T2  |  1   |  3   |  2   |
+| T3  |  5   |  2   |  4   |
+
+#### 2. **Decision Variables Table (F1:I4)**
+
+|     | G    | H    | I    |
+|-----|------|------|------|
+|     | M1   | M2   | M3   |
+| T1  | x11  | x12  | x13  |
+| T2  | x21  | x22  | x23  |
+| T3  | x31  | x32  | x33  |
+
+Each cell is 0 or 1 (to be filled by Solver).
 
 
 
