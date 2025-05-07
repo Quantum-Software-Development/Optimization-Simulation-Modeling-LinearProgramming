@@ -1502,11 +1502,11 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 <br>
 
 
-## 1. {Hungarian Method]() (Step by Step):
+## 1. [Hungarian Method]() (Step by Step):
 
 ### [**Step 1](): Subtract Row Minimums**
 
-#### Subtract the minimum value in each row from all elements in that row.
+### Subtract the minimum value in each row from all elements in that row.
 
 - Row 1 min: 2 → [0, 2, 1]
 - Row 2 min: 1 → [0, 2, 1]
@@ -1514,7 +1514,7 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 <br>
 
-#### [**Matrix after row subtraction:**]()
+## [**Matrix after row subtraction:**]()
 
 |         | M1 | M2 | M3 |
 |---------|----|----|----|
@@ -1525,7 +1525,38 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 <br>
 
+### [**Step 2](): Subtract Column Minimums**
 
+### Subtract the minimum value in each column from all elements in that column]().
+
+- Col 1 min: 0 → [0, 0, 3]
+- Col 2 min: 0 → [2, 2, 0]
+- Col 3 min: 1 → [0, 0, 1]
+
+<br>
+
+### [**Matrix after column subtraction:**]()
+
+|         | M1 | M2 | M3 |
+|---------|----|----|----|
+| Task 1  |  0 |  2 |  0 |
+| Task 2  |  0 |  2 |  0 |
+| Task 3  |  3 |  0 |  1 |
+
+<br>
+
+## [**Step 3](): Assignment (Cover Zeros)**
+
+- Cover all zeros using the minimum number of lines (rows or columns).
+- Assign tasks to machines where possible (one zero per row/column).
+
+**Optimal Assignment:**
+- Task 1 → Machine 1 (cost 2)
+- Task 2 → Machine 3 (cost 2)
+- Task 3 → Machine 2 (cost 2)
+
+
+### ***Total Minimum Cost = [2 + 2 + 2 = 6***]()
 
 
 
