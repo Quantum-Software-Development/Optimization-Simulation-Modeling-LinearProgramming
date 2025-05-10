@@ -1474,7 +1474,7 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### Under Construction 🚛
 
-<br><br><br><br><br><br><br><br><br><
+<br><br><br><br><br><br><br><br><br>
 
  
 # XIII - [Designation]():
@@ -1483,7 +1483,7 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### Theoretical Explanation
 
-The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, workers) at minimum cost, ensuring each task and agent is assigned exactly once.
+The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, workers) at minimum cost, ensuring each task and agent is assigned exactly once.**
 
  
 ### [Problem Statement]():
@@ -1593,7 +1593,7 @@ This formula multiplies each assignment by its cost and sums the total.
 - In **H5**: `=SUM(H2:H4)`
 - In **I5**: `=SUM(I2:I4)`
 
----
+<br>
 
 ## Step 2: Configure Excel Solver
 
@@ -1610,7 +1610,7 @@ This formula multiplies each assignment by its cost and sums the total.
    - Use "Simplex LP" or "GRG Nonlinear" (either works for this size).
 6. **Click Solve**.
 
----
+<br>
 
 ## Step 3: Solution Example
 
@@ -1629,7 +1629,7 @@ After running Solver, you should get a solution like:
 
 **Total minimum cost:** 6
 
----
+<br>
 
 ## Excel Table and Formula Summary
 
@@ -1644,7 +1644,7 @@ After running Solver, you should get a solution like:
 - **Row Sums:** `=SUM(G2:I2)`, etc.
 - **Column Sums:** `=SUM(G2:G4)`, etc.
 
----
+<br>
 
 ## Result (in English)
 
@@ -1653,26 +1653,10 @@ After running Solver, you should get a solution like:
 - Task 2 to Machine 3 (cost 2)
 - Task 3 to Machine 2 (cost 2)
 
-**Total minimum cost:** 6
+### [**Total minimum cost:** 6]()
 
 
-
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
+<br><br>
 
    
 
