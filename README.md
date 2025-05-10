@@ -1527,44 +1527,26 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 
 ### [**Step 2](): Subtract Column Minimums**
 
-#### Subtract the minimum value in each column from all elements in that column]().
+### Problem Recap
 
-- Col 1 min: 0 → [0, 0, 3]
-- Col 2 min: 0 → [2, 2, 0]
-- Col 3 min: 1 → [0, 0, 1]
+- **3 tasks** must be assigned to **3 machines**.
+- Each task can be done by any machine, but with different costs.
+- Each task must be assigned to exactly one machine, and each machine to exactly one task.
+- **Goal:** Minimize total assignment cost.
 
-<br>
+### Cost Table
 
-#### [**Matrix after column subtraction:**]()
+|         | Machine 1 | Machine 2 | Machine 3 |
+|---------|-----------|-----------|-----------|
+| Task 1  |     2     |     4     |     3     |
+| Task 2  |     1     |     3     |     2     |
+| Task 3  |     5     |     2     |     4     |
 
-|         | M1 | M2 | M3 |
-|---------|----|----|----|
-| Task 1  |  0 |  2 |  0 |
-| Task 2  |  0 |  2 |  0 |
-| Task 3  |  3 |  0 |  1 |
+---
 
-<br>
+## Step 1: Set Up the Excel Spreadsheet
 
-### [**Step 3](): Assignment (Cover Zeros)**
-
-- Cover all zeros using the minimum number of lines (rows or columns).
-- Assign tasks to machines where possible (one zero per row/column).
-
-**Optimal Assignment:**
-- Task 1 → Machine 1 (cost 2)
-- Task 2 → Machine 3 (cost 2)
-- Task 3 → Machine 2 (cost 2)
-
-
-### ***Total Minimum Cost = [2 + 2 + 2 = 6]()***
-
-<br>
-
-## 2. Excel Solver Step-by-Step
-
-### **A. Excel Table Setup**
-
-#### 1. **Cost Table (A1:D4)**
+### 1. Enter the Cost Matrix
 
 |     | B    | C    | D    |
 |-----|------|------|------|
@@ -1573,7 +1555,9 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 | T2  |  1   |  3   |  2   |
 | T3  |  5   |  2   |  4   |
 
-#### 2. **Decision Variables Table (F1:I4)**
+- Place this table in cells **B2:D4**.
+
+### 2. Create the Decision Variable Table
 
 |     | G    | H    | I    |
 |-----|------|------|------|
@@ -1582,42 +1566,98 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 | T2  | x21  | x22  | x23  |
 | T3  | x31  | x32  | x33  |
 
-Each cell is 0 or 1 (to be filled by Solver).
+- Place this table in **G2:I4**.
+- These cells will be filled with 0 or 1 by the Solver (1 = assigned, 0 = not assigned).
 
-<br>
+### 3. Calculate the Total Cost
 
-#### 3. **Objective Function (K2)**
+In cell **K2**, enter:
 
-
-```
+```bash
 =SUMPRODUCT(B2:D4, G2:I4)
 ```
 
-#### 4. **Row Constraints (One task per machine)**
+This formula multiplies each assignment by its cost and sums the total.
 
-- J2: `=SUM(G2:I2)` (should be 1)
-- J3: `=SUM(G3:I3)` (should be 1)
-- J4: `=SUM(G4:I4)` (should be 1)
+### 4. Add Row and Column Sums for Constraints
 
-<br>
+#### Row Sums (Each Task Assigned Once)
 
-#### 5. **Column Constraints (One machine per task)**
+- In **J2**: `=SUM(G2:I2)`
+- In **J3**: `=SUM(G3:I3)`
+- In **J4**: `=SUM(G4:I4)`
 
-- G5: `=SUM(G2:G4)` (should be 1)
-- H5: `=SUM(H2:H4)` (should be 1)
-- I5: `=SUM(I2:I4)` (should be 1)
+#### Column Sums (Each Machine Assigned Once)
 
-<br>
+- In **G5**: `=SUM(G2:G4)`
+- In **H5**: `=SUM(H2:H4)`
+- In **I5**: `=SUM(I2:I4)`
 
-### **B. Solver Configuration**
+---
 
-- **Set Objective:** K2 (Minimize)
-- **By Changing Variables:** G2:I4
-- **Add Constraints:**
-  - J2:J4 = 1
-  - G5:I5 = 1
-  - G2:I4 = binary
- 
+## Step 2: Configure Excel Solver
+
+1. **Go to**: Data > Solver
+2. **Set Objective**:  
+   - Set **K2** (total cost) to **Minimize**.
+3. **By Changing Variable Cells**:  
+   - Select **G2:I4**.
+4. **Add Constraints**:
+   - **J2:J4 = 1** (each task assigned once)
+   - **G5:I5 = 1** (each machine assigned once)
+   - **G2:I4 = binary** (only 0 or 1 allowed)
+5. **Choose Solving Method**:  
+   - Use "Simplex LP" or "GRG Nonlinear" (either works for this size).
+6. **Click Solve**.
+
+---
+
+## Step 3: Solution Example
+
+After running Solver, you should get a solution like:
+
+|     | M1 | M2 | M3 | Row Sum |
+|-----|----|----|----|---------|
+| T1  |  1 |  0 |  0 |   1     |
+| T2  |  0 |  0 |  1 |   1     |
+| T3  |  0 |  1 |  0 |   1     |
+|Col Sum| 1|  1 |  1 |         |
+
+- **Task 1 → Machine 1** (cost 2)
+- **Task 2 → Machine 3** (cost 2)
+- **Task 3 → Machine 2** (cost 2)
+
+**Total minimum cost:** 6
+
+---
+
+## Excel Table and Formula Summary
+
+|     | M1   | M2   | M3   | Row Sum |
+|-----|------|------|------|---------|
+| T1  | G2   | H2   | I2   | J2      |
+| T2  | G3   | H3   | I3   | J3      |
+| T3  | G4   | H4   | I4   | J4      |
+|Col Sum|G5 | H5   | I5   |         |
+
+- **Total Cost:** `=SUMPRODUCT(B2:D4, G2:I4)`
+- **Row Sums:** `=SUM(G2:I2)`, etc.
+- **Column Sums:** `=SUM(G2:G4)`, etc.
+
+---
+
+## Result (in English)
+
+**The optimal assignment is:**
+- Task 1 to Machine 1 (cost 2)
+- Task 2 to Machine 3 (cost 2)
+- Task 3 to Machine 2 (cost 2)
+
+**Total minimum cost:** 6
+
+
+
+
 <br>
 
 
