@@ -1646,7 +1646,7 @@ After running Solver, you should get a solution like:
 
 <br>
 
-## [Result]():
+### [Result]():
 
 **The optimal assignment is:**
 - Task 1 to Machine 1 (cost 2)
