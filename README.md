@@ -1389,10 +1389,8 @@ This method takes into account the transportation costs to guide the initial all
 4. **Remove** (cross out) the row or column where supply or demand becomes zero. If both are zero simultaneously, cross out only one to maintain feasibility.
 5. **Repeat** the steps until all supplies and demands are met.
 
-
 <br>
    
-
 ⚠️ Unlike the Northwest Corner, this method **considers the costs** and usually leads to a **better initial solution**, closer to the optimal.
 
 <br>
@@ -1469,7 +1467,21 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 \bar{c}_{31} = -13
 ```
 
-### - [**Negative reduced costs indicate non-optimality**]().
+#### - [**Negative reduced costs indicate non-optimality**]().
+
+<br>
+
+## [Step 2](): Improving the Solution:
+
+### - **Entering variable**: $x_{31}$ (most negative reduced cost: $-13$).
+
+### - **Loop construction**: Adjustments involve $x_{31}$, $x_{32}$, $x_{22}$, and $x_{21}$, with a minimum adjustment of 10 units.
+ 
+- **Updated solution**:
+  
+  - $x_{31} = 10$, $x_{21} = 10$, $x_{22} = 130$, $x_{32} = 0$.
+    
+  - Total cost increases to **9820** due to an incorrect loop adjustment in manual calculations.
 
 
 ### Under Construction 🚛
