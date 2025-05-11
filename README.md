@@ -1166,10 +1166,10 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
 
 # X - [Transportation Problem (Linear Programming)]()
 
-#### [Click here]() to access Theoretical and Pratical Material. 
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method/class_9%20-%20Transportation%20Problem%20(Linear%20Programming).pdf) to access Theoretical and Pratical Material. 
 
 
-#### [Click here]() and access Transportation Exercises
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method) and access Transportation Exercises
 
 
 <br>
