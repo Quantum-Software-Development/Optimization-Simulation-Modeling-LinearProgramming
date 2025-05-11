@@ -1507,7 +1507,7 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 # XIII - [Designation]():
 
 
-#### [Click here]() to access Theoretical and Pratical Material. 
+#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/159b37b68be9228482c7959bd831b791f28bbdc4/class__11%20-Designation/Designation.pdf) to access Theoretical and Pratical Material. 
 
 #### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/159b37b68be9228482c7959bd831b791f28bbdc4/class__11%20-Designation) and access Desgnation Exercises -"Mathematical Modeling using the Hungarian Method , Excel Solver , and Python 🐍
 
