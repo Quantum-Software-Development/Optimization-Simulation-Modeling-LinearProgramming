@@ -1166,10 +1166,10 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
 
 # X - [Transportation Problem (Linear Programming)]()
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method/class_9%20-%20Transportation%20Problem%20(Linear%20Programming).pdf) to access Theoretical and Pratical Material. 
+#### ➣ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method/class_9%20-%20Transportation%20Problem%20(Linear%20Programming).pdf) to access Theoretical and Pratical Material. 
 
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method) and access Transportation Exercises
+#### ➢ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method) and access Transportation Exercises
 
 
 <br>
@@ -1358,7 +1358,15 @@ These determine whether cost can be further reduced by adjusting flows along loo
 <br>
 
 
-# XI- 🧭 [Northwest Corner Method E(Método do Canto Noroeste]()
+# XI- 🧭 [Northwest Corner Method (Transportation]()
+
+
+#### ➢ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method/class_9%20-%20Transportation%20Problem%20(Linear%20Programming).pdf) to access Theoretical and Pratical Material. 
+
+
+#### ➣ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method) and access Transportation Exercices
+
+
 
 This is a method to generate an initial feasible solution without considering transportation costs.
 
@@ -1507,9 +1515,9 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 # XIII - [Designation]():
 
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/159b37b68be9228482c7959bd831b791f28bbdc4/class__11%20-Designation/Designation.pdf) to access Theoretical and Pratical Material. 
+#### ➢ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/159b37b68be9228482c7959bd831b791f28bbdc4/class__11%20-Designation/Designation.pdf) to access Theoretical and Pratical Material. 
 
-#### [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/159b37b68be9228482c7959bd831b791f28bbdc4/class__11%20-Designation) and access Desgnation Exercises -"Mathematical Modeling using the Hungarian Method , Excel Solver , and Python 🐍
+#### ➣ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/159b37b68be9228482c7959bd831b791f28bbdc4/class__11%20-Designation) and access Desgnation Exercises -Mathematical Modeling using the Hungarian Method , Excel Solver , and Python 🐍
 
 <br>
 
