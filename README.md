@@ -1510,8 +1510,6 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
    
 ### -  c̄₁₂ = -4, c̄₁₃ = -6, c̄₂₃ = -2, c̄₃₁ = 0
 
-- c̄₁₂ = -4,  c̄₁₃ = -6,  c̄₂₃ = -2,  c̄₃₁ = 0
-
 ### - Remaining negative reduced costs necessitate further iterations.
 
 <br>
@@ -1526,10 +1524,24 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 <br>
 
+## [Transportation Problem Solution]():
+
+### [**Problem Statement**]()  
+
+### Determine the optimal solution for the transportation problem using the transportation algorithm, starting from the initial basic feasible solution obtained by the Northwest Corner Method.
+
+### [Problem Data]():
 
 
+|       | Consumer 1 | Consumer 2 | Consumer 3 | Supply |
+|-------|------------|------------|------------|--------|
+| Supplier 1 | 12     | 22        | 30        | 100    |
+| Supplier 2 | 18     | 24        | 32        | 140    |
+| Supplier 3 | 22     | 15        | 34        | 160    |
+| **Demand** | 120    | 130       | 150       |        |
 
 
+<br>
 
 
 
