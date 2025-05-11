@@ -1514,13 +1514,13 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 <br>
 
-### Final Solution Status
+### [Final Solution Status]():
 
-### - The improved solution after one iteration is not optimal. Continued iterations are required, focusing on variables like $x_{13}$ (reduced cost: $-6$) to further reduce costs.
+### - The improved solution after one iteration is not optimal. Continued iterations are required, focusing on variables like [$x_{13}$]() (reduced cost: [$-6$)]() to further reduce costs.
   
-### - The transportation algorithm must repeat until all reduced costs are non-negative.
+### - The transportation algorithm must [repeat]() until [all reduced costs]() are non-negative.
 
-### This analysis highlights the iterative nature of the transportation algorithm and the importance of accurately recalculating multipliers and reduced costs at each step.
+### This analysis highlights the iterative nature of the transportation algorithm and the [importance of accurately recalculating multipliers and reduced costs at each step]().
 
 <br>
 
