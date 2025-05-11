@@ -1367,7 +1367,6 @@ These determine whether cost can be further reduced by adjusting flows along loo
 #### ➣ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/tree/3a8ebd38925f06e8a7152ffd0a94637aab8dc170/class__10-Northwest%20Corner%20Method) and access Transportation Exercices
 
 
-
 This is a method to generate an initial feasible solution without considering transportation costs.
 
 <br>
@@ -1387,7 +1386,6 @@ This is a method to generate an initial feasible solution without considering tr
 🟢 This method is **simple and quick**, but not necessarily optimal — further optimization is done in the next phase.
 
 <br>
-
 
 ## 💸  [Least Cost Method (Método do Custo Mínimo]():
 
@@ -1505,6 +1503,30 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
   - $x_{31} = 10$, $x_{21} = 10$, $x_{22} = 130$, $x_{32} = 0$.
     
   - Total cost increases to **9820** due to an incorrect loop adjustment in manual calculations.
+
+### - **Updated solution**:
+
+  - $x_{31} = 10$, $x_{21} = 10$, $x_{22} = 130$, $x_{32} = 0$.
+    
+  - Total cost increases to **9820** due to an incorrect loop adjustment in manual calculations.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Under Construction 🚛
