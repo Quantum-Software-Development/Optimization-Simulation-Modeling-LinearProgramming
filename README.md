@@ -1516,7 +1516,7 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### [Final Solution Status]():
 
-### - The improved solution after one iteration is not optimal. Continued iterations are required, focusing on variables like [$x_{13}$]() (reduced cost: [$-6$)]() to further reduce costs.
+### - The improved solution after one iteration is not optimal. Continued iterations are required, focusing on variables like $x_{13}$ (reduced cost: $-6$) to further reduce costs.
   
 ### - The transportation algorithm must [repeat]() until [all reduced costs]() are non-negative.
 
