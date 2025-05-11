@@ -1459,9 +1459,9 @@ The initial solution obtained via the Northwest Corner Method has a total cost o
 
 ### [Step 1](): Optimality Check Using Multipliers
 
-### - [**Multipliers calculation**]():
+#### - [**Multipliers calculation**]():
   
-### - Set $u_1 = 0$, leading to $v_1 = 12$, $u_2 = 6$, $v_2 = 18$, $u_3 = -3$, and $v_3 = 37$.
+#### - Set $u_1 = 0$, leading to $v_1 = 12$, $u_2 = 6$, $v_2 = 18$, $u_3 = -3$, and $v_3 = 37$.
 
 ```latex
 u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
@@ -1470,10 +1470,10 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
     
 ### - [**Reduced costs** for non-basic variables]():
     
-### - $\bar{c}_{12} = -4$
-### - $\bar{c}_{13} = 7$
-### - $\bar{c}_{23} = 11$
-### - $\bar{c}_{31} = -13$
+#### - $\bar{c}_{12} = -4$
+#### - $\bar{c}_{13} = 7$
+#### - $\bar{c}_{23} = 11$
+#### - $\bar{c}_{31} = -13$
 
 ```latex
 \bar{c}_{12} = -4
@@ -1488,13 +1488,17 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ## [Step 2](): Improving the Solution:
 
-### - **Entering variable**: $x_{31}$ (most negative reduced cost: $-13$).
+##### - **Entering variable**: $x_{31}$ (most negative reduced cost: $-13$).
 
 ### - **Loop construction**: Adjustments involve $x_{31}$, $x_{32}$, $x_{22}$, and $x_{21}$, with a minimum adjustment of 10 units.
  
-### - **Updated solution**:
+##### - **Updated solution**:
   
 ### - $x_{31} = 10$, $x_{21} = 10$, $x_{22} = 130$, $x_{32} = 0$.
+
+```latex
+x_{31} = 10, x_{21} = 10, x_{22} = 130, x_{32} = 0\
+```
     
 ### - Total cost increases to [**9820**]() due to an incorrect loop adjustment in manual calculations.
  
@@ -1502,13 +1506,18 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### [Step 3](): Rechecking Optimality:
 
-### - **Recalculated multipliers** (after correction)
+##### - **Recalculated multipliers** (after correction)
   
 ### -  $u =$, $v =$.
+
     
-### - **New reduced costs**:
+#### - **New reduced costs**:
    
-### -  c̄₁₂ = -4, c̄₁₃ = -6, c̄₂₃ = -2, c̄₃₁ = 0
+#### -  c̄₁₂ = -4, c̄₁₃ = -6, c̄₂₃ = -2, c̄₃₁ = 0
+
+```latex
+\bar{c}_{12} = -4,\quad \bar{c}_{13} = -6,\quad \bar{c}_{23} = -2,\quad \bar{c}_{31} = 0
+```
 
 ### - Remaining negative reduced costs necessitate further iterations.
 
@@ -1516,11 +1525,11 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### [Final Solution Status]():
 
-### - The improved solution after one iteration is not optimal. Continued iterations are required, focusing on variables like $x_{13}$ (reduced cost: $-6$) to further reduce costs.
+#### - The improved solution after one iteration is not optimal. Continued iterations are required, focusing on variables like $x_{13}$ (reduced cost: $-6$) to further reduce costs.
   
-### - The transportation algorithm must [repeat]() until [all reduced costs]() are non-negative.
+#### - The transportation algorithm must [repeat]() until [all reduced costs]() are non-negative.
 
-### This analysis highlights the iterative nature of the transportation algorithm and the [importance of accurately recalculating multipliers and reduced costs at each step]().
+#### This analysis highlights the iterative nature of the transportation algorithm and the [importance of accurately recalculating multipliers and reduced costs at each step]().
 
 <br>
 
@@ -1528,9 +1537,9 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### [**Problem Statement**]()  
 
-### Determine the optimal solution for the transportation problem using the transportation algorithm, starting from the initial basic feasible solution obtained by the Northwest Corner Method.
+#### Determine the optimal solution for the transportation problem using the transportation algorithm, starting from the initial basic feasible solution obtained by the Northwest Corner Method.
 
-### [Problem Data]():
+#### [Problem Data]():
 
 
 |       | Consumer 1 | Consumer 2 | Consumer 3 | Supply |
@@ -1543,7 +1552,7 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 <br>
 
-### [**Initial Solution (Northwest Corner Method)** ](): 
+#### [**Initial Solution (Northwest Corner Method)** ](): 
 
 - \( x_{11} = 100 \)
 - \( x_{21} = 20 \)
