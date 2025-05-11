@@ -1510,6 +1510,8 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
    
 ### -  c̄₁₂ = -4, c̄₁₃ = -6, c̄₂₃ = -2, c̄₃₁ = 0
 
+- c̄₁₂ = -4,  c̄₁₃ = -6,  c̄₂₃ = -2,  c̄₃₁ = 0
+
 ### - Remaining negative reduced costs necessitate further iterations.
 
 <br>
