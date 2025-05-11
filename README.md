@@ -1509,6 +1509,20 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 ### - **New reduced costs**:
    
   - $\bar{c}_{12} = -4$, $\bar{c}_{13} = -6$, $\bar{c}_{23} = -2$, $\bar{c}_{31} = 0$.
+
+  - $\bar{c}_{12} = -4$, $\bar{c}_{13} = -6$, $\bar{c}_{23} = -2$, $\bar{c}_{31} = 0$
+
+  - ![equation](https://latex.codecogs.com/png.image?\bar{c}_{12}=-4,\ \bar{c}_{13}=-6,\ \bar{c}_{23}=-2,\ \bar{c}_{31}=0)
+
+c̄₁₂ = -4, c̄₁₃ = -6, c̄₂₃ = -2, c̄₃₁ = 0
+
+\bar{c}_{12} = -4,\quad \bar{c}_{13} = -6,\quad \bar{c}_{23} = -2,\quad \bar{c}_{31} = 0
+
+$$\bar{c}_{12} = -4,\quad \bar{c}_{13} = -6,\quad \bar{c}_{23} = -2,\quad \bar{c}_{31} = 0$$
+
+$\bar{c}_{12} = -4,\quad \bar{c}_{13} = -6,\quad \bar{c}_{23} = -2,\quad \bar{c}_{31} = 0$
+
+
       
 ### - Remaining negative reduced costs necessitate further iterations.
  
