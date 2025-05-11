@@ -1272,8 +1272,6 @@ A  & 0  & 0  & 0 & 6 \\
 
 ### ➢ Now the model is **balanced**: [66 = 66]()
 
-<br>
-
 #
 
 ### ➠ [Feasible Solution Example]():
@@ -1312,8 +1310,6 @@ A  & 20 & 1 & 5 & 6 \\
 🟡 The values in the matrix represent the **quantities transported**.  
 🟠 $begin:math:text$ X_{A2} = 1 $end:math:text$, $begin:math:text$ X_{A3} = 5 $end:math:text$: These are **unsatisfied demands**.
 
-<br>
-
 
 ## 🧠 [Relation to Algorithms]()
 
@@ -1344,7 +1340,6 @@ We will use two methods to find a basic solution:
 
 These provide starting points for optimization.
 
-<br>
 
 ###  [2nd Phase](): Optimality Check:
 
@@ -1356,7 +1351,6 @@ After obtaining a feasible solution, we check for optimality using methods like:
 These determine whether cost can be further reduced by adjusting flows along loops in the matrix.
 
 <br>
-
 
 # XI- 🧭 [Northwest Corner Method (Transportation]()
 
@@ -1446,15 +1440,15 @@ The transportation problem provides a clear, visual way to:
 
 It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Science**.
 
-<br><br>
+<br>
 
 # XII - [ Northwest Corner Method - Exercise - Optimal Solution]()
 
 
-#### [Click here]() to access Theoretical and Pratical Material. 
+#### ➢ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/e6bee6582b53949aed266b384bb7ba6c15271480/class__10-Northwest%20Corner%20Method/class_9%20-%20Transportation%20Problem%20(Linear%20Programming).pdf) to access Theoretical and Pratical Material. 
 
 
-#### [Click here]() and accessNorthwest Corner Method  Exercises
+#### ➣ [Click here](https://github.com/Quantum-Software-Development/Optimization-Simulation-MathModeling-LinearProgramming/blob/e6bee6582b53949aed266b384bb7ba6c15271480/class__10-Northwest%20Corner%20Method/2-excel-Northwest%20Corner%20Method%20.md.md) and accessNorthwest Corner Method  Exercises
 
 <br>
 
@@ -1498,20 +1492,28 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 ### - **Loop construction**: Adjustments involve $x_{31}$, $x_{32}$, $x_{22}$, and $x_{21}$, with a minimum adjustment of 10 units.
  
-- **Updated solution**:
+### - **Updated solution**:
   
   - $x_{31} = 10$, $x_{21} = 10$, $x_{22} = 130$, $x_{32} = 0$.
     
   - Total cost increases to **9820** due to an incorrect loop adjustment in manual calculations.
+ 
+<br>
 
-### - **Updated solution**:
+### [Step 3](): Rechecking Optimality:
 
-  - $x_{31} = 10$, $x_{21} = 10$, $x_{22} = 130$, $x_{32} = 0$.
+### - **Recalculated multipliers** (after correction)
+  
+  - $u =$, $v =$.
     
-  - Total cost increases to **9820** due to an incorrect loop adjustment in manual calculations.
+### - **New reduced costs**:
+   
+  - $\bar{c}_{12} = -4$, $\bar{c}_{13} = -6$, $\bar{c}_{23} = -2$, $\bar{c}_{31} = 0$.
+      
+### - Remaining negative reduced costs necessitate further iterations.
  
 
-
+<br>
 
 
 
