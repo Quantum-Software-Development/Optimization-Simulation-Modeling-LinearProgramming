@@ -1166,6 +1166,12 @@ Intersection of x_1 + 3x_2 = 7 and 2x_1 + 2x_2 = 8:
 
 # X - [Transportation Problem (Linear Programming)]()
 
+#### [Click here]() to access Theoretical and Pratical Material. 
+
+
+#### [Click here]() and access Transportation Exercises
+
+
 <br>
 
 ### [Definition]():
@@ -1438,6 +1444,15 @@ It's a cornerstone of **Operational Research**, **Logistics**, and **Decision Sc
 
 # XII - [ Northwest Corner Method - Exercise - Optimal Solution]()
 
+
+#### [Click here]() to access Theoretical and Pratical Material. 
+
+
+#### [Click here]() and accessNorthwest Corner Method  Exercises
+
+<br>
+
+
 The initial solution obtained via the Northwest Corner Method has a total cost of 9690 but is not optimal. After one iteration of the transportation algorithm, the solution improves, but the process reveals complexities in achieving optimality. Here's the detailed analysis:
 
 <br>
@@ -1490,6 +1505,13 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
  
 # XIII - [Designation]():
+
+
+#### [Click here]() to access Theoretical and Pratical Material. 
+
+#### [Click here]() and access Desgnation Exercises -"Mathematical Modeling using the Hungarian Method , Excel Solver , and Python 🐍
+
+<br>
 
 ### Task Designation - [Hungarian Method]()
 
