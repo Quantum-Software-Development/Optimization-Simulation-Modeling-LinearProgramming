@@ -1543,9 +1543,16 @@ u_1 = 0, leading to v_1 = 12, u_2 = 6, v_2 = 18, u_3 = -3, and v_3 = 37.
 
 <br>
 
+### [**Initial Solution (Northwest Corner Method)** ](): 
 
+- \( x_{11} = 100 \)
+- \( x_{21} = 20 \)
+- \( x_{22} = 120 \)
+- \( x_{32} = 10 \)
+- \( x_{33} = 150 \)
+- Total Cost: \( z = 9690 \)
 
-
+<br>
 
 
 
