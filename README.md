@@ -625,12 +625,6 @@ $Z = 4x_1 + 3x_2$
 
 ### [**Subject to:**]():
 
-$x_1 + 3x_2 \leq 7$  
-$2x_1 + 2x_2 \leq 8$  
-$x_1 + x_2 \leq 3$  
-$x_2 \leq 2$  
-$x_1 \geq 0,\ x_2 \geq 0$
-
 $$
 \begin{cases}
 x_1 + 3x_2 \leq 7 \\
@@ -640,6 +634,17 @@ x_2 \leq 2 \\
 x_1 \geq 0, \quad x_2 \geq 0
 \end{cases}
 $$
+
+
+```latex
+\begin{cases}
+x_1 + 3x_2 \leq 7 \\
+2x_1 + 2x_2 \leq 8 \\
+x_1 + x_2 \leq 3 \\
+x_2 \leq 2 \\
+x_1 \geq 0, \quad x_2 \geq 0
+\end{cases}
+```
 
 
 
