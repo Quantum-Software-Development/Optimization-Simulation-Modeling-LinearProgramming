@@ -534,11 +534,34 @@ This example demonstrates how to use Excel Solver to solve a Linear Programming 
 
 Z = 40x + 30y
 
-Subject to:
+$$
+\begin{cases}
+2x + y \leq 40 \\
+x + 2y \leq 50 \\
+x \geq 0 \\
+y \geq 0
+\end{cases}
+$$
 
-2x + y ≤ 40
-x + 2y ≤ 50
-x, y ≥ 0
+
+```latex
+\[
+\begin{aligned}
+&\text{Maximize:} \\
+&\quad Z = 40x + 30y \\
+&\text{Subject to:} \\
+&\quad
+\left\{
+\begin{array}{rl}
+2x + y &\leq 40 \\
+x + 2y &\leq 50 \\
+x &\geq 0 \\
+y &\geq 0 \\
+\end{array}
+\right.
+\end{aligned}
+\]
+```
 
 <br>
 
