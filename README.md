@@ -1800,6 +1800,15 @@ After running Solver, you should get a solution like:
 
 <br><br>
 
+## XIV - Optimization and Simulation [Shortest Path ](): 
+
+
+#### ➢ [Click here](h)to access Theoretical and Pratical Material. 
+
+#### ➣ [Click here]() and access Optimization and Simulation Shortest Path Exercises using Algorithm de DijkstraE, Excel Solver and Python 🐍
+
+<br>
+
    
 
 
