@@ -1,5 +1,5 @@
 
-```markdown
+
 ## Example 3: Step-by-Step Tableau for Dijkstra's Algorithm
 
 Below are the tableaus (tabulações) representing each iteration of Dijkstra's algorithm for Example 3, as described in the PDF[^1].
@@ -90,7 +90,7 @@ Below are the tableaus (tabulações) representing each iteration of Dijkstra's 
 - **Total Time:** 65 seconds
 
 These tableaus follow the standard Dijkstra's procedure, allowing step-by-step verification and understanding of the shortest path calculation in the network.
-```
+
 
 
 [
