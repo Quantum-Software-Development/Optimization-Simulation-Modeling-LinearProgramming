@@ -8,7 +8,7 @@ Applying Dijkstra's Algorithm to the Shortest Path Problem
 **Step 1:** Assign the value 0 to the source node (1) and ∞ (infinity) to all other nodes, as shown in the graph:
 
 
-INSERIR O GRAFO
+<!---- INSERT GRAPH  --->
 
 
 ### Dijkstra's Algorithm – Node Labeling Process
