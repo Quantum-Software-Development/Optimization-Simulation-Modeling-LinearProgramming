@@ -1826,9 +1826,6 @@ After running Solver, you should get a solution like:
   <img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580" width="500"/>
 </p>
 
- <p align="center">
-<img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
-
 <br><br>
 
 ## 1- [Modulo in Random Number Simulations]():
@@ -1839,8 +1836,11 @@ After running Solver, you should get a solution like:
 
 <br>
 
+
+
 <p align="center">
-<img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/176fd74d-5755-4ac0-9b6e-08e6678cf251"/>
+  <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/176fd74d-5755-4ac0-9b6e-08e6678cf251" width="500"/>
+</p>
 
 <br>
 
