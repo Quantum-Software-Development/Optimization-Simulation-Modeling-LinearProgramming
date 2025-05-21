@@ -1814,16 +1814,18 @@ After running Solver, you should get a solution like:
 
 # XIV - [Monte Carlo Simulation and Optimization]():
 
+<br><br>
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
 
 <br><br>
 
-## Modulo in Random Number Simulations
+## 1- [Modulo in Random Number Simulations]():
 
 <br>
 
-### Animated Visualization of the [Remainder from Integer Division Used in Random Number Simulations]().
+### ➢ [Animated Visualization of the Remainder from Integer Division Used in Random Number Simulations]().
 
 <br>
 
