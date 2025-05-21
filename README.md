@@ -1807,11 +1807,12 @@ After running Solver, you should get a solution like:
 
 #### ➣ [Click here]() and access Optimization and Simulation Shortest Path Exercises using Algorithm de DijkstraE, Excel Solver and Python 🐍
 
+### 🚜 Under Construction
 
-<br><br><br><br> 🚜 Under Construction
+<br><br><br><br> 
 
 
-# XIV -  Monte Carlo Simulation and Optimization
+# XIV - [Monte Carlo Simulation and Optimization]():
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
