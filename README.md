@@ -1822,6 +1822,10 @@ After running Solver, you should get a solution like:
 
 <br><br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580" width="500"/>
+</p>
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
 
