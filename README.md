@@ -1821,25 +1821,30 @@ After running Solver, you should get a solution like:
 
 <br><br>
 
-## 1- [Modulo in Random Number Simulations]():
+### 1- [Modulo in Random Number Simulations]():
 
 <br>
 
-### ➢ [Animated Visualization of the Remainder from Integer Division Used in Random Number Simulations]().
+#### ➢ Animated Visualization of the [Remainder from Integer Division]() Used in Random Number Simulations.
 
 <br>
 
 <p align="center">
 <img src="https://github.com/FabianaCampanari/University-Python-Projects/assets/113218619/176fd74d-5755-4ac0-9b6e-08e6678cf251"/>
 
+<br>
 
 The modulo operator (%) returns the remainder of a division. In simulations involving random numbers, it is commonly used to restrict or map large random outputs into a defined range.
 
-### [Why Use Modulo in Random Number Simulations]() ?
+<br>
+
+### 2- [Why Use Modulo in Random Number Simulations]() ?
 
 In simulations, we often need random values within a specific interval — for example, simulating a dice roll (1 to 6) or selecting a random day of the week (0 to 6). Random number generators typically produce large numbers, so the modulo operation helps normalize these into the desired range.
 
-### [Example]():
+<br>
+
+### 3- [Example]():
 
 Imagine your random number generator gives you a number like 247. If you want to simulate a 6-sided dice roll:
 
@@ -1857,9 +1862,11 @@ This maps any large number into the range of weekdays (e.g., 0 = Sunday, 6 = Sat
 
 <br>
 
-### [Summary]():
+### 4- [Summary]():
 
 In simulations, the % operator is a simple and efficient way to control the range of random outputs. It transforms raw random data into usable, context-specific values, essential for realistic and accurate simulation scenarios.
+
+<br>
 
 
 
