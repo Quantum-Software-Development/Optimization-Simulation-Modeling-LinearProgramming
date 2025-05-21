@@ -1549,6 +1549,10 @@ x_{31} = 10, x_{21} = 10, x_{22} = 130, x_{32} = 0\
   
 ### -  $u =$, $v =$.
 
+```latex
+u =$, $v =
+```
+
     
 #### - **New reduced costs**:
    
@@ -1684,7 +1688,9 @@ The **Assignment Problem** aims to allocate *n* tasks to *n* agents (machines, w
 | Task 2  |     1     |     3     |     2     |
 | Task 3  |     5     |     2     |     4     |
 
----
+
+<br>
+
 
 ## Step 1: Set Up the Excel Spreadsheet
 
@@ -1821,11 +1827,11 @@ After running Solver, you should get a solution like:
 
 <br><br>
 
-### 1- [Modulo in Random Number Simulations]():
+## 1- [Modulo in Random Number Simulations]():
 
 <br>
 
-#### ➢ Animated Visualization of the [Remainder from Integer Division]() Used in Random Number Simulations.
+### ➢ Animated Visualization of the [Remainder from Integer Division]() Used in Random Number Simulations.
 
 <br>
 
@@ -1838,13 +1844,13 @@ The modulo operator (%) returns the remainder of a division. In simulations invo
 
 <br>
 
-### 2- [Why Use Modulo in Random Number Simulations]() ?
+## 2- [Why Use Modulo in Random Number Simulations]() ?
 
 In simulations, we often need random values within a specific interval — for example, simulating a dice roll (1 to 6) or selecting a random day of the week (0 to 6). Random number generators typically produce large numbers, so the modulo operation helps normalize these into the desired range.
 
 <br>
 
-### 3- [Example]():
+## 3- [Example]():
 
 Imagine your random number generator gives you a number like 247. If you want to simulate a 6-sided dice roll:
 
@@ -1862,7 +1868,7 @@ This maps any large number into the range of weekdays (e.g., 0 = Sunday, 6 = Sat
 
 <br>
 
-### 4- [Summary]():
+## 4- [Summary]():
 
 In simulations, the % operator is a simple and efficient way to control the range of random outputs. It transforms raw random data into usable, context-specific values, essential for realistic and accurate simulation scenarios.
 
