@@ -1814,7 +1814,7 @@ After running Solver, you should get a solution like:
 # XIV -  Monte Carlo Simulation and Optimization
 
  <p align="center">
-<img src="(https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
+<img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
 
 
 
