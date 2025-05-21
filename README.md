@@ -1850,7 +1850,7 @@ The modulo operator (%) returns the remainder of a division. In simulations invo
 
 ## 2- [Why Use Modulo in Random Number Simulations]() ?
 
-In simulations, we often need random values within a specific interval — for example, simulating a dice roll (1 to 6) or selecting a random day of the week (0 to 6). Random number generators typically produce large numbers, so the modulo operation helps normalize these into the desired range.
+In simulations, we often need random values within a specific interval, for example, simulating a dice roll (1 to 6) or selecting a random day of the week (0 to 6). Random number generators typically produce large numbers, so the modulo operation helps normalize these into the desired range.
 
 <br>
 
@@ -1858,21 +1858,28 @@ In simulations, we often need random values within a specific interval — for e
 
 Imagine your random number generator gives you a number like 247. If you want to simulate a 6-sided dice roll:
 
+
+```pyhton
 dice_roll = (247 % 6) + 1  # Adding 1 to shift range from [0–5] to [1–6]
+```
 
-This ensures the result is always between 1 and 6.
-
-Simulation Use Case:
-
-In a banking simulation, you might simulate customer behavior across 7 days of the week. If a random function returns a number like 123456, you can use:
-
-day_of_week = 123456 % 7  # Result is between 0 and 6
-
-This maps any large number into the range of weekdays (e.g., 0 = Sunday, 6 = Saturday).
+#### **This ensures the result is always [between 1 and 6]()**.
 
 <br>
 
-## 4- [Summary]():
+## 4- [Simulation Use Case]():
+
+In a banking simulation, you might simulate customer behavior across 7 days of the week. If a random function returns a number like 123456, you can use:
+
+```python
+day_of_week = 123456 % 7  # Result is between 0 and 6
+```
+
+####  **This maps any large number [into the range of weekdays]() (e.g., 0 = Sunday, 6 = Saturday)**.
+
+<br>
+
+## 5- [Summary]():
 
 In simulations, the % operator is a simple and efficient way to control the range of random outputs. It transforms raw random data into usable, context-specific values, essential for realistic and accurate simulation scenarios.
 
