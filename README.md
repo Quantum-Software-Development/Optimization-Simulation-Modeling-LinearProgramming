@@ -1816,11 +1816,13 @@ After running Solver, you should get a solution like:
  <p align="center">
 <img src="https://github.com/user-attachments/assets/54f0b665-87df-4cda-b52d-0efa01b33580"/>
 
+<br><br>
+
+## Modulo in Random Number Simulations
+
 <br>
 
- ## Modulo in Random Number Simulations
-
-### Animated Visualization of the Remainder from Integer Division Used in Random Number Simulations.
+### Animated Visualization of the [Remainder from Integer Division Used in Random Number Simulations]().
 
 <br>
 
